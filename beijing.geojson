@@ -4,9 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "奇遇花园",
-        "Wi-Fi Speed": "22 Mbps",
-        "Speedtest Link": "http://www.speedtest.net/my-result/4629928302"
+        "名称": "奇遇花园",
+        "下载速度": "22 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4629928302",
+        "参考价格": "30-40 元",
+        "评论": "网速快，环境不错，咖啡也不错。"
       },
       "geometry": {
         "type": "Point",
