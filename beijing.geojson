@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "奇遇花园",
+        "Wi-Fi Speed": "22 Mbps",
+        "Speedtest Link": "http://www.speedtest.net/my-result/4629928302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.342,
+          39.941
+        ]
+      }
+    }
+  ]
+}
