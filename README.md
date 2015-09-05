@@ -1,10 +1,11 @@
 # Awesome CN Café
 
-那些网速快咖啡好的咖啡馆。
+那些网速快咖啡好的咖啡馆。蓝色 marker 代表网速快，红色代表网速慢。
 
 ## 城市列表
 
-* [北京](beijing.geojson)
+* [北京 (1)](beijing.geojson)
+* [上海 (1)](shanghai.geojson)
 
 ## 贡献
 

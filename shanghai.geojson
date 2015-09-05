@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "猫的天空之城（新天地店）",
+        "下载速度": "2.2 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4638301580",
+        "参考价格": "25-30 元",
+        "评论 (@xhacker)": "共享新天地的免费 Wi-Fi，相当捉急。网速用 XTDStyle_free 测量。丝袜奶茶还不错。",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          31.22
+        ]
+      }
+    }
+  ]
+}
