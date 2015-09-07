@@ -19,6 +19,24 @@
           31.22
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（800秀店）",
+        "下载速度": "2.95 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4643633193",
+        "大杯香草拿铁": "33元",
+        "评论 (@aquarhead)": "其实就在我司楼下, 速度还可以(虽然远远比不上我司就是了www)",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.442949,
+          31.2337428
+        ]
+      }
     }
   ]
 }
