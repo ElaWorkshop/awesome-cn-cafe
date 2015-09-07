@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（南京南站店）",
+        "下载速度": "0.75 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4643048535",
+        "参考价格": "25-30 元",
+        "评论 (@xhacker)": "出北出站口就到。",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.782,
+          31.973
+        ]
+      }
+    }
+  ]
+}
