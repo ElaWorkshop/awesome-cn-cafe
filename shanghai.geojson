@@ -37,6 +37,24 @@
           31.23570
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "delimuses",
+        "下载速度": "3.75 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4652272975",
+        "参考价格": "50-70元",
+        "评论 (@aquarhead)": "也在我司附近, 一般人不会太多所以网速蛮不错的, 有吃有喝只是价格略贵上菜也比较慢",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43645,
+          31.23558
+        ]
+      }
     }
   ]
 }
