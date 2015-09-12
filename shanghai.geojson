@@ -55,6 +55,23 @@
           31.23558
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (CITIC Square)",
+        "下载速度": "1.00 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4657045711",
+        "评论 (@aquarhead)": "地方蛮大的, 有一张长方桌所以感觉挺不错的",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45072,
+          31.22968
+        ]
+      }
     }
   ]
 }
