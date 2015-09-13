@@ -72,6 +72,23 @@
           31.22968
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Wine Connection",
+        "下载速度": "3.61 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4659526554",
+        "评论 (@aquarhead)": "价位合理, 有早午餐正餐酒水齐全, 就在路边上但并不太吵",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43556,
+          31.22401
+        ]
+      }
     }
   ]
 }
