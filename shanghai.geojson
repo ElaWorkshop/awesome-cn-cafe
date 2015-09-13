@@ -90,6 +90,23 @@
           31.22401
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Meo's Coffee",
+        "下载速度": "16.00 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4659481377",
+        "评论 (@ryaneof)": "地理位置很好，顾客很少，比较安静，网速也不错。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5057491,
+          31.2352515
+        ]
+      }
     }
   ]
 }
