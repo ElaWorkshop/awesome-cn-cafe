@@ -107,6 +107,91 @@
           31.2352515
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (Baoshan Road)",
+        "下载速度": "22.00 Mbps",
+        "大杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4673146632",
+        "评论 (@ryaneof)": "宝山路地铁站 1 号口附近，平时顾客不多，星巴克门店中网速不错的一家店。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4755588,
+          31.2529614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Musk Cat Coffee",
+        "下载速度": "78.00 Mbps",
+        "冰拿铁": "38 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4678162578",
+        "评论 (@ryaneof)": "位于陆家嘴西路滨江大道，网速很赞，环境也很赞，周末人不多，坐在江边吹风感觉很好。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497739,
+          31.235245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "SeeSaw Coffee",
+        "下载速度": "11.00 Mbps",
+        "冰拿铁": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4684014931",
+        "评论 (@ryaneof)": "位于芮欧百货五层，店面不大，顾客不多，网速不错。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4473343,
+          31.2226857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Hunting the days (H Coffee)",
+        "下载速度": "58.00 Mbps",
+        "冰拿铁": "28 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4686820709",
+        "评论 (@ryaneof)": "位于晶品六层，环境有些嘈杂，但网速不错。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.447001,
+          31.226006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (Reel F3)",
+        "下载速度": "18.00 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4692220583",
+        "评论 (@ryaneof)": "位于芮欧三层，网速不错，但毕竟是星巴克，比较嘈杂，网络在人多时状况不好。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.447660,
+          31.223556
+        ]
+      }
     }
   ]
 }
