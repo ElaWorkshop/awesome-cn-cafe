@@ -192,6 +192,24 @@
           31.223556
         ]
       }
+    },
+   {
+    "type": "Feature",
+    "properties": {
+     "名称": "Starbucks (碧波路店)",
+     "下载速度": "5.08 Mbps",
+     "浓缩咖啡星杯乐": "30 元",
+     "Speedtest 链接": "http://www.speedtest.net/my-result/4754734588",
+     "评论 (@songzhou21)": "网较差，经常断，人少（周末），但还是较嘈杂。",
+     "marker-color": "#C24740"
+   },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.58083333333334,
+        31.20666666666667
+    ]
     }
+   }
   ]
 }
