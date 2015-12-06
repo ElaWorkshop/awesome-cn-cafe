@@ -166,7 +166,7 @@
         "下载速度": "58.00 Mbps",
         "冰拿铁": "28 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4686820709",
-        "评论 (@ryaneof)": "位于晶品六层，环境有些嘈杂，但网速不错。"
+        "评论 (@ryaneof)": "位于晶品六层，环境有些嘈杂，咖啡非常难喝，但网速不错。"
       },
       "geometry": {
         "type": "Point",
@@ -211,6 +211,57 @@
         "coordinates": [
           121.58083333333334,
           31.20666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "湾里书香 | Harbook+",
+        "下载速度": "30.00 Mbps",
+        "大杯拿铁": "38 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4873748282",
+        "评论 (@ryaneof)": "位于芮欧三层，网速一般，不太稳定，咖啡一般，有许多桌子和书，但是视觉很好，尤其靠窗座位。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.450364,
+          31.224659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (近铁城市广场店)",
+        "下载速度": "22.00 Mbps",
+        "大杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4861082276",
+        "评论 (@ryaneof)": "比较新的店，即使人很多的情况下，网络质量也不错。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.382367,
+          31.232728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Gloria Jean's Coffees (月星环球港店)",
+        "下载速度": "10.00 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4891495073",
+        "评论 (@ryaneof)": "店面不大，咖啡很好，即使人很多的情况下，网络质量也不错。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4140464,
+          31.2290039
         ]
       }
     }
