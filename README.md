@@ -5,7 +5,6 @@
 ## 城市列表
 
 * [北京 (3)](beijing.geojson)
-* [上海 (11)](shanghai.geojson)
 * [上海 (15)](shanghai.geojson)
 * [南京 (2)](nanjing.geojson)
 
