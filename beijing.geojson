@@ -34,6 +34,23 @@
           40.032780
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Esquires Café",
+        "下载速度": "3.18 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4891431411",
+        "参考价格": "30 元",
+        "评论 (@crispgm)": "有电源，网速快，可看王府井街景。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.418826,
+          39.915424
+        ]
+      }
     }
   ]
 }
