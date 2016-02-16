@@ -5,11 +5,11 @@
 ## 城市列表
 
 * [北京 (3)](beijing.geojson)
-* [上海 (15)](shanghai.geojson)
+* [上海 (16)](shanghai.geojson)
 * [南京 (2)](nanjing.geojson)
 
 ### 注意
-请使用`Mapbox`的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度, 在`google map`上通过`What's here`取得的经纬度有些许偏差。
+请使用 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
 
 ## 贡献
 
