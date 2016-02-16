@@ -264,6 +264,24 @@
           31.2290039
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA COFFEE(我格广场店)",
+        "下载速度": "6.00 Mbps",
+        "小杯巧克力": "27 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
+        "评论 (@xavierchow)": "网络质量一般，平日人比较少，周末人太多太闹不建议去。",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4192355,
+          31.239444
+        ]
+      }
     }
   ]
 }
