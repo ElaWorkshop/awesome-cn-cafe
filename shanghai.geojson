@@ -34,7 +34,7 @@
         "type": "Point",
         "coordinates": [
           121.43936,
-          31.23570
+          31.2357
         ]
       }
     },
@@ -98,7 +98,8 @@
         "下载速度": "16.00 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4659481377",
-        "评论 (@ryaneof)": "地理位置很好，顾客很少，比较安静，网速也不错。"
+        "评论 (@ryaneof)": "地理位置很好，顾客很少，比较安静，网速也不错。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +116,8 @@
         "下载速度": "22.00 Mbps",
         "大杯拿铁": "30 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4673146632",
-        "评论 (@ryaneof)": "宝山路地铁站 1 号口附近，平时顾客不多，星巴克门店中网速不错的一家店。"
+        "评论 (@ryaneof)": "宝山路地铁站 1 号口附近，平时顾客不多，星巴克门店中网速不错的一家店。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +134,8 @@
         "下载速度": "78.00 Mbps",
         "冰拿铁": "38 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4678162578",
-        "评论 (@ryaneof)": "位于陆家嘴西路滨江大道，网速很赞，环境也很赞，周末人不多，坐在江边吹风感觉很好。"
+        "评论 (@ryaneof)": "位于陆家嘴西路滨江大道，网速很赞，环境也很赞，周末人不多，坐在江边吹风感觉很好。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -149,7 +152,8 @@
         "下载速度": "11.00 Mbps",
         "冰拿铁": "32 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4684014931",
-        "评论 (@ryaneof)": "位于芮欧百货五层，店面不大，顾客不多，网速不错。"
+        "评论 (@ryaneof)": "位于芮欧百货五层，店面不大，顾客不多，网速不错。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +170,8 @@
         "下载速度": "58.00 Mbps",
         "冰拿铁": "28 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4686820709",
-        "评论 (@ryaneof)": "位于晶品六层，环境有些嘈杂，咖啡非常难喝，但网速不错。"
+        "评论 (@ryaneof)": "位于晶品六层，环境有些嘈杂，咖啡非常难喝，但网速不错。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -183,12 +188,13 @@
         "下载速度": "18.00 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4692220583",
-        "评论 (@ryaneof)": "位于芮欧三层，网速不错，但毕竟是星巴克，比较嘈杂，网络在人多时状况不好。"
+        "评论 (@ryaneof)": "位于芮欧三层，网速不错，但毕竟是星巴克，比较嘈杂，网络在人多时状况不好。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.447660,
+          121.44766,
           31.223556
         ]
       }
@@ -197,19 +203,22 @@
       "type": "Feature",
       "properties": {
         "名称": "Starbucks (碧波路店)",
-        "下载速度": ["5.08 Mbps", "10.74 Mbps"],
+        "下载速度": [
+          "5.08 Mbps",
+          "10.74 Mbps"
+        ],
         "浓缩咖啡星杯乐": "30 元",
         "大杯拿铁": "35 元",
         "Speedtest 链接 (@songzhou21)": "http://www.speedtest.net/my-result/4754734588",
         "Speedtest 链接 (@quietshu)": "http://www.speedtest.net/my-result/i/1429903361",
         "评论 (@songzhou21)": "网较差，经常断，人少（周末），但还是较嘈杂。",
         "评论 (@quietshu)": "网还好（*用手机测速……），地铁站附近，有轨电车起点站门口，周边人流量大，不过晚上店里人较少。",
-        "marker-color": "#C24740"
+        "marker-color": "#F3AE1A"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.58083333333334,
+          121.58083333333335,
           31.20666666666667
         ]
       }
@@ -221,7 +230,8 @@
         "下载速度": "30.00 Mbps",
         "大杯拿铁": "38 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4873748282",
-        "评论 (@ryaneof)": "位于芮欧三层，网速一般，不太稳定，咖啡一般，有许多桌子和书，但是视觉很好，尤其靠窗座位。"
+        "评论 (@ryaneof)": "位于芮欧三层，网速一般，不太稳定，咖啡一般，有许多桌子和书，但是视觉很好，尤其靠窗座位。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +248,8 @@
         "下载速度": "22.00 Mbps",
         "大杯拿铁": "30 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4861082276",
-        "评论 (@ryaneof)": "比较新的店，即使人很多的情况下，网络质量也不错。"
+        "评论 (@ryaneof)": "比较新的店，即使人很多的情况下，网络质量也不错。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +266,8 @@
         "下载速度": "10.00 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4891495073",
-        "评论 (@ryaneof)": "店面不大，咖啡很好，即使人很多的情况下，网络质量也不错。"
+        "评论 (@ryaneof)": "店面不大，咖啡很好，即使人很多的情况下，网络质量也不错。",
+        "marker-color": "#50C240"
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +285,7 @@
         "小杯巧克力": "27 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
         "评论 (@xavierchow)": "网络质量一般，平日人比较少，周末人太多太闹不建议去。",
-        "marker-color": "#C24740"
+        "marker-color": "#F3AE1A"
       },
       "geometry": {
         "type": "Point",
