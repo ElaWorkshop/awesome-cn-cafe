@@ -35,6 +35,7 @@ for (let f of target.features) {
     return parseFloat(speedStr);
   }).reduce((a, b) => { return a + b });
   let avg = sum / downloadSpeed.length;
+  f.properties['marker-symbole'] = 'cafe';
   if (avg < 5) {
     f.properties['marker-color'] = RED;
   } else if (avg < 10) {
