@@ -10,7 +10,8 @@
         "参考价格": "30-40 元",
         "评论 (@xhacker)": "有电源，网速快，环境不错，咖啡也不错。",
         "marker-color": "#50C240",
-        "marker-symbole": "cafe"
+        "marker-symbole": "cafe",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +30,8 @@
         "参考价格": "25-40 元",
         "评论 (@mckelvin)": "有电源，网速快，环境不错，人不多。",
         "marker-color": "#50C240",
-        "marker-symbole": "cafe"
+        "marker-symbole": "cafe",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +50,8 @@
         "参考价格": "30 元",
         "评论 (@crispgm)": "有电源，网速快，可看王府井街景。",
         "marker-color": "#C24740",
-        "marker-symbole": "cafe"
+        "marker-symbole": "cafe",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
