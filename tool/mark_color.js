@@ -45,5 +45,5 @@ for (let f of target.features) {
   }
 }
 fs.unlinkSync(tempFile);
-fs.writeFileSync(sourceFile, JSON.stringify(target, null, 2));
+fs.writeFileSync(sourceFile, JSON.stringify(target, null, 2) + '\n');
 console.log(`Done with ${target.features.length} records!`);
