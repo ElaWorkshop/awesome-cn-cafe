@@ -8,7 +8,9 @@
         "下载速度": "0.75 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4643048535",
         "参考价格": "25-30 元",
-        "评论 (@xhacker)": "出北出站口就到。"
+        "评论 (@xhacker)": "出北出站口就到。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -25,12 +27,14 @@
         "下载速度": "5.0 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4643486860",
         "参考价格": "30-40 元",
-        "评论 (@xhacker)": "人挺少的，网速还不错。"
+        "评论 (@xhacker)": "人挺少的，网速还不错。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.780,
+          118.78,
           32.042
         ]
       }
