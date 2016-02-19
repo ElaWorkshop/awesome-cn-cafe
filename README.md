@@ -2,11 +2,12 @@
 
 那些网速快咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
 
-标记  | 下载速度
-- | -
-<img src="resources/markers/slow.png" width="50" alt="Slow marker"> | 0 ~ 5 Mbps
-<img src="resources/markers/moderate.png" width="50" alt="Moderate marker"> | 5 ~ 10 Mbps
-<img src="resources/markers/fast.png" width="50" alt="Fast marker"> | 10+ Mbps
+<table>
+<tr><th>标记</th><th>下载速度</th></tr>
+<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td></tr>
+<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td></tr>
+<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td></tr>
+</table>
 
 ## 城市列表
 
