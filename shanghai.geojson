@@ -310,6 +310,25 @@
           31.239444
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "咖咖奥咖啡厅(Kacao 田林店)",
+        "下载速度": "10.53 Mbps",
+        "榛果拿铁": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
+        "评论 (@xavierchow)": "环境相当不错，空间也很大，唯一不好的2楼不是禁烟的。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40790581703187,
+          31.171675667662882
+        ]
+      }
     }
   ]
 }
