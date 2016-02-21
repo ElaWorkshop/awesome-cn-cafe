@@ -329,6 +329,25 @@
           31.171675667662882
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Caffebene(悦达889店)",
+        "下载速度": "56.33 Mbps",
+        "蜂蜜姜茶": "28 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5104202266",
+        "评论 (@xavierchow)": "网速非常快，咖啡和点心不好吃，室内位置较少,室外空间挺大，就是冬天如果没太阳有点冷。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42351627349854,
+          31.231233885488006
+        ]
+      }
     }
   ]
 }
