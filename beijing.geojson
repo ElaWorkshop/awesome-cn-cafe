@@ -57,6 +57,25 @@
           39.915424
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克 (四元桥店)",
+        "下载速度": "13 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5106521098",
+        "参考价格": "30 元",
+        "评论 (@tianyuf)": "有电源，网速快，服务好。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4509423,
+          39.978085
+        ]
+      }
     }
   ]
 }
