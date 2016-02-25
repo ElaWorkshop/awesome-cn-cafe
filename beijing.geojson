@@ -76,6 +76,25 @@
           39.978085
         ]
       }
-    }
+    },
+    {
+    	"type": "Feature",
+      "properties": {
+      	"名称": "雕刻时光 Sculpting In Time",
+      	"下载速度": "3.03 Mbps",
+      	"参考价格": "yourPrice",
+      	"Speedtest 链接": "http://www.speedtest.net/my-result/5115403108",
+      	"评论 (@yourname)": "Your comment",
+      	"marker-color": "#C24740",
+      	"marker-symbol": "cafe"
+      },
+      "geometry": {
+      	"type": "Point",
+        "coordinates": [
+            39.997405,
+            116.472347
+            ]
+        }
+        }
   ]
 }
