@@ -12,7 +12,7 @@
 ## 城市列表
 
 * [北京 (4)](beijing.geojson)
-* [上海 (18)](shanghai.geojson)
+* [上海 (19)](shanghai.geojson)
 * [南京 (2)](nanjing.geojson)
 
 ## 贡献
@@ -21,7 +21,7 @@
 
 ### 注意
 
-请使用 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
+请使用 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)或者[百度地图拾取座标系统](http://api.map.baidu.com/lbsapi/getpoint/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
 
 ## 授权
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)

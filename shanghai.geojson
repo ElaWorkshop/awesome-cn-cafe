@@ -213,7 +213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Starbucks (碧波路店)",
+        "名称": "Starbucks（碧波路店）",
         "下载速度": [
           "5.08 Mbps",
           "10.74 Mbps"
@@ -257,7 +257,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Starbucks (近铁城市广场店)",
+        "名称": "Starbucks（近铁城市广场店）",
         "下载速度": "22.00 Mbps",
         "大杯拿铁": "30 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4861082276",
@@ -276,7 +276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Gloria Jean's Coffees (月星环球港店)",
+        "名称": "Gloria Jean's Coffees（月星环球港店）",
         "下载速度": "10.00 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4891495073",
@@ -295,7 +295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "COSTA COFFEE (我格广场店)",
+        "名称": "COSTA COFFEE（我格广场店）",
         "下载速度": "6.00 Mbps",
         "小杯巧克力": "27 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
@@ -314,7 +314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "咖咖奥咖啡厅(Kacao 田林店)",
+        "名称": "咖咖奥咖啡厅（Kacao 田林店）",
         "下载速度": "10.53 Mbps",
         "榛果拿铁": "32 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
@@ -333,7 +333,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Caffebene(悦达889店)",
+        "名称": "Caffebene（悦达889店）",
         "下载速度": "56.33 Mbps",
         "蜂蜜姜茶": "28 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5104202266",
@@ -346,6 +346,24 @@
         "coordinates": [
           121.42351627349854,
           31.231233885488006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "HOLLYS COFFEE（仲盛世界商城）",
+        "下载速度": "1.54 Mbps",
+        "大杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5115524542",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.393769,
+          31.112581
         ]
       }
     }
