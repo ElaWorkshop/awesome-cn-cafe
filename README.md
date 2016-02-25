@@ -22,6 +22,7 @@
 ### 注意
 
 请使用 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
+如果你正在咖啡馆并且可以翻墙，可以使用 [whereami](https://xavierchow.github.io/whereami/) 来获得当前经纬度。
 
 ## 授权
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)
