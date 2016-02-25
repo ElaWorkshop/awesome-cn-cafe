@@ -348,6 +348,24 @@
           31.231233885488006
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "HOLLYS COFFEE（仲盛世界商城）",
+        "下载速度": "1.54 Mbps",
+        "大杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5115524542",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.393769,
+          31.112581
+        ]
+      }
     }
   ]
 }
