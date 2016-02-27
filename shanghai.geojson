@@ -268,8 +268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.382367,
-          31.232728
+          121.377178,
+          31.235087
         ]
       }
     },
@@ -364,6 +364,25 @@
         "coordinates": [
           121.38255,
           31.10840
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "咖咖奥咖啡厅（Kacao 圣诺亚店）",
+        "下载速度": "7.95 Mbps",
+        "白巧克力咖啡摩卡": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5121292721",
+        "评论 (@xavierchow)": "Kacao的环境一如既往的好，店在汤连得温泉馆边上，不知道是不是新开的原因有点装修的油漆味:(",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.371751,
+          31.233513
         ]
       }
     }
