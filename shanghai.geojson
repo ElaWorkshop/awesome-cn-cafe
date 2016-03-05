@@ -385,6 +385,63 @@
           31.233513
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Staytion Coffee & Bake",
+        "下载速度": "24.00 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/4986683376",
+        "评论 (@ryaneof)": "位于中信广场，环境很好，网络不错，咖啡一般。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47938668727875,
+          31.249745267827233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Pacific Coffee (Global Harbor)",
+        "下载速度": "7.00 Mbps",
+        "大杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5041676642",
+        "评论 (@ryaneof)": "位于环球港四层，太平洋咖啡大家都懂的，以难喝出名。正因为这样在周六高峰时间只有它家有座位。。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40750885009766,
+          31.23401357623354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "CAFÉ & BAR PRONTO",
+        "下载速度": "18.00 Mbps",
+        "大杯拿铁": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5138579056",
+        "评论 (@ryaneof)": "位于日月光一层，环境不错，店铺面积不小，顾客数量多，会比较吵，网络比较稳定，咖啡杯子很大，喜欢大杯拿铁可以考虑再加一份浓缩。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46427512168884,
+          31.208653896329757
+        ]
+      }
     }
   ]
 }
