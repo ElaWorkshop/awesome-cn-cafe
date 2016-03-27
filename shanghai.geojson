@@ -461,6 +461,25 @@
           31.23474747433544
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "SeeSaw Coffee (淮海 755)",
+        "下载速度": "19.00 Mbps",
+        "大杯拿铁": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1593392666",
+        "评论 (@ryaneof)": "位于淮海中路，店面不大，周末人多，咖啡一如其他连锁店一样好喝。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45970463752745,
+          31.220784085547034
+        ]
+      }
     }
   ]
 }
