@@ -442,6 +442,26 @@
           31.208653896329757
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (Imago)",
+        "下载速度": "15.86 Mbps",
+        "榛果风味拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5206305714",
+        "评论 (@xavierchow)": "Starbucks的咖啡就不评论了,店内位置很少, 有部分座位在商场大厅环境较嘈杂",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.418731,
+          31.239784
+        ]
+      }
     }
+
   ]
 }
