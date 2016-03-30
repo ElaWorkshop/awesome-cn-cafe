@@ -9,7 +9,7 @@
         "Speedtest 链接": "http://www.speedtest.net/my-result/5208990021",
         "参考价格": "27-45 元",
         "热拿铁": "27元",
-        "评论 (@xhacker)": "位置有点小，网速一般",
+        "评论 (@lvwzhen)": "位置有点小，网速一般",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
@@ -18,6 +18,26 @@
         "coordinates": [
           114.392807,
           30.509323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "wow cafe",
+        "下载速度": "10.27 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/52094459141",
+        "参考价格": "12-45 元",
+        "热拿铁": "12元",
+        "评论 (@lvwzhen)": "测试网速很快，实际速度不稳定",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.402027,
+          30.504570
         ]
       }
     }
