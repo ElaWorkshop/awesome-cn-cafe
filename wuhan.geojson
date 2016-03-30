@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（光谷国际广场店）",
+        "下载速度": "3.87 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5208990021",
+        "参考价格": "27-45 元",
+        "热拿铁": "27元",
+        "评论 (@xhacker)": "位置有点小，网速一般",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.392807,
+          30.509323
+        ]
+      }
+    }
+  ]
+}
