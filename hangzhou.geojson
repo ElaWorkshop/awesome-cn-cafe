@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "贝塔朋友@当堂咖啡馆",
+        "下载速度": "2.00 Mbps",
+        "上传速度": "1.95 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5220542783",
+        "参考价格": "27-45 元",
+        "拿铁": "27元",
+        "冰咖啡": "25元",
+        "下午茶套餐": "28/35元",
+        "评论 (@Du)": "店比较空，网速没有想象中的快，且并没有自带梯子",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.286697789121206,
+          120.11204481124877
+        ]
+      }
+    },
+  ]
+}
