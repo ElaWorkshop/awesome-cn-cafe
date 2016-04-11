@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "More Cafe",
+        "下载速度": "10.75 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5241643963",
+        "参考价格": "30-40 元",
+        "美式咖啡": "28元",
+        "评论 (@RYOHOI)": "世界之窗，深南大道边上。欧洲小镇园区内，小桥流水，侧耳倾听蛙鸣。桌子不多，是家别致的小店。有少量露天位子。",
+        "marker-color": "#54BF47",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.967813,
+          22.538492
+        ]
+      }
+    }
+  ]
+}
