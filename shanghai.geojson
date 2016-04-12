@@ -363,7 +363,7 @@
         "type": "Point",
         "coordinates": [
           121.38255,
-          31.10840
+          31.1084
         ]
       }
     },
@@ -461,7 +461,25 @@
           31.239784
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (美罗城)",
+        "下载速度": "76.11 Mbps",
+        "中杯拿铁": "27 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5244519566",
+        "评论 (@xavierchow)": "至今为止我碰到的最好网速的星巴克，缺点就是环境比较闹，毕竟是黄金地段。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.434838,
+          31.196132
+        ]
+      }
     }
-
   ]
 }
