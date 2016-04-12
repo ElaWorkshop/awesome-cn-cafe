@@ -9,11 +9,16 @@
 <tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td></tr>
 </table>
 
+色值备注：
+- 慢：#BF4743
+- 中：#F0AC31
+- 快：#54BF47
+
 ## 城市列表
 
 * [北京 (4)](beijing.geojson)
 * [上海 (24)](shanghai.geojson)
-* [深圳 (1)](shenzhen.geojson)
+* [深圳 (2)](shenzhen.geojson)
 * [南京 (3)](nanjing.geojson)
 * [武汉 (2)](wuhan.geojson)
 * [杭州 (1)](hangzhou.geojson)
