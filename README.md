@@ -18,7 +18,7 @@
 * [武汉 (2)](wuhan.geojson)
 * [杭州 (2)](hangzhou.geojson)
 * [广州 (1)](guangzhou.geojson)
-* [深圳 (2)](shenzhen.geojson)
+* [深圳 (3)](shenzhen.geojson)
 
 ## 贡献
 
