@@ -40,6 +40,26 @@
           22.544670
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克",
+        "下载速度": "2.12 Mbps",
+        "Speedtest 链接": "http://www.speedtest.cn/ip/218.18.171.*/AG_OVn6wQW99QAHmvstXDfVjO1wi4lSU",
+        "参考价格": "30-40 元",
+        "焦糖玛奇朵": "31元（中杯）",
+        "评论 (@RYOHOI)": "人流量少，厕所干净，位子充足。门外有小花园，绿化不错。在欢乐颂商场楼下，用餐方便。",
+        "marker-color": "#BF4743",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5171580000,
+          113.9432580000
+        ]
+      }
     }
   ]
 }
