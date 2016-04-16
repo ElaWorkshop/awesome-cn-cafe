@@ -499,6 +499,63 @@
           31.19911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa (Global Harbor)",
+        "下载速度": "12.00 Mbps",
+        "大杯拿铁": "34 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1572918665",
+        "评论 (@ryaneof)": "位于环球港 B1 层，环境还好，客流量不大。他家咖啡一直不错。这家店网络质量最近变好了一点，并且才发现还有靠近商场停车场的露天座位。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40785217285155,
+          31.23474747433544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "SeeSaw Coffee (淮海 755)",
+        "下载速度": "19.00 Mbps",
+        "大杯拿铁": "32 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1593392666",
+        "评论 (@ryaneof)": "位于淮海中路，店面不大，周末人多，咖啡一如其他连锁店一样好喝。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45970463752745,
+          31.220784085547034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa (九六广场)",
+        "下载速度": "2.00 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "www.speedtest.net/my-result/i/1617859652",
+        "评论 (@ryaneof)": "位于九六广场一层，座位比较多，周末环境嘈杂，网速很慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52026891708374,
+          31.229371538681537
+        ]
+      }
     }
   ]
 }
