@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "班克咖啡",
+        "下载速度": "8.51 Mbps",
+        "上传速度": "0.6 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5243998080",
+        "参考价格": "30-50 元",
+        "拿铁": "33元",
+        "冰咖啡": "25元",
+        "下午茶套餐": "无",
+        "评论 (@mshhmzh)": "自家烘焙咖啡店，主打精品咖啡。网络一般，平时人比较少",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.320205,
+          23.131245
+        ]
+      }
+    }
+  ]
+}

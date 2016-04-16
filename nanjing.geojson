@@ -38,6 +38,25 @@
           32.042
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "The Cub",
+        "下载速度": "13 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5220780633",
+        "参考价格": "20-40 元",
+        "评论 (@61)": "很简洁的咖啡馆，网速很快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.772,
+          32.052
+        ]
+      }
     }
   ]
 }
