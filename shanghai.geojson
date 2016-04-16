@@ -480,6 +480,25 @@
           31.196132
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (中山万博国际中心)",
+        "下载速度": "4.15 Mbps",
+        "中杯拿铁": "27 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5252949393",
+        "评论 (@xavierchow)": "网速很一般，非常奇怪大叔大妈好多-_-bb",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.418313,
+          31.19911
+        ]
+      }
     }
   ]
 }
