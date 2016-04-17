@@ -24,5 +24,27 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "芸台书舍",
+        "下载速度": "1.48 Mbps",
+        "上传速度": "1.59 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5257166271",
+        "参考价格": "38 元",
+        "卡布奇诺小杯": "37元",
+        "苏打水": "25元",
+        "评论 (@Du)": "座位有插座，WiFi速度还行，书店所在的娃哈哈未来城有点冷清，所以比起闹市区来这个店很安静，也不用怕来得晚没有座位。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3120.203970, 
+          30.241572
+        ]
+      }
+    }
   ]
 }
