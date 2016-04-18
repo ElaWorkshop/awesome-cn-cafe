@@ -8,7 +8,11 @@ const RED = '#C24740';
 const YELLOW = '#F3AE1A';
 const GREEN = '#50C240';
 
-const cities = ['beijing', 'shanghai', 'nanjing', 'wuhan', 'hangzhou', 'guangzhou', 'shenzhen'];
+const cities = fs.readdirSync('./').filter(function (filename) {
+  return filename.endsWith('.geojson');
+}).map(function (filename) {
+  return filename.substring(0, filename.length - '.geojson'.length);
+});
 
 const setMarkerSymbol = (feature) => {
   feature.properties['marker-symbol'] || (feature.properties['marker-symbol'] = 'cafe');
