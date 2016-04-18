@@ -41,7 +41,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.203970, 
+          120.20397,
           30.241572
         ]
       }
@@ -56,7 +56,7 @@
         "参考价格": "30 - 50 元",
         "拿铁": "30元",
         "评论 (@61)": "店隐蔽在树林里，比较难找，人比较少环境不错",
-        "marker-color": "#54BF47",
+        "marker-color": "#50C240",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -76,7 +76,7 @@
         "Speedtest 链接": "http://www.speedtest.net/my-result/5260003831",
         "参考价格": "30 - 50 元",
         "评论 (@61)": "蘑菇街楼下，位置多",
-        "marker-color": "#54BF47",
+        "marker-color": "#50C240",
         "marker-symbol": "cafe"
       },
       "geometry": {

@@ -13,5 +13,5 @@ Green  | #50C240 | 10+ Mbps
 ## How to run
 
 ```shell
-node tool/build_marker.js
+node tools/build_marker.js
 ```
