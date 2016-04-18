@@ -60,6 +60,26 @@
           22.5410520000
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "GOOCOFFEE · 谷咖",
+        "下载速度": "64.68 Mbps",
+        "Speedtest 链接": "http://www.speedtest.cn/ip/183.37.178.*/h4Em462HVo3fN55FrxmV1Q",
+        "参考价格": "20-30 元",
+        "时令果汁": "28 元",
+        "评论 (@RYOHOI)": "显而易见网速很快。因为周边都是写字楼，上班时间人并不多。位子不多，七八张小方桌。一整面书架零零散散地放了些书。位子都靠落地玻璃墙，采光很好。Last Word: 咖啡口味一般。",
+        "marker-color": "#54BF47",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9232690000,
+          22.4977090000
+        ]
+      }
     }
   ]
 }
