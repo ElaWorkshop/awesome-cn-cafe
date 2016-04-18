@@ -44,6 +44,26 @@
           30.282694
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Zoo Coffee",
+        "下载速度": "14.37 Mbps",
+        "上传速度": "7.16 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5260003831",
+        "参考价格": "30 - 50 元",
+        "评论 (@61)": "蘑菇街楼下，位置多",
+        "marker-color": "#54BF47",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.096551,
+          30.274977
+        ]
+      }
     }
   ]
 }
