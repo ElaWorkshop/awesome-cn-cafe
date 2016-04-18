@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "More Cafe",
+        "下载速度": "10.75 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5241643963",
+        "参考价格": "30-40 元",
+        "美式咖啡": "28元",
+        "评论 (@RYOHOI)": "世界之窗，深南大道边上。欧洲小镇园区内，小桥流水，侧耳倾听蛙鸣。桌子不多，是家别致的小店。有少量露天位子。",
+        "marker-color": "#54BF47",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.967813,
+          22.538492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克",
+        "下载速度": "4.44 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5243762474",
+        "参考价格": "30-40 元",
+        "焦糖玛奇朵": "31元（中杯）",
+        "评论 (@RYOHOI)": "店内宽敞，位子充足，有大长木桌。室外可抽烟，夏天坐在人工喷泉边上时感凉风。上厕所很方便。硬伤：WiFi 太慢；解决方法：不用店内 WiFi，连 eluohu 都会更快。另：这一代星巴克特别多，方圆一公里内约十余家。",
+        "marker-color": "#BF4743",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.105812, 
+          22.544670
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克",
+        "下载速度": "2.12 Mbps",
+        "Speedtest 链接": "http://www.speedtest.cn/ip/218.18.171.*/AG_OVn6wQW99QAHmvstXDfVjO1wi4lSU",
+        "参考价格": "30-40 元",
+        "焦糖玛奇朵": "31元（中杯）",
+        "评论 (@RYOHOI)": "人流量少，厕所干净，位子充足。门外有小花园，绿化不错。在欢乐颂商场楼下，用餐方便。",
+        "marker-color": "#BF4743",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9265610000,
+          22.5410520000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "GOOCOFFEE · 谷咖",
+        "下载速度": "64.68 Mbps",
+        "Speedtest 链接": "http://www.speedtest.cn/ip/183.37.178.*/h4Em462HVo3fN55FrxmV1Q",
+        "参考价格": "20-30 元",
+        "时令果汁": "28 元",
+        "评论 (@RYOHOI)": "显而易见网速很快。因为周边都是写字楼，上班时间人并不多。位子不多，七八张小方桌。一整面书架零零散散地放了些书。位子都靠落地玻璃墙，采光很好。Last Word: 咖啡口味一般。",
+        "marker-color": "#54BF47",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9232690000,
+          22.4977090000
+        ]
+      }
+    }
+  ]
+}

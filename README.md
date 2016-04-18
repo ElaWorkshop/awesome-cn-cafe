@@ -3,11 +3,12 @@
 那些网速快咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
 
 <table>
-<tr><th>标记</th><th>下载速度</th></tr>
-<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td></tr>
-<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td></tr>
-<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td></tr>
+<tr><th>标记</th><th>下载速度</th><th>色值</th></tr>
+<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td><td>#BF4743</td></tr>
+<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td><td>#F0AC31</td></tr>
+<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td><td>#54BF47</td></tr>
 </table>
+
 
 ## 城市列表
 
@@ -17,6 +18,7 @@
 * [武汉 (2)](wuhan.geojson)
 * [杭州 (2)](hangzhou.geojson)
 * [广州 (1)](guangzhou.geojson)
+* [深圳 (3)](shenzhen.geojson)
 
 ## 贡献
 
