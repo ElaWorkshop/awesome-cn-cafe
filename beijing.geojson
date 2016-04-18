@@ -78,23 +78,23 @@
       }
     },
     {
-    	"type": "Feature",
+      "type": "Feature",
       "properties": {
-      	"名称": "雕刻时光 Sculpting In Time",
-      	"下载速度": "3.03 Mbps",
-      	"参考价格": "40 元",
-      	"Speedtest 链接": "http://www.speedtest.net/my-result/5115403108",
-      	"评论 (@tianyuf)": "环境好，服务好。",
-      	"marker-color": "#C24740",
-      	"marker-symbol": "cafe"
+        "名称": "雕刻时光 Sculpting In Time",
+        "下载速度": "3.03 Mbps",
+        "参考价格": "40 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5115403108",
+        "评论 (@tianyuf)": "环境好，服务好。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
-      	"type": "Point",
+        "type": "Point",
         "coordinates": [
-            116.472347,
-            39.997405
-            ]
-        }
+          116.472347,
+          39.997405
+        ]
+      }
     }
   ]
 }

@@ -8,7 +8,7 @@ const RED = '#C24740';
 const YELLOW = '#F3AE1A';
 const GREEN = '#50C240';
 
-const cities = ['shanghai', 'beijing', 'nanjing'];
+const cities = ['beijing', 'shanghai', 'nanjing', 'wuhan', 'hangzhou', 'guangzhou'];
 
 const setMarkerSymbol = (feature) => {
   feature.properties['marker-symbol'] || (feature.properties['marker-symbol'] = 'cafe');
