@@ -2,7 +2,7 @@
 This script automatically does houskeeping work:
 
 * Sets the `marker-color` for places by the network speed
-* Update README.md
+* [TODO] Updates README.md
 
 Color  | Hex     | Speed
 ------ | ------- | -----
