@@ -19,6 +19,11 @@
 * [武汉 (2)](wuhan.geojson)
 * [杭州 (1)](hangzhou.geojson)
 
+## 获取经纬度及网速
+
+* [Speedtest](http://www.speedtest.cn/)：Speedtest 中国站，更容易访问。
+* [GPSSPG](http://www.gpsspg.com/maps.htm)：输入店名即可获取经纬度数据。
+
 ## 贡献
 
 欢迎发 pull request 添加你去过的咖啡馆。请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
