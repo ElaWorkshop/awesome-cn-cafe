@@ -86,6 +86,26 @@
           30.274977
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "云门书屋",
+        "下载速度": "9.78 Mbps",
+        "上传速度": "5.53 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5267002745",
+        "参考价格": "30 - 50 元",
+        "评论 (@61)": "浙大紫金港校区边上，人比较少",
+        "marker-color": "#F0AC31",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.079322,
+          30.312511
+        ]
+      }
     }
   ]
 }
