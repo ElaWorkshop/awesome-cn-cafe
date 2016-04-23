@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.286697789121206,
-          120.11204481124877
+          120.11204481124877,
+          30.286697789121206
         ]
       }
     },
@@ -41,8 +41,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3120.203970, 
+          120.20397,
           30.241572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "薄荷咖啡",
+        "下载速度": "34.53 Mbps",
+        "上传速度": "8.76 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5259475408",
+        "参考价格": "30 - 50 元",
+        "拿铁": "30元",
+        "评论 (@61)": "店隐蔽在树林里，比较难找，人比较少环境不错",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.117011,
+          30.282694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Zoo Coffee",
+        "下载速度": "14.37 Mbps",
+        "上传速度": "7.16 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5260003831",
+        "参考价格": "30 - 50 元",
+        "评论 (@61)": "蘑菇街楼下，位置多",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.096551,
+          30.274977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "云门书屋",
+        "下载速度": "9.78 Mbps",
+        "上传速度": "5.53 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5267002745",
+        "参考价格": "30 - 50 元",
+        "评论 (@61)": "浙大紫金港校区边上，人比较少",
+        "marker-color": "#F0AC31",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.079322,
+          30.312511
         ]
       }
     },
@@ -57,11 +118,11 @@
         "卡布奇诺": "30元",
         "薄荷盆栽奶茶": "28元",
         "双人牛排套餐": "128元",
-        "评论 (@Du)": "靠墙座位有插座，WiFi速度是至今为止最快的（然而网页打开速度一般），价格合适，环境安静，供应餐食可以顺便解决午饭",
+        "评论 (@Du)": "靠墙座位有插座，有WiFi，服务态度不错，价格合适，环境安静，供应餐食可以顺便解决午饭",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
-      "geometry": {
+      "geometry":{
         "type": "Point",
         "coordinates": [
           120.211514, 

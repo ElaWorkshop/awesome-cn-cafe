@@ -1,5 +1,8 @@
 ## Purpose
-This script automatically sets the `marker-color` for places by the network speed.
+This script automatically does houskeeping work:
+
+* Sets the `marker-color` for places by the network speed
+* [TODO] Updates README.md
 
 Color  | Hex     | Speed
 ------ | ------- | -----
@@ -13,5 +16,5 @@ Green  | #50C240 | 10+ Mbps
 ## How to run
 
 ```shell
-node tool/build_marker.js
+node tools/housepeeker.js
 ```
