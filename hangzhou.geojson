@@ -125,10 +125,30 @@
       "geometry":{
         "type": "Point",
         "coordinates": [
-          120.211514, 
+          120.211514,
           30.212580
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Teresa's",
+        "下载速度": "7.0 Mbps",
+        "上传速度": "5.15 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5276933310",
+        "参考价格": "35 - 50 元",
+        "评论 (@61)": "浙大玉泉校区北门附近，人比较少，沙发舒服",
+        "marker-color": "#F0AC31",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.118611,
+          30.272825
+        ]
+      }
+    },
   ]
 }
