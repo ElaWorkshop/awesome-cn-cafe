@@ -556,6 +556,25 @@
           31.229371538681537
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (漕河泾店)",
+        "下载速度": "1.01 Mbps",
+        "中杯拿铁": "27 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5276464409",
+        "评论 (@xavierchow)": "位于漕河泾创新大厦底楼,楼上是星巴克总部,算是星巴克大本营了网速居然这么慢...",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.396629,
+          31.173246
+        ]
+      }
     }
   ]
 }

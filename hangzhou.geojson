@@ -96,7 +96,7 @@
         "Speedtest 链接": "http://www.speedtest.net/my-result/5267002745",
         "参考价格": "30 - 50 元",
         "评论 (@61)": "浙大紫金港校区边上，人比较少",
-        "marker-color": "#F0AC31",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -122,11 +122,11 @@
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
-      "geometry":{
+      "geometry": {
         "type": "Point",
         "coordinates": [
           120.211514,
-          30.212580
+          30.21258
         ]
       }
     },
@@ -139,7 +139,7 @@
         "Speedtest 链接": "http://www.speedtest.net/my-result/5276933310",
         "参考价格": "35 - 50 元",
         "评论 (@61)": "浙大玉泉校区北门附近，人比较少，沙发舒服",
-        "marker-color": "#F0AC31",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
