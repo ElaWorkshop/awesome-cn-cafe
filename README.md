@@ -4,9 +4,9 @@
 
 <table>
 <tr><th>标记</th><th>下载速度</th><th>色值</th></tr>
-<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td><td>#BF4743</td></tr>
-<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td><td>#F0AC31</td></tr>
-<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td><td>#54BF47</td></tr>
+<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td><td>#C24740</td></tr>
+<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td><td>#F3AE1A</td></tr>
+<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td><td>#50C240</td></tr>
 </table>
 
 
