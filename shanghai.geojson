@@ -594,6 +594,25 @@
           31.226492
         ]
       }
+    }，
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "AUNN CAFE &CO",
+        "下载速度": "5.76 Mbps",
+        "大杯拿铁": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5305144009",
+        "评论 (@z4rd)": "位于黄金地段 不喜欢咖啡馆的布局 不过听说手冲咖啡不错 楼上精品店值得一逛",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.440460,
+          31.224243
+        ]
+      }
     }
   ]
 }
