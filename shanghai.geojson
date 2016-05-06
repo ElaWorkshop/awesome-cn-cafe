@@ -575,6 +575,25 @@
           31.173246
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "MANGOSIX (静安寺店)",
+        "下载速度": "20.16 Mbps",
+        "中杯拿铁": "31 元",
+        "Speedtest 链接": "www.speedtest.net/my-result/i/1639012202",
+        "评论 (@z4rd)": "晶品旁，久光对面，愚园路上，手机微信直接连，电脑要手机验证，一般般",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.441052,
+          31.226492
+        ]
+      }
     }
   ]
 }
