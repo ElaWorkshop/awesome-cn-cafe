@@ -575,6 +575,44 @@
           31.173246
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "MANGOSIX (静安寺店)",
+        "下载速度": "20.16 Mbps",
+        "中杯拿铁": "31 元",
+        "Speedtest 链接": "www.speedtest.net/my-result/i/1639012202",
+        "评论 (@z4rd)": "晶品旁，久光对面，愚园路上，手机微信直接连，电脑要手机验证，一般般",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.441052,
+          31.226492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "AUNN CAFE &CO",
+        "下载速度": "5.76 Mbps",
+        "大杯拿铁": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5305144009",
+        "评论 (@z4rd)": "位于黄金地段 不喜欢咖啡馆的布局 不过听说手冲咖啡不错 楼上精品店值得一逛",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.440460,
+          31.224243
+        ]
+      }
     }
   ]
 }
