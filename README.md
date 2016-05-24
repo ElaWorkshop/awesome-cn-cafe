@@ -1,4 +1,5 @@
 # Awesome CN Café
+[![Build Status](https://travis-ci.org/ElaWorkshop/awesome-cn-cafe.svg?branch=master)](https://travis-ci.org/ElaWorkshop/awesome-cn-cafe)
 
 那些网速快咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
 
