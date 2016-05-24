@@ -149,6 +149,26 @@
           30.272825
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "黑桃咖啡",
+        "下载速度": "34.63 Mbps",
+        "上传速度": "4.21 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5349797629",
+        "参考价格": "35 - 50 元",
+        "评论 (@61)": "西溪路上，店很大，装修很不错，桌子很大沙发很舒服",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.105040,
+          30.270423
+        ]
+      }
+    },
   ]
 }
