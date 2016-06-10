@@ -95,6 +95,25 @@
           39.997405
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Meet Café",
+        "下载速度": "28.91 Mbps",
+        "参考价格": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1674659148",
+        "评论 (@crispgm)": "环境好，手机测网速快，Brunch 好吃。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.454031,
+          39.897631
+        ]
+      }
     }
   ]
 }
