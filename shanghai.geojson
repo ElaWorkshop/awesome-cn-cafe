@@ -613,6 +613,25 @@
           31.224243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (虹桥火车站出发区店)",
+        "下载速度": "2.91 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5482642377",
+        "评论 (@xavierchow)": "位于出发区北侧2楼,位置还是很多的,就是环境一般比较嘈杂",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.316548,
+          31.195516
+        ]
+      }
     }
   ]
 }
