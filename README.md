@@ -23,11 +23,11 @@
 
 ## 贡献
 
-欢迎发 pull request 添加你去过的咖啡馆。请通过浏览器或手机 App 等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
+欢迎发 pull request 添加你去过的咖啡馆。请通过浏览器或手机 app 等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
 
 ### 通过浏览器
 
-请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度，Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。如果你正在咖啡馆并且可以翻墙，可以使用 [whereami](https://xavierchow.github.io/whereami/) 来获得当前经纬度。
+请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度、Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度。在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。如果你正在咖啡馆并且可以翻墙，可以使用 [whereami](https://xavierchow.github.io/whereami/) 来获得当前经纬度。
 
 ### 通过手机 App
 
