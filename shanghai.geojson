@@ -609,7 +609,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.440460,
+          121.44046,
           31.224243
         ]
       }
@@ -630,6 +630,25 @@
         "coordinates": [
           121.316548,
           31.195516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (静安门大厦店)",
+        "下载速度": "2.91 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5514651758",
+        "评论 (@xavierchow)": "网速一般，上下有2层楼位置较多",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.434352,
+          31.239224
         ]
       }
     }
