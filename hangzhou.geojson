@@ -169,6 +169,26 @@
           30.270423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克咖啡 (西溪天堂店)",
+        "下载速度": "0.76 Mbps",
+        "上传速度": "0.15 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5534420505",
+        "参考价格": "≥ 36 ¥",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.086,
+          30.267
+        ]
+      }
     }
+
   ]
 }
