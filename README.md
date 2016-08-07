@@ -17,7 +17,7 @@
 * [上海 (34)](shanghai.geojson)
 * [南京 (3)](nanjing.geojson)
 * [武汉 (2)](wuhan.geojson)
-* [杭州 (8)](hangzhou.geojson)
+* [杭州 (9)](hangzhou.geojson)
 * [广州 (1)](guangzhou.geojson)
 * [深圳 (4)](shenzhen.geojson)
 
