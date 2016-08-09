@@ -133,6 +133,25 @@
           39.930947
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡 MAAN COFFEE",
+        "下载速度": "3.51 Mbps",
+        "参考价格": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5539012756",
+        "评论 (@beta)": "电源充足，环境不错，人不多。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.351184,
+          39.962148
+        ]
+      }
     }
   ]
 }
