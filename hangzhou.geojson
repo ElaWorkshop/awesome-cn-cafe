@@ -188,6 +188,26 @@
           30.267
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克咖啡 (星光大道店)",
+        "下载速度": "0.84 Mbps",
+        "上传速度": "0.74 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5551629964",
+        "参考价格": "> 34.0 ¥",
+        "评论 (@mako)": "滨江星光大道，周末人多",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.204243, 
+          30.208849
+        ]
+      }
     }
 
   ]
