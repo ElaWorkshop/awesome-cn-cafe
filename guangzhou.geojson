@@ -23,6 +23,28 @@
           23.131245
         ]
       }
+    },{
+      "type": "Feature",
+      "properties": {
+        "名称": "7-INN郁源咖啡",
+        "下载速度": "39.73 Mbps",
+        "上传速度": "2.87 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5563529474",
+        "参考价格": "40-50 元",
+        "单品": "40元",
+        "下午茶套餐": "无",
+        "评论 (@mshhmzh)": "自家烘焙咖啡店，主打精品咖啡。电信光纤，网速很快。很适合小团队外出办公",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.319998,
+          23.131220
+        ]
+      }
     }
+
   ]
 }
