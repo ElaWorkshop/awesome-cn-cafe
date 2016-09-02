@@ -129,7 +129,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.449020,
+          116.44902,
           39.930947
         ]
       }
@@ -150,6 +150,25 @@
         "coordinates": [
           116.351184,
           39.962148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "极客咖啡",
+        "下载速度": "9.40 Mbps",
+        "参考价格": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5598700538",
+        "评论 (@xhacker)": "拿铁一般，环境一般，人少，网速快，有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.30051,
+          39.981467
         ]
       }
     }
