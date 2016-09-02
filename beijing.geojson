@@ -158,7 +158,7 @@
       "properties": {
         "名称": "极客咖啡",
         "下载速度": "9.40 Mbps",
-        "参考价格": "35 元",
+        "大杯拿铁": "35 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5598700538",
         "评论 (@xhacker)": "拿铁一般，环境一般，人少，网速快，有电源。",
         "marker-color": "#F3AE1A",
@@ -169,6 +169,25 @@
         "coordinates": [
           116.30051,
           39.981467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "么么咖啡",
+        "下载速度": "2.13 Mbps",
+        "大杯焦糖拿铁": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5599038063",
+        "评论 (@xhacker)": "咖啡不错，环境不错，网速一般，有电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.299232,
+          39.942686
         ]
       }
     }
