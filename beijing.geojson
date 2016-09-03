@@ -190,6 +190,25 @@
           39.942686
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（丰联店）",
+        "下载速度": "3.47 Mbps",
+        "大杯卡布奇诺": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1764988610",
+        "评论 (@crispgm)": "场地大，光线好，网速一般，有少量电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.433,
+          39.9222
+        ]
+      }
     }
   ]
 }
