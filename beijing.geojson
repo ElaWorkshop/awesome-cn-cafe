@@ -8,9 +8,7 @@
         "下载速度": "22 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4629928302",
         "参考价格": "30-40 元",
-        "评论 (@xhacker)": "有电源，网速快，环境不错，咖啡也不错。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
+        "评论 (@xhacker)": "有电源，网速快，环境不错，咖啡也不错。"
       },
       "geometry": {
         "type": "Point",
@@ -27,9 +25,7 @@
         "下载速度": "41 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4850194225",
         "参考价格": "25-40 元",
-        "评论 (@mckelvin)": "有电源，网速快，环境不错，人不多。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
+        "评论 (@mckelvin)": "有电源，网速快，环境不错，人不多。"
       },
       "geometry": {
         "type": "Point",
@@ -46,9 +42,7 @@
         "下载速度": "3.18 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4891431411",
         "参考价格": "30 元",
-        "评论 (@crispgm)": "有电源，网速快，可看王府井街景。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@crispgm)": "有电源，网速快，可看王府井街景。"
       },
       "geometry": {
         "type": "Point",
@@ -65,9 +59,7 @@
         "下载速度": "13 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5106521098",
         "参考价格": "30 元",
-        "评论 (@tianyuf)": "有电源，网速快，服务好。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
+        "评论 (@tianyuf)": "有电源，网速快，服务好。"
       },
       "geometry": {
         "type": "Point",
@@ -84,9 +76,7 @@
         "下载速度": "3.03 Mbps",
         "参考价格": "40 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5115403108",
-        "评论 (@tianyuf)": "环境好，服务好。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@tianyuf)": "环境好，服务好。"
       },
       "geometry": {
         "type": "Point",
@@ -103,9 +93,7 @@
         "下载速度": "28.91 Mbps",
         "参考价格": "30 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1674659148",
-        "评论 (@crispgm)": "环境好，手机测网速快，Brunch 好吃。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
+        "评论 (@crispgm)": "环境好，手机测网速快，Brunch 好吃。"
       },
       "geometry": {
         "type": "Point",
@@ -122,9 +110,7 @@
         "下载速度": "22.49 Mbps",
         "参考价格": "34 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1711955836",
-        "评论 (@crispgm)": "电源充足，人不多，手机测网速快。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
+        "评论 (@crispgm)": "电源充足，人不多，手机测网速快。"
       },
       "geometry": {
         "type": "Point",
@@ -141,9 +127,7 @@
         "下载速度": "3.51 Mbps",
         "参考价格": "30 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5539012756",
-        "评论 (@beta)": "电源充足，环境不错，人不多。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@beta)": "电源充足，环境不错，人不多。"
       },
       "geometry": {
         "type": "Point",
@@ -160,9 +144,7 @@
         "下载速度": "9.40 Mbps",
         "大杯拿铁": "35 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5598700538",
-        "评论 (@xhacker)": "拿铁一般，环境一般，人少，网速快，有电源。",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
+        "评论 (@xhacker)": "拿铁一般，环境一般，人少，网速快，有电源。"
       },
       "geometry": {
         "type": "Point",
@@ -179,9 +161,7 @@
         "下载速度": "2.13 Mbps",
         "大杯焦糖拿铁": "35 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5599038063",
-        "评论 (@xhacker)": "咖啡不错，环境不错，网速一般，有电源。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@xhacker)": "咖啡不错，环境不错，网速一般，有电源。"
       },
       "geometry": {
         "type": "Point",
@@ -198,9 +178,7 @@
         "下载速度": "3.47 Mbps",
         "大杯卡布奇诺": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1764988610",
-        "评论 (@crispgm)": "场地大，光线好，网速一般，有少量电源。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@crispgm)": "场地大，光线好，网速一般，有少量电源。"
       },
       "geometry": {
         "type": "Point",
@@ -217,9 +195,7 @@
         "下载速度": "4.34 Mbps",
         "大杯卡布奇诺": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1766332176",
-        "评论 (@crispgm)": "环境好，网速一般，有电源。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
+        "评论 (@crispgm)": "环境好，网速一般，有电源。"
       },
       "geometry": {
         "type": "Point",
@@ -235,9 +211,7 @@
         "名称": "星巴克（贵友店）",
         "下载速度": "5.01 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5608827828",
-        "评论 (@xhacker)": "有少量电源。Wi-Fi 似乎限速 5 M。",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
+        "评论 (@xhacker)": "有少量电源。Wi-Fi 似乎限速 5 M。"
       },
       "geometry": {
         "type": "Point",
