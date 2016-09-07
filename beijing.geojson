@@ -265,6 +265,25 @@
           39.967948
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "J Coffee（SOHO 尚都店）",
+        "下载速度": "30.68 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1769675242",
+        "中杯拿铁": "35 元",
+        "评论 (@xhacker)": "日式风格矮桌椅，挺安静的。大叔老板拉花不错。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.448,
+          39.9178
+        ]
+      }
     }
   ]
 }
