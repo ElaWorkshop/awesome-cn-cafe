@@ -284,6 +284,25 @@
           39.9178
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Coffee Holic（朝外 SOHO 店）",
+        "下载速度": "4.40 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1770959453",
+        "冰滴": "45 元",
+        "评论 (@imty42)": "网速不快，咖啡有特点，好喝。老板年轻人，乐于分享咖啡知识。有电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.449,
+          39.9187
+        ]
+      }
     }
   ]
 }
