@@ -284,6 +284,25 @@
           39.9178
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Carlly Cafe 车里咖啡",
+        "下载速度": "20.88 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1772238471",
+        "热拿铁": "32 元",
+        "评论 (@xhacker)": "很安静、很舒服，咖啡好喝。网速不错，有少量电源。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.252428,
+          39.906934
+        ]
+      }
     }
   ]
 }
