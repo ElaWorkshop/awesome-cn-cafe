@@ -322,6 +322,25 @@
           39.9187
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "咖啡陪你（王府井店）",
+        "下载速度": "4.63 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1773643866",
+        "拿铁": "30 元",
+        "评论 (@xhacker)": "有一点喧闹，靠窗的位子能看到王府井街景。拿铁不错。网速凑合，没看到电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.271851,
+          39.855825
+        ]
+      }
     }
   ]
 }
