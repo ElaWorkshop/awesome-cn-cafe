@@ -377,6 +377,24 @@
           40.0649
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京西四环南路咖啡店）",
+        "下载速度": "8.54 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1774834286",
+        "评论 (@xhacker)": "人不太多，靠边的位置有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.279823,
+          39.836602
+        ]
+      }
     }
   ]
 }
