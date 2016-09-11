@@ -359,6 +359,24 @@
           39.913773
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（龙旗广场店）",
+        "下载速度": "12.25 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1774642514",
+        "评论 (@imty42)": "有一点喧闹，可能是因为接近中午的缘故。大桌和沙发桌有电源。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.341,
+          40.0649
+        ]
+      }
     }
   ]
 }
