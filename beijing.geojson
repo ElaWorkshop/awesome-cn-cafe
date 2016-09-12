@@ -395,6 +395,24 @@
           39.836602
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡（悠唐店）",
+        "下载速度": "1.55 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1774857512",
+        "评论 (@crispgm)": "人比较多，但环境好，电源充足。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.433,
+          39.9201
+        ]
+      }
     }
   ]
 }
