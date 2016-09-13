@@ -413,6 +413,24 @@
           39.9201
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（嘉里店 BJ Kerry Center）",
+        "下载速度": "5.95 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1777083259",
+        "评论 (@imty42)": "有两层，二层可以点手冲，人多网慢小圆桌有沿不适合放电脑，木质大圆桌还不错，一楼有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.454,
+          39.9121
+        ]
+      }
     }
   ]
 }
