@@ -449,6 +449,25 @@
           39.865187
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "迪欧咖啡（石景山店）",
+        "下载速度": "27.44 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1778571350",
+        "评论 (@csvenja)": "地方挺大，人不多，有电源。",
+        "菊花水果茶": "58 元/壶",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.243032,
+          39.896685
+        ]
+      }
     }
   ]
 }
