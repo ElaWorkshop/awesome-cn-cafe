@@ -487,6 +487,24 @@
           39.9399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京南站第一咖啡店）",
+        "下载速度": "3.74 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1779876236",
+        "评论 (@xhacker)": "在南站立，二层人不多。有少量电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.371979,
+          39.862958
+        ]
+      }
     }
   ]
 }
