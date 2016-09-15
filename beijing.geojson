@@ -118,7 +118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Gloria Jean's Coffees",
+        "名称": "Gloria Jean's Coffees（通盈三里屯店）",
         "下载速度": "22.49 Mbps",
         "参考价格": "34 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1711955836",
@@ -466,6 +466,25 @@
         "coordinates": [
           116.243032,
           39.896685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Gloria Jean's Coffees（Naga上院店）",
+        "下载速度": "9.06 Mbps",
+        "参考价格": "34 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1779843014",
+        "评论 (@crispgm)": "场地大，人不多，光线好，网速较快。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.422,
+          39.9399
         ]
       }
     }
