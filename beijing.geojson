@@ -523,6 +523,25 @@
           39.9332
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "香咖啡",
+        "下载速度": "8.86 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1781257065",
+        "评论 (@xhacker)": "环境很好，很幽静，咖啡不错。网速实际感觉较慢，有电源。",
+        "卡布奇诺": "38 元",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.456,
+          39.9323
+        ]
+      }
     }
   ]
 }
