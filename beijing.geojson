@@ -542,6 +542,24 @@
           39.9323
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA Coffee（京汇店）",
+        "下载速度": "5.62 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1782497468",
+        "评论 (@crispgm)": "周末很清静。有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.456,
+          39.9053
+        ]
+      }
     }
   ]
 }
