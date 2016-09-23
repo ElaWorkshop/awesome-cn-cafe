@@ -560,6 +560,24 @@
           39.9053
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京大成路店）",
+        "下载速度": "8.86 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1790507938",
+        "评论 (@xhacker)": "地下地方比较大，靠墙有一些电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.259,
+          39.8879
+        ]
+      }
     }
   ]
 }
