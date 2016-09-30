@@ -80,6 +80,24 @@
           22.497709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "雕刻时光咖啡馆(华侨城店)",
+        "下载速度": "6.03 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1798025047",
+        "评论 (@crispgm)": "位于生态广场入口处，环境不错。Wi-Fi 密码同北京相同。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.978214,
+          22.540580
+        ]
+      }
     }
   ]
 }
