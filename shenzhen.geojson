@@ -136,6 +136,25 @@
           22.5384
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Nordic Cafe",
+        "下载速度": "9.14 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1801263880",
+        "评论 (@crispgm)": "北欧极简风，餐具似乎都是北欧品牌 iittala 的，店里面还有 iittala 的展区，不知道两者的具体关系。有少量电源。",
+        "卡布奇诺": "32 元（小杯）",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.985,
+          22.5280
+        ]
+      }
     }
   ]
 }
