@@ -98,6 +98,25 @@
           22.540580
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "蒙咖啡小馆 Mon Cafe",
+        "下载速度": "7.11 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1799531243",
+        "评论 (@crispgm)": "格调很好，比较安静，氛围更适合看书。价格稍贵。",
+        "参考价格": "38-50 元",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.979,
+          22.5428
+        ]
+      }
     }
   ]
 }
