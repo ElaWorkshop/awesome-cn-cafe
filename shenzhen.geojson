@@ -117,6 +117,25 @@
           22.5428
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "City Green Cafe 城市咖啡",
+        "下载速度": "9.79 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1799809299",
+        "评论 (@crispgm)": "开放式环境，座位大且舒服，所在的购物广场比较高级。",
+        "卡布奇诺": "28 元（普通杯）",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.015,
+          22.5384
+        ]
+      }
     }
   ]
 }
