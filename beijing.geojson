@@ -596,6 +596,24 @@
           39.8979
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA COFFEE(金隅万科店)",
+        "下载速度": "11.12 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5682421414",
+        "评论 (@cscmaker)": "厅内右侧尽头有一个黑色皮沙发，非常舒服，店内插座较少。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2402214945,
+          40.2124291871
+        ]
+      }
     }
   ]
 }
