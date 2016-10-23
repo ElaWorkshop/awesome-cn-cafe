@@ -614,6 +614,25 @@
           40.2124291871
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Coffee Craft (CC咖啡馆)",
+        "下载速度": "7.10 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1828821698",
+        "参考价格": "卡布奇诺：30 元，手冲咖啡：40 元",
+        "评论 (@crispgm)": "空间很大，但位置不多，风格现代艺术感。手冲咖啡味道不错，插座不多但有插线板。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.343,
+          39.9432
+        ]
+      }
     }
   ]
 }
