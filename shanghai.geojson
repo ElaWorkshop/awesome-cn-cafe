@@ -651,6 +651,26 @@
           31.239224
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "李小姐の猫咖啡馆",
+        "下载速度": "21.50 Mbps",
+        "香草拿铁": "38 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1827538221",
+        "评论 (@LilianYe)": "猫咖啡馆，上下两层，有十多只可爱的猫咪，大概无法好好干活。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.447,
+          31.2347
+        ]
+      }
     }
+    
   ]
 }
