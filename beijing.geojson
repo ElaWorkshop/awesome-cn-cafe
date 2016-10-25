@@ -633,6 +633,25 @@
           39.9432
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA 北京 IFC 大厦店",
+        "下载速度": "0.46 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1831357023",
+        "参考价格（大杯卡布奇诺）": "37 元",
+        "评论（@xhacker）": "环境不错，网速慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.447,
+          39.9064
+        ]
+      }
     }
   ]
 }
