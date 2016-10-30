@@ -670,6 +670,25 @@
           31.2347
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Trident Coffee",
+        "下载速度": "22.44 Mbps",
+        "大杯拿铁": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1836700422",
+        "评论 (@LilianYe)": "外滩边上一个很小的一个咖啡馆，只适合聊聊天什么的。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.486,
+          31.2375
+        ]
+      }
     }
   ]
 }
