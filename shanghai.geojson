@@ -709,6 +709,26 @@
           31.1984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (越界店)",
+        "下载速度": "1.03 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1853980266",
+        "厕所": "有",
+        "评论 (@LilianYe)": "网速依旧慢的感人，周末下午还蛮多人的。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.407,
+          31.1713
+        ]
+      }
     }
   ]
 }
