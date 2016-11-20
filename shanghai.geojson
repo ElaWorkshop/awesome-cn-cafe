@@ -729,6 +729,26 @@
           31.1713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "MANGOSIX (田林路店)",
+        "下载速度": "2.40 Mbps",
+        "中杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1863749217",
+        "厕所": "店内没有，可以用大楼内的厕所",
+        "评论 (@z4rd)": "手机上WIFI要通过微信连接，电脑要手机验证，网速较慢，空间比较宽敞，沙发位置有电源插座",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.412,
+          31.1741
+        ]
+      }
     }
   ]
 }
