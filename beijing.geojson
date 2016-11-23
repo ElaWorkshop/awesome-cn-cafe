@@ -546,18 +546,20 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "COSTA Coffee（京汇店）",
+        "名称": "Costa Coffee（京汇店）",
         "下载速度": "5.62 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1782497468",
         "评论 (@crispgm)": "周末很清静。有电源。",
+        "评论（@xhacker）": "Wi-Fi 信號奇差，基本連不上。",
+        "厕所": "寫字樓內有。",
         "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.456,
-          39.9053
+          116.456899,
+          39.905416
         ]
       }
     },
@@ -656,7 +658,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Costa Coffee (中环世贸店)",
+        "名称": "Costa Coffee（中环世贸店）",
         "下载速度": "3.90 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1861251511",
         "评论（@xhacker）": "中环世贸中心D座1层。地方不大，有少量电源。网速由 ZHSM-D 测出，Costa 自己的 Wi-Fi 非常慢。",
