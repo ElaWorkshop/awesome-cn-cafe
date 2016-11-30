@@ -673,6 +673,25 @@
           39.9056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（颐堤港中心咖啡店）",
+        "下载速度": "5.06 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1876256024",
+        "评论（@xhacker）": "有少量电源。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.486,
+          39.9694
+        ]
+      }
     }
   ]
 }
