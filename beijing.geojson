@@ -692,6 +692,25 @@
           39.9694
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（英特宜家店）",
+        "下载速度": "13.32 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1877225008",
+        "评论（@xhacker）": "在荟萃一层，店挺大的，人不太多，边上有少量电源。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.322,
+          39.7886
+        ]
+      }
     }
   ]
 }
