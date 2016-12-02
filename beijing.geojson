@@ -711,6 +711,25 @@
           39.7886
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（首地大峡谷店）",
+        "下载速度": "2.56 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1878448433",
+        "评论（@xhacker）": "首地大峡谷一层 F1-05，店挺大的，人不太多，边上有少量电源。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.361,
+          39.8534
+        ]
+      }
     }
   ]
 }
