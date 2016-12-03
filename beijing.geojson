@@ -766,6 +766,24 @@
           39.975566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（银座百货店）",
+        "下载速度": "2.33 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1879845515",
+        "评论 (@Cee)": "环境不错，座位多，非常温暖。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.430,
+          39.9386
+        ]
+      }
     }
   ]
 }
