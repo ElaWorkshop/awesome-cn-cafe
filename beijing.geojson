@@ -730,6 +730,24 @@
           39.8534
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（英蓝国际店）",
+        "下载速度": "0.77 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1879679355",
+        "评论 (@xhacker)": "地方大，环境不错，有少量电源，可惜网速渣。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.352,
+          39.9191
+        ]
+      }
     }
   ]
 }
