@@ -748,6 +748,24 @@
           39.9191
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "雕刻时光（腾讯店）",
+        "下载速度": "50.67 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/5847282428",
+        "评论 (@xohozu)": "环境不错，网速挺好，电源量还好。因在腾讯大楼里，出入不是方便。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.330911,
+          39.975566
+        ]
+      }
     }
   ]
 }
