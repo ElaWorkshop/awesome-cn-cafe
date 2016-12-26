@@ -822,6 +822,25 @@
           39.8166
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（三里屯太古里店）",
+        "下载速度": "5.42 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1908970377",
+        "评论（@xhacker）": "三里屯 Village 地下一层。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.448,
+          39.9341
+        ]
+      }
     }
   ]
 }
