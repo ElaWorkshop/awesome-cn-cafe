@@ -841,6 +841,24 @@
           39.9341
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（鲁谷远洋店）",
+        "下载速度": "1.96 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1914242475",
+        "评论 (@xhacker)": "地方挺大，有一些电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.246,
+          39.9024
+        ]
+      }
     }
   ]
 }
