@@ -769,6 +769,26 @@
           31.2009
         ]
       }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "名称": "赞咖啡 Nice Cafe & Books",
+        "下载速度": "25.29 Mbps",
+        "拿铁咖啡": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1917732687",
+        "厕所": "有",
+        "评论 (@LilianYe)": "空间宽敞，有两层，音乐舒缓。地上有挺多插排的，就是空调不热。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.420,
+          31.1996
+        ]
+      }
     }
   ]
 }
