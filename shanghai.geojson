@@ -770,7 +770,7 @@
         ]
       }
     },
-      {
+    {
       "type": "Feature",
       "properties": {
         "名称": "赞咖啡 Nice Cafe & Books",
@@ -787,6 +787,25 @@
         "coordinates": [
           121.420,
           31.1996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (宝乐汇店)",
+        "下载速度": "3.87 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1915277364",
+        "评论 (@crispgm)": "测速很一般，但实际访问速度还不错。插座有但非常少。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.481,
+          31.4015
         ]
       }
     }
