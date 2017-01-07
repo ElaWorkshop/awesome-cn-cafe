@@ -897,6 +897,24 @@
           39.8843
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "MANGOSIX Coffee & Dessert",
+        "下载速度": "21.73 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1924659288",
+        "评论 (@crispgm)": "比较安静人少，可能天气不太好的缘故。网速很不错，有一些插线板。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.447,
+          39.9331
+        ]
+      }
     }
   ]
 }
