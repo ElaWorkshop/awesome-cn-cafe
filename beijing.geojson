@@ -859,6 +859,25 @@
           39.9024
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（欧美汇店）",
+        "下载速度": "0.71 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1924488152",
+        "评论 (@xhacker)": "人不太多，网速奇慢",
+        "厕所": "店内没有，商场楼上或楼下有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.308,
+          39.9783
+        ]
+      }
     }
   ]
 }
