@@ -13,7 +13,7 @@
 
 ## 城市列表
 
-* [北京 (46)](beijing.geojson)
+* [北京 (48)](beijing.geojson)
 * [上海 (42)](shanghai.geojson)
 * [南京 (3)](nanjing.geojson)
 * [武汉 (2)](wuhan.geojson)
