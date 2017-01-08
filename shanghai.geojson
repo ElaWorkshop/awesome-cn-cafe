@@ -808,6 +808,26 @@
           31.4015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "流光漫影 gallery & coffee",
+        "下载速度": "0.90 Mbps",
+        "抹茶牛奶": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1925937915",
+        "厕所": "有",
+        "评论 (@LilianYe)": "面积很小，很多艺术相关的书籍。靠墙有插座。可惜网速太慢。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44,
+          31.2141
+        ]
+      }
     }
   ]
 }
