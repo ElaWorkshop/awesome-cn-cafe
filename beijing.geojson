@@ -915,6 +915,25 @@
           39.9331
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "福楼咖啡 Cafe Flo",
+        "下载速度": "0.75 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1927287755",
+        "评论 (@xhacker)": "侨福芳草地地下二层。环境不错。拿铁好喝。",
+        "厕所": "店里没有，商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.443,
+          39.9181
+        ]
+      }
     }
   ]
 }
