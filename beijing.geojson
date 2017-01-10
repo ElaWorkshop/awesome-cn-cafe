@@ -934,6 +934,24 @@
           39.9181
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京 LG 大厦店）",
+        "下载速度": "9.60 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1928516069",
+        "评论 (@xhacker)": "中午人有点多，有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.443,
+          39.9063
+        ]
+      }
     }
   ]
 }
