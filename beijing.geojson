@@ -952,6 +952,24 @@
           39.9063
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京 SK 大厦店）",
+        "下载速度": "1.29 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1929928850",
+        "评论 (@xhacker)": "在 SK 大厦二层，开放式布局，环境挺好的。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.451,
+          39.9063
+        ]
+      }
     }
   ]
 }
