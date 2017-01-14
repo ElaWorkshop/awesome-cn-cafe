@@ -828,6 +828,26 @@
           31.2141
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "莫奈咖啡 Monet Cafe",
+        "下载速度": "6.78 Mbps",
+        "拿铁": "48 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1934316618",
+        "厕所": "有",
+        "评论 (@LilianYe)": "只有几个位置，装修很欧式，更像家具店，隔壁是理发店。价位偏高。",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.446,
+          31.2150
+        ]
+      }
     }
   ]
 }
