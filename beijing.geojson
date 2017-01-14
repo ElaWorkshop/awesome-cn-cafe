@@ -970,6 +970,24 @@
           39.9063
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京西小口路店）",
+        "下载速度": "8.08 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1934227111",
+        "评论 (@xhacker)": "在东升科技园内。空间很大，人很少。有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.351,
+          40.0454
+        ]
+      }
     }
   ]
 }
