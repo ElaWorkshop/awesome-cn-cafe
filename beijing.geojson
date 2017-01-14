@@ -988,6 +988,24 @@
           40.0454
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京西单汉光百货商场店）",
+        "下载速度": "7.08 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1934686138",
+        "评论 (@xhacker)": "人不太多，有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.37,
+          39.9076
+        ]
+      }
     }
   ]
 }
