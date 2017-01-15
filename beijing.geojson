@@ -1006,6 +1006,24 @@
           39.9076
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京五棵松第二咖啡店）",
+        "下载速度": "8.74 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1935870482",
+        "评论 (@xhacker)": "在卓展五层，耀莱成龙外面。人挺多的，有点乱。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.272,
+          39.9118
+        ]
+      }
     }
   ]
 }
