@@ -1025,6 +1025,24 @@
           39.9118
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（中海广场店）",
+        "下载速度": "7.19 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1937074734",
+        "评论 (@xhacker)": "环境好，有少量电源。在中海广场写字楼一层。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45,
+          39.9092
+        ]
+      }
     }
   ]
 }
