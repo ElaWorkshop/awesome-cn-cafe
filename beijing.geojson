@@ -1062,6 +1062,25 @@
           39.9108
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京万丰路咖啡店）",
+        "下载速度": "14.65 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1953036805",
+        "评论 (@xhacker)": "在银座和谐广场一层东北入口处。地方小，座位少。大年初一人不太多，平时不知道。",
+        "厕所": "无，可用商场内的。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.292,
+          39.8814
+        ]
+      }
     }
   ]
 }
