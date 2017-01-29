@@ -192,6 +192,24 @@
           22.5393
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（侨城路店）",
+        "下载速度": "1.04 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1954508585",
+        "评论 (@crispgm)": "网速慢但可用，环境不错，即使连室外都有插座。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.980,
+          22.5387
+        ]
+      }
     }
   ]
 }
