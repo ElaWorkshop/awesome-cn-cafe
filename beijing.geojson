@@ -1081,6 +1081,25 @@
           39.8814
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京古北咖啡店）",
+        "下载速度": "2.60 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1954465963",
+        "评论 (@xhacker)": "在古北水镇旅客服务中心内，比较乱，人多。",
+        "厕所": "有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.262,
+          40.6446
+        ]
+      }
     }
   ]
 }
