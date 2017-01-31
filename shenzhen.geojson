@@ -210,6 +210,24 @@
           22.5387
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡（1979店）",
+        "下载速度": "5.28 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1957282075",
+        "评论 (@crispgm)": "场地很大，一二楼环境昏暗，三楼比较亮；基本每个座位都有插座。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.026,
+          22.5551
+        ]
+      }
     }
   ]
 }
