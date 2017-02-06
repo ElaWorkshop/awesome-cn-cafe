@@ -848,6 +848,26 @@
           31.215
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（中惠广场店）",
+        "下载速度": "3.24 Mbps",
+        "轻烤福栗拿铁": "26 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/6029494988",
+        "厕所": "隔壁大厦有",
+        "评论 (@xavierchow)": "位置比较偏的关系，晚上人真的很少，有电源, 21点打烊。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.604749,
+          31.254968
+        ]
+      }
     }
   ]
 }
