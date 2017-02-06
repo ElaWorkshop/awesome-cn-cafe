@@ -1100,6 +1100,25 @@
           40.6446
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京建外现代城店）",
+        "下载速度": "2.29 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1965150161",
+        "评论 (@xhacker)": "地方非常大，有三层，但人也非常多。",
+        "厕所": "有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.454,
+          39.9039
+        ]
+      }
     }
   ]
 }
