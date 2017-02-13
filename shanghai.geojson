@@ -868,6 +868,26 @@
           31.254968
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "PROTOSS",
+        "下载速度": "31.73 Mbps",
+        "本质奶咖": "23 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1971600260",
+        "厕所": "有",
+        "评论 (@LilianYe)": "新开的咖啡馆，空间非常宽敞，装修清新，插座还有usb口。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.407,
+          31.1712
+        ]
+      }
     }
   ]
 }
