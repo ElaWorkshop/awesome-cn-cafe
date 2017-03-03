@@ -1137,6 +1137,25 @@
           39.9074
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京什刹海天荷坊店）",
+        "下载速度": "1.13 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1998158513",
+        "评论 (@xhacker)": "在荷花市场里，地方很小。",
+        "厕所": "出门左转 200 米。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.386,
+          39.9326
+        ]
+      }
     }
   ]
 }
