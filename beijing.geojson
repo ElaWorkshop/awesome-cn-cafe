@@ -1156,6 +1156,25 @@
           39.9326
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Illy（侨福芳草地）",
+        "下载速度": "1.23 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2007239493",
+        "评论 (@xhacker)": "在芳草地二层，地方大、采光好、很开阔。",
+        "厕所": "可用芳草地内厕所。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.442,
+          39.9182
+        ]
+      }
     }
   ]
 }
