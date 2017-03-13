@@ -1175,6 +1175,25 @@
           39.9182
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "太平洋咖啡（银座和谐店）",
+        "下载速度": "2.27 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2011340641",
+        "评论 (@xhacker)": "在银座和谐广场西南角。地方大、人不多。",
+        "厕所": "无，可用商场内的，比较远。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29,
+          39.8808
+        ]
+      }
     }
   ]
 }
