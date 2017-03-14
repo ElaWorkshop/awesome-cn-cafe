@@ -1194,6 +1194,24 @@
           39.8808
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京丽泽桥恒泰咖啡店）",
+        "下载速度": "8.27 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2012460104",
+        "评论 (@xhacker)": "人挺多的，基本没地方。靠边有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3,
+          39.8653
+        ]
+      }
     }
   ]
 }
