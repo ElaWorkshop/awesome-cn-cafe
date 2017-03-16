@@ -19,7 +19,7 @@ const setMarkerSymbol = (feature) => {
 }
 
 const setMarkerColor = (feature, avg) => {
-  if (avg < 5) {
+  if (avg < 4) {
     feature.properties['marker-color'] = RED;
   } else if (avg < 10) {
     feature.properties['marker-color'] = YELLOW;

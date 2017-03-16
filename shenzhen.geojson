@@ -30,7 +30,7 @@
         "参考价格": "30-40 元",
         "焦糖玛奇朵": "31元（中杯）",
         "评论 (@RYOHOI)": "店内宽敞，位子充足，有大长木桌。室外可抽烟，夏天坐在人工喷泉边上时感凉风。上厕所很方便。硬伤：WiFi 太慢；解决方法：不用店内 WiFi，连 eluohu 都会更快。另：这一代星巴克特别多，方圆一公里内约十余家。",
-        "marker-color": "#C24740",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -78,6 +78,154 @@
         "coordinates": [
           113.923269,
           22.497709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "雕刻时光咖啡馆(华侨城店)",
+        "下载速度": "6.03 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1798025047",
+        "评论 (@crispgm)": "位于生态广场入口处，环境不错。Wi-Fi 密码同北京相同。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.978214,
+          22.54058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "蒙咖啡小馆 Mon Cafe",
+        "下载速度": "7.11 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1799531243",
+        "评论 (@crispgm)": "格调很好，比较安静，氛围更适合看书。价格稍贵。",
+        "参考价格": "38-50 元",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.979,
+          22.5428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "City Green Cafe 城市咖啡",
+        "下载速度": "9.79 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1799809299",
+        "评论 (@crispgm)": "开放式环境，座位大且舒服，所在的购物广场比较高级。",
+        "卡布奇诺": "28 元（普通杯）",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.015,
+          22.5384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Nordic Cafe",
+        "下载速度": "9.14 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1801263880",
+        "评论 (@crispgm)": "北欧极简风，餐具似乎都是北欧品牌 iittala 的，店里面还有 iittala 的展区，不知道两者的具体关系。有少量电源。",
+        "卡布奇诺": "32 元（小杯）",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.985,
+          22.528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（海上世界广场店）",
+        "下载速度": "2.88 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5775470173",
+        "评论 (@bcho)": "环境不错，但网络太慢了。大部分座位都有电源。",
+        "中杯美式": "28 元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.910865,
+          22.485677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（创意文化园店）",
+        "下载速度": "0.96 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1953095663",
+        "评论 (@crispgm)": "春节期间人也爆满，但自身容量很大。网速跑分数值不高，但还是可用的状态。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.989,
+          22.5393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（侨城路店）",
+        "下载速度": "1.04 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1954508585",
+        "评论 (@crispgm)": "网速慢但可用，环境不错，即使连室外都有插座。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98,
+          22.5387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡（1979店）",
+        "下载速度": "5.28 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1957282075",
+        "评论 (@crispgm)": "场地很大，一二楼环境昏暗，三楼比较亮；基本每个座位都有插座。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.026,
+          22.5551
         ]
       }
     }

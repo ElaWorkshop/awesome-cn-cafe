@@ -295,7 +295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "COSTA COFFEE（我格广场店）",
+        "名称": "Costa Coffee（我格广场店）",
         "下载速度": "6.00 Mbps",
         "小杯巧克力": "27 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
@@ -490,7 +490,7 @@
         "Speedtest 链接": "http://www.speedtest.net/my-result/5252949393",
         "评论 (@xavierchow)": "网速很一般，非常奇怪大叔大妈好多-_-bb",
         "marker-symbol": "cafe",
-        "marker-color": "#C24740"
+        "marker-color": "#F3AE1A"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Costa (Global Harbor)",
+        "名称": "Costa Coffee (Global Harbor)",
         "下载速度": "12.00 Mbps",
         "大杯拿铁": "34 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1572918665",
@@ -541,7 +541,7 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Costa (九六广场)",
+        "名称": "Costa Coffee（九六广场店）",
         "下载速度": "2.00 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "www.speedtest.net/my-result/i/1617859652",
@@ -649,6 +649,243 @@
         "coordinates": [
           121.434352,
           31.239224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "李小姐の猫咖啡馆",
+        "下载速度": "21.50 Mbps",
+        "香草拿铁": "38 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1827538221",
+        "评论 (@LilianYe)": "猫咖啡馆，上下两层，有十多只可爱的猫咪，大概无法好好干活。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.447,
+          31.2347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Trident Coffee",
+        "下载速度": "22.44 Mbps",
+        "大杯拿铁": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1836700422",
+        "评论 (@LilianYe)": "外滩边上一个很小的一个咖啡馆，只适合聊聊天什么的。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.486,
+          31.2375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (新淮海坊店)",
+        "下载速度": "1.53 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1839446250",
+        "厕所": "有",
+        "评论 (@LilianYe)": "离虹桥路地铁站最近的一个星巴克，只有一楼，午后来买咖啡会排队较久。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.418,
+          31.1984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (越界店)",
+        "下载速度": "1.03 Mbps",
+        "大杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1853980266",
+        "厕所": "有",
+        "评论 (@LilianYe)": "网速依旧慢的感人，周末下午还蛮多人的。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.407,
+          31.1713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "MANGOSIX (田林路店)",
+        "下载速度": "2.40 Mbps",
+        "中杯拿铁": "31 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1863749217",
+        "厕所": "店内没有，可以用大楼内的厕所",
+        "评论 (@LilianYe)": "手机上WIFI要通过微信连接，电脑要手机验证，网速较慢，空间比较宽敞，沙发位置有电源插座",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.412,
+          31.1741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "雕刻时光咖啡馆 (红坊店)",
+        "下载速度": "10.37 Mbps",
+        "小杯拿铁": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1916507389",
+        "厕所": "无",
+        "评论 (@LilianYe)": "空间很宽敞，有音乐，但不吵。靠墙位置有电源插座，食物一般。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.421,
+          31.2009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "赞咖啡 Nice Cafe & Books",
+        "下载速度": "25.29 Mbps",
+        "拿铁咖啡": "30 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1917732687",
+        "厕所": "有",
+        "评论 (@LilianYe)": "空间宽敞，有两层，音乐舒缓。地上有挺多插排的，就是空调不热。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42,
+          31.1996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks (宝乐汇店)",
+        "下载速度": "3.87 Mbps",
+        "大杯馥芮白": "36 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1915277364",
+        "评论 (@crispgm)": "测速很一般，但实际访问速度还不错。插座有但非常少。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.481,
+          31.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "流光漫影 gallery & coffee",
+        "下载速度": "0.90 Mbps",
+        "抹茶牛奶": "35 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1925937915",
+        "厕所": "有",
+        "评论 (@LilianYe)": "面积很小，很多艺术相关的书籍。靠墙有插座。可惜网速太慢。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44,
+          31.2141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "莫奈咖啡 Monet Cafe",
+        "下载速度": "6.78 Mbps",
+        "拿铁": "48 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1934316618",
+        "厕所": "有",
+        "评论 (@LilianYe)": "只有几个位置，装修很欧式，更像家具店，隔壁是理发店。价位偏高。",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.446,
+          31.215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（中惠广场店）",
+        "下载速度": "3.24 Mbps",
+        "轻烤福栗拿铁": "26 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/6029494988",
+        "厕所": "隔壁大厦有",
+        "评论 (@xavierchow)": "位置比较偏的关系，晚上人真的很少，有电源, 21点打烊。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.604749,
+          31.254968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "PROTOSS",
+        "下载速度": "31.73 Mbps",
+        "本质奶咖": "23 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1971600260",
+        "厕所": "有",
+        "评论 (@LilianYe)": "新开的咖啡馆，空间非常宽敞，装修清新，插座还有usb口。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.407,
+          31.1712
         ]
       }
     }

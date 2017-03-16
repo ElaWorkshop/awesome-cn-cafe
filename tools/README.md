@@ -6,8 +6,8 @@ This script automatically does houskeeping work:
 
 Color  | Hex     | Speed
 ------ | ------- | -----
-Red    | #C24740 | 0 ~ 5 Mbps
-Yellow | #F3AE1A | 5 ~ 10 Mbps
+Red    | #C24740 | 0 ~ 4 Mbps
+Yellow | #F3AE1A | 4 ~ 10 Mbps
 Green  | #50C240 | 10+ Mbps
 
 ## Prerequisite
