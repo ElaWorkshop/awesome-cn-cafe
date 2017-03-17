@@ -1212,6 +1212,43 @@
           39.8653
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "古塘咖啡",
+        "下载速度": "4.92 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2015155052",
+        "评论 (@beta)": "人少，比较安静，电源充足。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.355,
+          39.9656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（望京店）",
+        "下载速度": "4.17 Mbps",
+        "大杯香草拿铁": "34 元",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/a/2708941658",
+        "评论 (@beta)": "人很多，比较吵闹，网速一般，没找到电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.482,
+          40.001
+        ]
+      }
+    },
   ]
 }
