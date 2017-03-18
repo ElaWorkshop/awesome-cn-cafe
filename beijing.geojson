@@ -1212,6 +1212,24 @@
           39.8653
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（永旺店）",
+        "下载速度": "7.25 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2017642617",
+        "评论 (@xhacker)": "地方不算太大，但也有少量位子。靠边有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.284,
+          40.0948
+        ]
+      }
     }
   ]
 }
