@@ -1267,6 +1267,24 @@
           40.001
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "魔山",
+        "下载速度": "31.43 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/a/2711924188",
+        "评论 (@beta)": "店很小，很安静，网速很快，靠墙的桌子有插座，手冲咖啡和各种啤酒都很好喝，有 PS4 和 Nintendo Switch 可以玩。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.350,
+          39.962
+        ]
+      }
     }
   ]
 }
