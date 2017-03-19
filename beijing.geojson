@@ -1281,8 +1281,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.350,
+          116.35,
           39.962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（大兴绿地店）",
+        "下载速度": "9.64 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2019177863",
+        "评论 (@xhacker)": "环境好、靠边有少量电源。网速测出来不错，实际奇慢。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.328,
+          39.7631
         ]
       }
     }
