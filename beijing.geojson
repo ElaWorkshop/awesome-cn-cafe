@@ -1303,6 +1303,24 @@
           39.7631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（亦庄力宝华联店）",
+        "下载速度": "32.16 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2025917325",
+        "评论 (@xhacker)": "地方很大、人很少，周五晚上八点半加上我只有三个人。靠边有少量电源。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.495,
+          39.8033
+        ]
+      }
     }
   ]
 }
