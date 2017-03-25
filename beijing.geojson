@@ -1321,6 +1321,24 @@
           39.8033
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（丰科路万达广场店）",
+        "下载速度": "3.77 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2027024693",
+        "评论 (@xhacker)": "地方非常大，电源也多。星巴克自己的网连不上，有一个 SSID 为 @ffan 的网可以用，网速也是用这个网测的。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.291,
+          39.8233
+        ]
+      }
     }
   ]
 }
