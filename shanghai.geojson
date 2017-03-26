@@ -888,6 +888,26 @@
           31.1712
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA（上海盛邦国际店）",
+        "下载速度": "1.22 Mbps",
+        "中杯香草拿铁": "34 元",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6163466169",
+        "厕所": "无",
+        "评论 (@sinchang)": "在盛邦国际大厦一楼，四川北路地铁旁，下午人不多。",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.480138,
+          31.253990
+        ]
+      }
     }
   ]
 }
