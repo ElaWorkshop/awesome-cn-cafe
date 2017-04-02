@@ -1339,6 +1339,25 @@
           39.8233
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京赛特购物中心店）",
+        "下载速度": "10.02 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2033544148",
+        "评论 (@xhacker)": "在赛特地下一层，工作日的上午人非常少，到中午饭点人多了起来。",
+        "厕所": "赛特内有，就在附近。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.435,
+          39.9065
+        ]
+      }
     }
   ]
 }
