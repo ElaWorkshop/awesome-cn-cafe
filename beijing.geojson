@@ -1358,6 +1358,25 @@
           39.9065
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京金汇路世界城店）",
+        "下载速度": "3.94 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2041952697",
+        "评论 (@xhacker)": "地方挺大，人不多，靠边处有电源。",
+        "厕所": "出门右转旋转门下地下一层有，比较远。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.446,
+          39.9167
+        ]
+      }
     }
   ]
 }
