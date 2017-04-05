@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡 Maan Coffee",
+        "下载速度": "1.53 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2039519025",
+        "评论 (@xhacker)": "地方超级大，人不太多，比较嘈杂。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.701,
+          26.5952
+        ]
+      }
+    }
+  ]
+}

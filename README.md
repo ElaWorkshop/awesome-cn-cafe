@@ -20,6 +20,7 @@
 * [杭州 (10)](hangzhou.geojson)
 * [广州 (2)](guangzhou.geojson)
 * [深圳 (12)](shenzhen.geojson)
+* [贵阳 (1)](guiyang.geojson)
 
 ## 贡献
 
