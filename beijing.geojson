@@ -1382,9 +1382,10 @@
       "type": "Feature",
       "properties": {
         "名称": "星巴克（北京南四环西路咖啡店）",
+        "营业时间": "周一至周五：7:30–19:00；周末：9:30–17:30",
         "下载速度": "1.18 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/2054972545",
-        "评论 (@xhacker)": "环境舒适、很宽敞、人不多，靠边处有电源。",
+        "评论 (@xhacker)": "环境舒适、很宽敞、人不多，靠边处有电源。晚上打烊很早。",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
