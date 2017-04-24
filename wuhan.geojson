@@ -1,45 +1,80 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "星巴克（光谷国际广场店）",
-        "下载速度": "3.87 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5208990021",
-        "参考价格": "27-45 元",
-        "热拿铁": "27元",
-        "评论 (@lvwzhen)": "位置有点小，网速一般",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.392807,
-          30.509323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "wow cafe",
-        "下载速度": "10.27 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/52094459141",
-        "参考价格": "12-45 元",
-        "热拿铁": "12元",
-        "评论 (@lvwzhen)": "测试网速很快，实际速度不稳定",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.402027,
-          30.50457
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "名称": "星巴克（光谷国际广场店）",
+            "下载速度": "3.87 Mbps",
+            "Speedtest 链接": "http://www.speedtest.net/my-result/5208990021",
+            "参考价格": "27-45 元",
+            "热拿铁": "27元",
+            "评论 (@lvwzhen)": "位置有点小，网速一般",
+            "marker-color": "#C24740",
+            "marker-symbol": "cafe"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.392807,
+                30.509323
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "名称": "wow cafe",
+            "下载速度": "10.27 Mbps",
+            "Speedtest 链接": "http://www.speedtest.net/my-result/52094459141",
+            "参考价格": "12-45 元",
+            "热拿铁": "12元",
+            "评论 (@lvwzhen)": "测试网速很快，实际速度不稳定",
+            "marker-color": "#50C240",
+            "marker-symbol": "cafe"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.402027,
+                30.504570
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "名称": "光谷创业咖啡",
+            "下载速度": "6.37 Mbps",
+            "Speedtest 链接": "http://www.speedtest.net/result/i/2053519680",
+            "参考价格": "18-45 元",
+            "热拿铁": "18元",
+            "评论 (@lvwzhen)": "位置比较小，下午人不多，比较安静。",
+            "marker-color": "#F3AE1A",
+            "marker-symbol": "cafe"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.420,
+                30.4595
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "名称": "COSTA COFFEE",
+            "下载速度": "51.31 Mbps",
+            "Speedtest 链接": "http://www.speedtest.net/result/i/2066439816",
+            "参考价格": "30-45 元",
+            "冰拿铁": "32元",
+            "评论 (@lvwzhen)": "网速很快，有很多人在这里办公",
+            "marker-color": "#50C240",
+            "marker-symbol": "cafe"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.399,
+                30.5082
+            ]
+        }
+    }]
 }
