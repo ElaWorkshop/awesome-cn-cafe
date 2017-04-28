@@ -40,6 +40,66 @@
           30.50457
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "光谷创业咖啡",
+        "下载速度": "6.37 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2053519680",
+        "参考价格": "18-45 元",
+        "热拿铁": "18元",
+        "评论 (@lvwzhen)": "位置比较小，下午人不多，比较安静。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.420,
+          30.4595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COSTA COFFEE",
+        "下载速度": "51.31 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2066439816",
+        "参考价格": "30-45 元",
+        "冰拿铁": "32元",
+        "评论 (@lvwzhen)": "网速很快，有很多人在这里办公",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.399,
+          30.5082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "TOMYORK",
+        "下载速度": "29.78 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2071489966",
+        "参考价格": "20-40 元",
+        "冰摩卡": "20元",
+        "评论 (@lvwzhen)": "学校旁边，人不多，音乐不吵不吵",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.417,
+          30.4425
+        ]
+      }
     }
   ]
 }
