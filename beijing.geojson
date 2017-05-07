@@ -1413,6 +1413,26 @@
           39.9988
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "静默咖啡 SilencecCoffee",
+        "下载速度": "15.31 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2079078556",
+        "大众点评链接": "http://m.dianping.com/appshare/shop/91041725",
+        "评论 (@imty42)": "簋街附近，店小采光好，安静人亦少，铁制座椅桌子略低有插排，咖啡不贵，冷泡很赞",
+        "参考价格": "20-50 元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.414,
+          39.9405
+        ]
+      }
     }
   ]
 }
