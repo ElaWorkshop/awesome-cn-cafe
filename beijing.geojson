@@ -1395,6 +1395,24 @@
           39.8254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（奥林匹克公园地铁站 D出口）",
+        "下载速度": "2.81 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/6254188263",
+        "评论 (@yozman)": "环境舒适、比较吵，靠边处有少量电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.387,
+          39.9988
+        ]
+      }
     }
   ]
 }
