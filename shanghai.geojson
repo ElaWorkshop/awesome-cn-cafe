@@ -908,6 +908,26 @@
           31.25399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（新大陆广场店）",
+        "下载速度": "22.90 Mbps",
+        "大杯抹茶星冰乐": "34 元",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6381348977",
+        "厕所": "无",
+        "评论 (@sinchang)": "工作日人不是很多，旁边是有美食广场以及数码广场。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513886,
+          31.231487
+        ]
+      }
     }
   ]
 }
