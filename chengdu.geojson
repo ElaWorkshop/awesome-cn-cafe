@@ -18,6 +18,24 @@
           30.661270
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡(3号店)（Manne Coffee）",
+        "下载速度": "10.43 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6381848344",
+        "评论 (@cosmos53076)": "高新区，网速很快，人很多",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063417,
+          30.549483
+        ]
+      }
     }
   ]
 }
