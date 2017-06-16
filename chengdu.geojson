@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee",
+        "下载速度": "4.63 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6381402353",
+        "评论 (@cosmos53076)": "成都市中心位置，人少，网速还可以。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.077033,
+          30.664911
+        ]
+      }
+    }
+  ]
+}
