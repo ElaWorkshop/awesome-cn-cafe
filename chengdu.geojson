@@ -36,6 +36,24 @@
           30.549483
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡(2号店)（Manne Coffee）",
+        "下载速度": "7.47 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6384439354",
+        "评论 (@cosmos53076)": "周末人很多，网速还可以，测试连的Wifi是Maan Coffee 2",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.064766,
+          30.648730
+        ]
+      }
     }
   ]
 }
