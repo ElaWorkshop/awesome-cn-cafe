@@ -54,6 +54,24 @@
           30.648730
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡(紫荆美熙广场店)（Manne Coffee）",
+        "下载速度": "18.47 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6393926937",
+        "评论 (@cosmos53076)": "工作日人非常少，即使是午餐时间，网速非常快，测试连的Wifi是Maan Coffee（Mann Coffee Free WiFi很慢）",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051470, 
+          30.615395
+        ]
+      }
     }
   ]
 }
