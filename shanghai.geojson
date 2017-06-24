@@ -947,6 +947,24 @@
           31.2224
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（陆家嘴国际华城店）",
+        "下载速度": "23.40 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2141221925",
+        "评论 (@xhacker)": "地方挺大的，人不太多。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.533,
+          31.2364
+        ]
+      }
     }
   ]
 }
