@@ -928,6 +928,25 @@
           31.231487
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（红房子店）",
+        "下载速度": "22.06 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2144020365",
+        "厕所": "二层有，但卫生条件不好",
+        "评论 (@xhacker)": "地方挺大的，人不太多。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.453,
+          31.2224
+        ]
+      }
     }
   ]
 }
