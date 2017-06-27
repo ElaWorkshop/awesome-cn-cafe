@@ -228,6 +228,25 @@
           22.5551
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（深圳购物中心店）",
+        "下载速度": "1.38 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2147894270",
+        "评论 (@xhacker)": "环境不错，工作日晚上九点没什么人。",
+        "厕所": "出门以后二层有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.09,
+          22.5437
+        ]
+      }
     }
   ]
 }
