@@ -247,6 +247,24 @@
           22.5437
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "GREYBOX Coffee",
+        "下载速度": "1.12 Mbps",
+        "评论 (@xhacker)": "环境不错、基本没人，网速很慢。",
+        "厕所": "商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97,
+          22.5401
+        ]
+      }
     }
   ]
 }
