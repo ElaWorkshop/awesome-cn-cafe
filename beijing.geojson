@@ -1440,7 +1440,7 @@
       "properties": {
         "名称": "星巴克（北京芳草地大厦咖啡店）",
         "下载速度": "6.88 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2059799118  ",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2059799118",
         "评论 (@xhacker)": "在芳草地一层。坐的地方很少，大概只有四五个小桌子。没有电源。",
         "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
@@ -1450,6 +1450,25 @@
         "coordinates": [
           116.443,
           39.9187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京华贸店）",
+        "下载速度": "3.86 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2159296786",
+        "评论 (@xhacker)": "空间大、环境好、人不多。靠边处有电源。在华贸二层。",
+        "厕所": "几米之外就有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.475,
+          39.9078
         ]
       }
     }
