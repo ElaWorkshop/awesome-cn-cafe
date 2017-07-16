@@ -1471,6 +1471,24 @@
           39.9078
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（五棵松华熙 Live 店）",
+        "下载速度": "0.43 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2172031985",
+        "评论 (@xhacker)": "空间大、环境不错。靠边处有少量电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.272,
+          39.908
+        ]
+      }
     }
   ]
 }
