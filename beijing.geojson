@@ -23,25 +23,6 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "May Café",
-        "下载速度": "41 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/4850194225",
-        "参考价格": "25-40 元",
-        "评论 (@mckelvin)": "有电源，网速快，环境不错，人不多。",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.328977,
-          40.03278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "名称": "Esquires Café",
         "下载速度": "3.18 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4891431411",
