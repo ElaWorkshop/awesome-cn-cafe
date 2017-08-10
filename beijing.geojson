@@ -1470,6 +1470,24 @@
           39.908
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（世贸天阶二店）",
+        "下载速度": "5.45 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2206262321",
+        "评论 (@xhacker)": "空间大、环境不错，室外也有有很多座位。靠边处有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.446,
+          39.9149
+        ]
+      }
     }
   ]
 }
