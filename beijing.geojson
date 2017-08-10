@@ -1488,6 +1488,24 @@
           39.9149
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京宝钢大厦店）",
+        "下载速度": "3.91 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/",
+        "评论 (@xhacker)": "地方比较小，在宝钢大厦一层。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.44,
+          39.9067
+        ]
+      }
     }
   ]
 }
