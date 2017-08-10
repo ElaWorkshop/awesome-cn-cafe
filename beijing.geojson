@@ -214,10 +214,11 @@
       "type": "Feature",
       "properties": {
         "名称": "星巴克（贵友店）",
+        "营业状态": "停业",
         "下载速度": "5.01 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5608827828",
         "评论 (@xhacker)": "有少量电源。Wi-Fi 似乎限速 5 M。",
-        "marker-color": "#F3AE1A",
+        "marker-color": "#BEBEBE",
         "marker-symbol": "cafe"
       },
       "geometry": {
