@@ -1527,6 +1527,24 @@
           39.9067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（新中关购物中心）",
+        "下载速度": "1.83 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/-2065387227",
+        "评论 (@xhacker)": "比新中关里的星巴克人少很多，地方也大。网速不行。似乎没有电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.308,
+          39.9765
+        ]
+      }
     }
   ]
 }
