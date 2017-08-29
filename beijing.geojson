@@ -1535,6 +1535,7 @@
         "下载速度": "1.83 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/-2065387227",
         "评论 (@xhacker)": "比新中关里的星巴克人少很多，地方也大。网速不行。似乎没有电源。",
+        "厕所": "购物中心内有，比较远。",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
@@ -1543,6 +1544,25 @@
         "coordinates": [
           116.308,
           39.9765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ZOO COFFEE",
+        "下载速度": "3.42 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/-2065187741",
+        "评论 (@xhacker)": "人少、安静、地方大、咖啡不错。有一些插座。",
+        "厕所": "有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.299,
+          39.9862
         ]
       }
     }
