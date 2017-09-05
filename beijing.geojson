@@ -1565,6 +1565,25 @@
           39.9862
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（公益西桥华联店）",
+        "下载速度": "4.02 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2237745732",
+        "评论 (@xhacker)": "店面比较小，不过人也不太多。",
+        "厕所": "商场三层有，比较远。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.364,
+          39.8327
+        ]
+      }
     }
   ]
 }
