@@ -1584,6 +1584,24 @@
           39.8327
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（阜成门店）",
+        "下载速度": "0.2 Mbps",
+        "评论 (@xhacker)": "地方挺大的，有点乱，Wi-Fi 基本没法用。",
+        "厕所": "商场内有，比较远。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.348,
+          39.9225
+        ]
+      }
     }
   ]
 }
