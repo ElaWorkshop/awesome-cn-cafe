@@ -57,6 +57,25 @@
           32.052
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "新杂志咖啡",
+        "下载速度": "3.65 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2216341385",
+        "参考价格": "30-80 元",
+        "评论 (@61)": "人比较少，高铁南站附近，候车的可以在此休息。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8,
+          31.9721
+        ]
+      }
     }
   ]
 }

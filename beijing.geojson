@@ -24,11 +24,12 @@
       "type": "Feature",
       "properties": {
         "名称": "May Café",
+        "营业状态": "停业",
         "下载速度": "41 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4850194225",
         "参考价格": "25-40 元",
         "评论 (@mckelvin)": "有电源，网速快，环境不错，人不多。",
-        "marker-color": "#50C240",
+        "marker-color": "#BEBEBE",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -233,10 +234,11 @@
       "type": "Feature",
       "properties": {
         "名称": "星巴克（贵友店）",
+        "营业状态": "停业",
         "下载速度": "5.01 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5608827828",
         "评论 (@xhacker)": "有少量电源。Wi-Fi 似乎限速 5 M。",
-        "marker-color": "#F3AE1A",
+        "marker-color": "#BEBEBE",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1382,9 +1384,10 @@
       "type": "Feature",
       "properties": {
         "名称": "星巴克（北京南四环西路咖啡店）",
+        "营业时间": "周一至周五：7:30–19:00；周末：9:30–17:30",
         "下载速度": "1.18 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/2054972545",
-        "评论 (@xhacker)": "环境舒适、很宽敞、人不多，靠边处有电源。",
+        "评论 (@xhacker)": "环境舒适、很宽敞、人不多，靠边处有电源。晚上打烊很早。",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
@@ -1431,6 +1434,190 @@
         "coordinates": [
           116.414,
           39.9405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京芳草地大厦咖啡店）",
+        "下载速度": "6.88 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2059799118",
+        "评论 (@xhacker)": "在芳草地一层。坐的地方很少，大概只有四五个小桌子。没有电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.443,
+          39.9187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京华贸店）",
+        "下载速度": "3.86 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2159296786",
+        "评论 (@xhacker)": "空间大、环境好、人不多。靠边处有电源。在华贸二层。",
+        "厕所": "几米之外就有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.475,
+          39.9078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（五棵松华熙 Live 店）",
+        "下载速度": "0.43 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2172031985",
+        "评论 (@xhacker)": "空间大、环境不错。靠边处有少量电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.272,
+          39.908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（世贸天阶二店）",
+        "下载速度": "5.45 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2206262321",
+        "评论 (@xhacker)": "空间大、环境不错，室外也有有很多座位。靠边处有少量电源。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.446,
+          39.9149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京宝钢大厦店）",
+        "下载速度": "3.91 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/",
+        "评论 (@xhacker)": "地方比较小，在宝钢大厦一层。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.44,
+          39.9067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（新中关购物中心）",
+        "下载速度": "1.83 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/-2065387227",
+        "评论 (@xhacker)": "比新中关里的星巴克人少很多，地方也大。网速不行。似乎没有电源。",
+        "厕所": "购物中心内有，比较远。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.308,
+          39.9765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ZOO COFFEE",
+        "下载速度": "3.42 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/-2065187741",
+        "评论 (@xhacker)": "人少、安静、地方大、咖啡不错。有一些插座。",
+        "厕所": "有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.299,
+          39.9862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（公益西桥华联店）",
+        "下载速度": "4.02 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2237745732",
+        "评论 (@xhacker)": "店面比较小，不过人也不太多。",
+        "厕所": "商场三层有，比较远。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.364,
+          39.8327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（阜成门店）",
+        "下载速度": "0.2 Mbps",
+        "评论 (@xhacker)": "地方挺大的，有点乱，Wi-Fi 基本没法用。",
+        "厕所": "商场内有，比较远。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.348,
+          39.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（世贸天阶南街地下一层店）",
+        "下载速度": "4.09 Mbps",
+        "评论 (@xhacker)": "这是一家新开的店，不知道叫什么，店名是我暂时起的。在世贸天阶南街地下一层，电影院旁边。人不多，环境不错，有一些电源。",
+        "厕所": "商场内有，不太远。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.447,
+          39.915
         ]
       }
     },

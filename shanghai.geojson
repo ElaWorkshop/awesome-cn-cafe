@@ -908,6 +908,63 @@
           31.25399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（新大陆广场店）",
+        "下载速度": "22.90 Mbps",
+        "大杯抹茶星冰乐": "34 元",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6381348977",
+        "厕所": "无",
+        "评论 (@sinchang)": "工作日人不是很多，旁边是有美食广场以及数码广场。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513886,
+          31.231487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（红房子店）",
+        "下载速度": "22.06 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2144020365",
+        "厕所": "二层有，但卫生条件不好",
+        "评论 (@xhacker)": "地方挺大的，人不太多。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.453,
+          31.2224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（陆家嘴国际华城店）",
+        "下载速度": "23.40 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2141221925",
+        "评论 (@xhacker)": "地方挺大的，人不太多。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.533,
+          31.2364
+        ]
+      }
     }
   ]
 }

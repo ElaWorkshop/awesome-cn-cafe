@@ -7,6 +7,7 @@ const path = require('path');
 const RED = '#C24740';
 const YELLOW = '#F3AE1A';
 const GREEN = '#50C240';
+const GRAY = '#BEBEBE';
 
 const cities = fs.readdirSync('./').filter(function (filename) {
   return filename.endsWith('.geojson');
@@ -18,8 +19,10 @@ const setMarkerSymbol = (feature) => {
   feature.properties['marker-symbol'] || (feature.properties['marker-symbol'] = 'cafe');
 }
 
-const setMarkerColor = (feature, avg) => {
-  if (avg < 4) {
+const setMarkerColor = (feature, avg, status) => {
+  if (status === '停业') {
+    feature.properties['marker-color'] = GRAY;
+  } else if (avg < 4) {
     feature.properties['marker-color'] = RED;
   } else if (avg < 10) {
     feature.properties['marker-color'] = YELLOW;
@@ -48,7 +51,8 @@ const buildMarker = (city) => {
       return parseFloat(speedStr);
     }).reduce((a, b) => { return a + b });
     let average = sum / downloadSpeed.length;
-    setMarkerColor(f, average);
+    let status = f.properties['营业状态'];
+    setMarkerColor(f, average, status);
     setMarkerSymbol(f);
   }
   fs.unlinkSync(tempFile);

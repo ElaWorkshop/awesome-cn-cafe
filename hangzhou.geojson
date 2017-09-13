@@ -208,6 +208,26 @@
           30.321
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Cafe Tim",
+        "下载速度": "9.498 Mbps",
+        "上传速度": "4.39 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2154242328",
+        "参考价格": "25 元",
+        "评论 (@xhacker)": "环境不错、咖啡也不错。其实紫金港北街这些咖啡店都挺适合工作的——只要有位置。不是考试周一般人不会太多。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.079,
+          30.3126
+        ]
+      }
     }
   ]
 }
