@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "名称": "星巴克（控江旭辉商城店）",
+        "下载速度": "32.84 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6651019371",
+        "香草星冰乐": "29元",
+        "评论 (@clarkzjw)": "鞍山新村地铁站附近。网速很快，人流不多。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505229,
+          31.275028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "名称": "猫的天空之城（新天地店）",
         "下载速度": "2.2 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/4638301580",
