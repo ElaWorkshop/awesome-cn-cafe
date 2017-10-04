@@ -984,6 +984,24 @@
           31.2364
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（巴黎春天长寿路店）",
+        "下载速度": "0.88 Mbps",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6677782668",
+        "评论 (@xavierchow)": "对面就是长寿公园，临街视野不错，网速实在是不行。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.436319,
+          31.244731
+        ]
+      }
     }
   ]
 }
