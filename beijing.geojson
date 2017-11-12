@@ -1658,6 +1658,25 @@
           39.933333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（3.3大厦店）",
+        "下载速度": "1.97 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2335774359",
+        "评论 (@crispgm)": "环境不错，空间较大。",
+        "厕所": "商场内二楼有，比较远，并且不是很好。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.449,
+          39.9357
+        ]
+      }
     }
   ]
 }
