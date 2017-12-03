@@ -1677,6 +1677,24 @@
           39.9357
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（花乡奥莱村店）",
+        "下载速度": "31.44 Mbps",
+        "评论 (@xhacker)": "周日的晚上人很少。网速超快。",
+        "厕所": "里面没有，附近不知道。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.316,
+          39.8262
+        ]
+      }
     }
   ]
 }
