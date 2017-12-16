@@ -1695,6 +1695,24 @@
           39.8262
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Voyage Coffee（北京坊店）",
+        "下载速度": "12.45 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2387082887",
+        "评论 (@crispgm)": "店面超大，很多“留白”，座位没有那么多，但几乎都有插座。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.390,
+          39.8966
+        ]
+      }
     }
   ]
 }
