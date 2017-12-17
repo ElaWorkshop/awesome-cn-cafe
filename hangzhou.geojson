@@ -1,233 +1,252 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "贝塔朋友@当堂咖啡馆",
-        "下载速度": "2.00 Mbps",
-        "上传速度": "1.95 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5220542783",
-        "参考价格": "27-45 元",
-        "拿铁": "27元",
-        "冰咖啡": "25元",
-        "下午茶套餐": "28/35元",
-        "评论 (@Du)": "店比较空，唯一像互联网咖啡厅的地方是楼上有一些会议室状的房间。网速没有想象中的快，且并没有自带梯子。另外没有插座很怨念",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.11204481124877,
-          30.286697789121206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "芸台书舍",
-        "下载速度": "1.48 Mbps",
-        "上传速度": "1.59 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5257166271",
-        "参考价格": "38 元",
-        "卡布奇诺小杯": "37元",
-        "苏打水": "25元",
-        "评论 (@Du)": "座位有插座，WiFi速度还行，书店所在的娃哈哈未来城有点冷清，所以比起闹市区来这个店很安静，也不用怕来得晚没有座位。",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20397,
-          30.241572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "薄荷咖啡",
-        "下载速度": "34.53 Mbps",
-        "上传速度": "8.76 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5259475408",
-        "参考价格": "30 - 50 元",
-        "拿铁": "30元",
-        "评论 (@61)": "店隐蔽在树林里，比较难找，人比较少环境不错",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.117011,
-          30.282694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "Zoo Coffee",
-        "下载速度": "14.37 Mbps",
-        "上传速度": "7.16 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5260003831",
-        "参考价格": "30 - 50 元",
-        "评论 (@61)": "蘑菇街楼下，位置多",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.096551,
-          30.274977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "云门书屋",
-        "下载速度": "9.78 Mbps",
-        "上传速度": "5.53 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5267002745",
-        "参考价格": "30 - 50 元",
-        "评论 (@61)": "浙大紫金港校区边上，人比较少",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.079322,
-          30.312511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "青峰",
-        "下载速度": "4.47 Mbps",
-        "上传速度": "3.63 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5272283494",
-        "参考价格": "30元",
-        "卡布奇诺": "30元",
-        "薄荷盆栽奶茶": "28元",
-        "双人牛排套餐": "128元",
-        "评论 (@Du)": "靠墙座位有插座，有WiFi，服务态度不错，价格合适，环境安静，供应餐食可以顺便解决午饭",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.211514,
-          30.21258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "Teresa's",
-        "下载速度": "7.0 Mbps",
-        "上传速度": "5.15 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5276933310",
-        "参考价格": "35 - 50 元",
-        "评论 (@61)": "浙大玉泉校区北门附近，人比较少，沙发舒服",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.118611,
-          30.272825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "黑桃咖啡",
-        "下载速度": "34.63 Mbps",
-        "上传速度": "4.21 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5349797629",
-        "参考价格": "35 - 50 元",
-        "评论 (@61)": "西溪路上，店很大，装修很不错，桌子很大沙发很舒服",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.10504,
-          30.270423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "星巴克咖啡 (西溪天堂店)",
-        "下载速度": "0.76 Mbps",
-        "上传速度": "0.15 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5534420505",
-        "参考价格": "≥ 36 ¥",
-        "marker-color": "#C24740",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.086,
-          30.267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "漫咖啡(北城天地工厂概念店)",
-        "下载速度": "24.6 Mbps",
-        "上传速度": "4.76 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/d/4292792",
-        "参考价格": "25 - 50 元",
-        "评论 (@leeiio)": "工厂风格，咖啡还行，比较安静因为这边本来就没有什么人，旁边就是超市和电影院",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.123,
-          30.321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "Cafe Tim",
-        "下载速度": "9.498 Mbps",
-        "上传速度": "4.39 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2154242328",
-        "参考价格": "25 元",
-        "评论 (@xhacker)": "环境不错、咖啡也不错。其实紫金港北街这些咖啡店都挺适合工作的——只要有位置。不是考试周一般人不会太多。",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.079,
-          30.3126
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "名称": "贝塔朋友@当堂咖啡馆",
+                "下载速度": "2.00 Mbps",
+                "上传速度": "1.95 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5220542783",
+                "参考价格": "27-45 元",
+                "拿铁": "27元",
+                "冰咖啡": "25元",
+                "下午茶套餐": "28/35元",
+                "评论 (@Du)": "店比较空，唯一像互联网咖啡厅的地方是楼上有一些会议室状的房间。网速没有想象中的快，且并没有自带梯子。另外没有插座很怨念",
+                "marker-color": "#C24740",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.11204481124877,
+                    30.286697789121206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "芸台书舍",
+                "下载速度": "1.48 Mbps",
+                "上传速度": "1.59 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5257166271",
+                "参考价格": "38 元",
+                "卡布奇诺小杯": "37元",
+                "苏打水": "25元",
+                "评论 (@Du)": "座位有插座，WiFi速度还行，书店所在的娃哈哈未来城有点冷清，所以比起闹市区来这个店很安静，也不用怕来得晚没有座位。",
+                "marker-color": "#C24740",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20397,
+                    30.241572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "薄荷咖啡",
+                "下载速度": "34.53 Mbps",
+                "上传速度": "8.76 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5259475408",
+                "参考价格": "30 - 50 元",
+                "拿铁": "30元",
+                "评论 (@61)": "店隐蔽在树林里，比较难找，人比较少环境不错",
+                "marker-color": "#50C240",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.117011,
+                    30.282694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "Zoo Coffee",
+                "下载速度": "14.37 Mbps",
+                "上传速度": "7.16 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5260003831",
+                "参考价格": "30 - 50 元",
+                "评论 (@61)": "蘑菇街楼下，位置多",
+                "marker-color": "#50C240",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.096551,
+                    30.274977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "云门书屋",
+                "下载速度": "9.78 Mbps",
+                "上传速度": "5.53 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5267002745",
+                "参考价格": "30 - 50 元",
+                "评论 (@61)": "浙大紫金港校区边上，人比较少",
+                "marker-color": "#F3AE1A",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.079322,
+                    30.312511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "青峰",
+                "下载速度": "4.47 Mbps",
+                "上传速度": "3.63 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5272283494",
+                "参考价格": "30元",
+                "卡布奇诺": "30元",
+                "薄荷盆栽奶茶": "28元",
+                "双人牛排套餐": "128元",
+                "评论 (@Du)": "靠墙座位有插座，有WiFi，服务态度不错，价格合适，环境安静，供应餐食可以顺便解决午饭",
+                "marker-color": "#F3AE1A",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211514,
+                    30.21258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "Teresa's",
+                "下载速度": "7.0 Mbps",
+                "上传速度": "5.15 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5276933310",
+                "参考价格": "35 - 50 元",
+                "评论 (@61)": "浙大玉泉校区北门附近，人比较少，沙发舒服",
+                "marker-color": "#F3AE1A",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.118611,
+                    30.272825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "黑桃咖啡",
+                "下载速度": "34.63 Mbps",
+                "上传速度": "4.21 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5349797629",
+                "参考价格": "35 - 50 元",
+                "评论 (@61)": "西溪路上，店很大，装修很不错，桌子很大沙发很舒服",
+                "marker-color": "#50C240",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.10504,
+                    30.270423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "星巴克咖啡 (西溪天堂店)",
+                "下载速度": "0.76 Mbps",
+                "上传速度": "0.15 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/5534420505",
+                "参考价格": "≥ 36 ¥",
+                "marker-color": "#C24740",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.086,
+                    30.267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "漫咖啡(北城天地工厂概念店)",
+                "下载速度": "24.6 Mbps",
+                "上传速度": "4.76 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/d/4292792",
+                "参考价格": "25 - 50 元",
+                "评论 (@leeiio)": "工厂风格，咖啡还行，比较安静因为这边本来就没有什么人，旁边就是超市和电影院",
+                "marker-color": "#50C240",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.123,
+                    30.321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "Cafe Tim",
+                "下载速度": "9.498 Mbps",
+                "上传速度": "4.39 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/i/2154242328",
+                "参考价格": "25 元",
+                "评论 (@xhacker)": "环境不错、咖啡也不错。其实紫金港北街这些咖啡店都挺适合工作的——只要有位置。不是考试周一般人不会太多。",
+                "marker-color": "#F3AE1A",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.079,
+                    30.3126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "名称": "Costa",
+                "下载速度": "2.19 Mbps",
+                "上传速度": "0.33 Mbps",
+                "Speedtest 链接": "http://www.speedtest.net/my-result/6886765222",
+                "参考价格": "30 元",
+                "评论 (@xhacker)": "免费停车，环境、价格适中",
+                "marker-color": "#C24740",
+                "marker-symbol": "cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.164177,
+                    30.196219
+                ]
+            }
+        }
+    ]
 }
