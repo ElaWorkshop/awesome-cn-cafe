@@ -1020,6 +1020,24 @@
           31.259
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Zoo Coffee（丹巴路店）",
+        "下载速度": "31.25 Mbps",
+        "Speedtest 连接": "http://beta.speedtest.net/result/6926316803",
+        "评论（@xavierchow）": "人很少，网速很赞",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.375853,
+          31.22429
+        ]
+      }
     }
   ]
 }
