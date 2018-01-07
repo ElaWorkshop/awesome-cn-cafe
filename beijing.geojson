@@ -1710,8 +1710,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.390,
+          116.39,
           39.8966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京宏福路咖啡店）",
+        "下载速度": "86.3 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2429185003",
+        "评论 (@xhacker)": "店不太大，人也不太多。网速超快。",
+        "厕所": "商场内有。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.334,
+          39.79
         ]
       }
     }
