@@ -1733,6 +1733,25 @@
           39.79
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "UCoffee 悠咖啡(三里屯店)",
+        "下载速度": "72.7 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/6973275498",
+        "评论 (@philip-zhan)": "有电源，店面大",
+        "厕所": "有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.444624, 
+          39.938279
+        ]
+      }
     }
   ]
 }
