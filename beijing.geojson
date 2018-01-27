@@ -1748,8 +1748,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.444624, 
+          116.444624,
           39.938279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京三里河东路店）",
+        "下载速度": "5.05 Mbps",
+        "Speedtest 链接": "",
+        "评论 (@xhacker)": "地方不大，插座很多。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.338,
+          39.906
         ]
       }
     }
