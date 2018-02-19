@@ -22,6 +22,7 @@
 * [深圳 (15)](shenzhen.geojson)
 * [贵阳 (1)](guiyang.geojson)
 * [成都 (4)](chengdu.geojson)
+* [南昌 (1)](nanchang.geojson)
 
 ## 贡献
 
