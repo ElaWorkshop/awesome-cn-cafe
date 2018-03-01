@@ -1050,11 +1050,11 @@
       "type": "Feature",
       "properties": {
         "名称": "太平洋咖啡（国贸店）",
-        "下载速度": "2.28 Mbps",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1948933221",
-        "评论 (@xhacker)": "地方很有意思，有各种座位和桌子。有一些电源，人不太多。在国贸商城地下一层，从 Zone 1 & 2 到 Zone 3 的路上。",
+        "下载速度": "19.6 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/d/36204939",
+        "评论 (@xhacker)": "刚刚装修过，每个座位都有电源和 USB 口。人不太多。在国贸商城地下一层，从 Zone 1 & 2 到 Zone 3 的路上。用 China World 的 Wi-Fi 速度很快。",
         "厕所": "可用商城内的，有点远。",
-        "marker-color": "#C24740",
+        "marker-color": "#50C240",
         "marker-symbol": "cafe"
       },
       "geometry": {
