@@ -1806,6 +1806,24 @@
           39.894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京成寿寺路咖啡店）",
+        "下载速度": "3.91 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2527631238",
+        "评论 (@xhacker)": "在新业广场1层A129。人不太多、网速不太快。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.44,
+          39.856
+        ]
+      }
     }
   ]
 }
