@@ -1777,7 +1777,7 @@
         "名称": "星巴克（北京东三环南路店）",
         "下载速度": "9.80 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/result/i/2529007752",
-        "评论 (@xhacker)": "人不太多，网速不错，有一些插座。在地铁双井站D口旁边。",
+        "评论 (@xhacker)": "人不太多、网速不错、有一些插座。在地铁双井站D口旁边。",
         "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
@@ -1786,6 +1786,24 @@
         "coordinates": [
           116.454,
           39.892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京富力广场购物中心店）",
+        "下载速度": "1.11 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2529000289",
+        "评论 (@xhacker)": "在富力广场购物中心一层。人多、网速慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.455,
+          39.894
         ]
       }
     }
