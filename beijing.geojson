@@ -1770,6 +1770,25 @@
           39.906
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "饮冰室",
+        "下载速度": "51.7 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2525722107",
+        "评论 (@crispgm)": "美术馆旁边，网速快，插座多。前提是别遇到过量网红。",
+        "厕所": "芳草地有豪华舒适的厕所。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.443,
+          39.918
+        ]
+      }
     }
   ]
 }
