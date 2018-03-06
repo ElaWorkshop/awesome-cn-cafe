@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "德克士",
+        "下载速度": "0.14 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/d/34889103",
+        "评论 (@xhacker)": "南昌火车站候车楼内最好的休息场所——地方很大，人相对较少。可惜店内 Wi-Fi 很慢，几乎不能用。",
+        "厕所": "店内没有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913,
+          28.667
+        ]
+      }
+    }
+  ]
+}

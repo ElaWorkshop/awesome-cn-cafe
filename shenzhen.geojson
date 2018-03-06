@@ -265,6 +265,24 @@
           22.5401
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw Coffee（华润万象天地店）",
+        "下载速度": "76.5 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2502494917",
+        "评论 (@crispgm)": "“网红”咖啡平时人应该很多，春节期间比较清静，网速惊人。插座充足。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.953,
+          22.545
+        ]
+      }
     }
   ]
 }

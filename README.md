@@ -13,15 +13,16 @@
 
 ## 城市列表
 
-* [北京 (96)](beijing.geojson)
+* [北京 (99)](beijing.geojson)
 * [上海 (54)](shanghai.geojson)
 * [南京 (4)](nanjing.geojson)
 * [武汉 (5)](wuhan.geojson)
 * [杭州 (11)](hangzhou.geojson)
 * [广州 (2)](guangzhou.geojson)
-* [深圳 (14)](shenzhen.geojson)
+* [深圳 (15)](shenzhen.geojson)
 * [贵阳 (1)](guiyang.geojson)
 * [成都 (4)](chengdu.geojson)
+* [南昌 (1)](nanchang.geojson)
 
 ## 贡献
 
