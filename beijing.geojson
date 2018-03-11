@@ -1843,6 +1843,25 @@
           39.918
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "言几又",
+        "下载速度": "4.07 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2539464374",
+        "评论 (@xhacker)": "是一个书店+咖啡馆。拿铁好喝。地方大、人也不少。Wi-Fi 热点非常多，加之地方很大，测速可能不具代表性。地上有很多插座。",
+        "厕所": "里面似乎没有，商场内有。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.321,
+          39.786
+        ]
+      }
     }
   ]
 }
