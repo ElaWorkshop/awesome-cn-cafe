@@ -1862,6 +1862,25 @@
           39.786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw Coffee (王府中环店)",
+        "下载速度": "16.97 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2683924506",
+        "评论 (@crispgm)": "位于王府中环，整体人不算多但座位也不多，傍晚时空位十分充足。",
+        "厕所": "商场内有，干净且位置充足。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.404,
+          39.911
+        ]
+      }
     }
   ]
 }
