@@ -1881,6 +1881,24 @@
           39.911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（湖景东路店）",
+        "下载速度": "0.46 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2728094223",
+        "评论 (@xhacker)": "地方挺大、（周末）人不少。网速慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.388,
+          39.998
+        ]
+      }
     }
   ]
 }
