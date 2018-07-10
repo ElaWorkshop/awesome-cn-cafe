@@ -1900,6 +1900,24 @@
           39.998
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（秀水街店）",
+        "下载速度": "2.28 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2731336695",
+        "评论 (@xhacker)": "新开的一家店，坐的地方都在室外。在东大桥路西侧。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.444,
+          39.908
+        ]
+      }
     }
   ]
 }
