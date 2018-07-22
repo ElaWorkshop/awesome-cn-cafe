@@ -1038,6 +1038,25 @@
           31.22429
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（合生汇店）",
+        "下载速度": "2.90 Mbps",
+        "Speedtest 连接": "http://www.speedtest.net/my-result/i/2750299527",
+        "评论（@xhacker）": "地方挺大的，人不算特别多。在合生汇地下一层。",
+        "厕所": "商场内附近有厕所。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514,
+          31.303
+        ]
+      }
     }
   ]
 }
