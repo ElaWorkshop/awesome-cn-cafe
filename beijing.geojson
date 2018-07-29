@@ -1918,6 +1918,24 @@
           39.908
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Coffee Cuore 初心咖啡馆",
+        "下载速度": "9.37 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/result/i/2748678230",
+        "评论 (@crispgm)": "网速满意，也有适合工作的桌子，但有些网红人太多了。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.460,
+          39.946
+        ]
+      }
     }
   ]
 }
