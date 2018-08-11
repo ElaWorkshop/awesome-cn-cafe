@@ -16,5 +16,5 @@ Green  | #50C240 | 10+ Mbps
 ## How to run
 
 ```shell
-node tools/housepeeker.js
+./tools/housepeeker.js
 ```
