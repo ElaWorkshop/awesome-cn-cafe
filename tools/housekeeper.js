@@ -1,18 +1,23 @@
+#!/usr/bin/env node
+
 'use strict';
 
 const assert = require('assert');
 const fs = require('fs');
 const path = require('path');
+const updater = require('./lint');
 
 const RED = '#C24740';
 const YELLOW = '#F3AE1A';
 const GREEN = '#50C240';
 const GRAY = '#BEBEBE';
 
+const GEOJSON_EXT = '.geojson';
+
 const cities = fs.readdirSync('./').filter(function (filename) {
-  return filename.endsWith('.geojson');
+  return filename.endsWith(GEOJSON_EXT);
 }).map(function (filename) {
-  return filename.substring(0, filename.length - '.geojson'.length);
+  return path.basename(filename, GEOJSON_EXT);
 });
 
 const setMarkerSymbol = (feature) => {
@@ -37,7 +42,7 @@ const buildMarker = (city) => {
 
   //copy geojson to json file because node.js only requires(load) json file.
   fs.writeFileSync(tempFile, fs.readFileSync(sourceFile));
-  let target = require(tempFile);
+  const target = require(tempFile);
   for (let f of target.features) {
     let downloadSpeed = f.properties['下载速度'];
     //some downloadSpeed may be array, in such case let's caculate the average
@@ -59,4 +64,5 @@ const buildMarker = (city) => {
   fs.writeFileSync(sourceFile, JSON.stringify(target, null, 2) + '\n');
   console.log(`${city}: Done with ${target.features.length} records!`);
 }
-cities.forEach(buildMarker)
+cities.forEach(buildMarker);
+updater.updateCafeNumbers();

@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-  - "4.4"
+  - "6.9"
 before_install:
   - cd tools
 install:

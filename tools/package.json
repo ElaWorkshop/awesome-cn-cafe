@@ -8,7 +8,8 @@
   },
   "author": "xavierchow",
   "license": "MIT",
-  "devDependencies": {
-    "jsonlint": "^1.6.2"
+  "dependencies": {
+    "jsonlint": "^1.6.2",
+    "chalk": "^2.4.1"
   }
 }
