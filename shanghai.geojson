@@ -1057,6 +1057,26 @@
           31.303
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "B5 Coffee",
+        "下载速度": "25.06 Mbps",
+        "Speedtest 连接": "http://www.speedtest.net/result/7543122015",
+        "评论（@xavierchow）": "在汉森家具商场里，人不多，网络给力",
+        "厕所": "商场内附近有厕所。",
+        "电源": "充足",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.422402,
+          31.230591
+        ]
+      }
     }
   ]
 }
