@@ -1077,6 +1077,26 @@
           31.230591
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "矢量咖啡",
+        "下载速度": "78.59 Mbps",
+        "Speedtest 连接": "http://www.speedtest.net/result/7617999691",
+        "评论（@xavierchow）": "长风大悦城4楼，连着书店，网速很快",
+        "厕所": "商场内附近有厕所。",
+        "电源": "充足",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.390105,
+          31.224619
+        ]
+      }
     }
   ]
 }
