@@ -1097,6 +1097,26 @@
           31.224619
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Vesh Coffee",
+        "下载速度": "7.29 Mbps",
+        "Speedtest 连接": "http://www.speedtest.net/result/7658854203",
+        "评论（@xavierchow）": "空间很大，咖啡还ok",
+        "厕所": "有",
+        "电源": "大概三分之一位置有",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41874,
+          31.213329
+        ]
+      }
     }
   ]
 }
