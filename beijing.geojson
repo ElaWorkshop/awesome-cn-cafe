@@ -1936,6 +1936,25 @@
           39.946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京五棵松卓展店）",
+        "下载速度": "28.5 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2875370620",
+        "评论 (@xhacker)": "在卓展一层。地方不太大。",
+        "厕所": "店里有。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.272,
+          39.912
+        ]
+      }
     }
   ]
 }

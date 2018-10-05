@@ -60,6 +60,6 @@ if (require.main === module) {
 
 exports.updateCafeNumbers = () => {
   cities.forEach(update);
-  console.log(chalk.magenta('Updating README.md, don`t forget to commit it!'));
+  console.log(chalk.magenta('Updating README.md, don’t forget to commit it!'));
   fs.writeFileSync(readme, readmeContent);
 }
