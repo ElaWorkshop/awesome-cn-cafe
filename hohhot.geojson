@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（呼和浩特海亮广场店）",
+        "下载速度": "3.80 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/zh-Hans/result/i/2899290848",
+        "评论 (@xhacker)": "地方挺大的，人不多。周围有电源。",
+        "厕所": "店内有",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.663,
+          40.815
+        ]
+      }
+    }
+  ]
+}

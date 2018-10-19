@@ -23,6 +23,7 @@
 * [贵阳 (1)](guiyang.geojson)
 * [成都 (4)](chengdu.geojson)
 * [南昌 (1)](nanchang.geojson)
+* [呼和浩特 (1)](hohhot.geojson)
 
 ## 贡献
 
