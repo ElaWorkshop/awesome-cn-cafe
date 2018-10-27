@@ -1955,6 +1955,24 @@
           39.912
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（西单华威店）",
+        "下载速度": "0.68 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2913118437",
+        "评论 (@xhacker)": "地方不大，人也不太多。有少量电源。网速慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.368,
+          39.91
+        ]
+      }
     }
   ]
 }
