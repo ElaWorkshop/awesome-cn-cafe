@@ -1973,6 +1973,24 @@
           39.91
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（华联商厦店）",
+        "下载速度": "1.22 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2925025134",
+        "评论 (@xhacker)": "大小中等，人不太多。有少量电源。网速慢。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.306,
+          40.027
+        ]
+      }
     }
   ]
 }
