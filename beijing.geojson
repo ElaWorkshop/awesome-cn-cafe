@@ -2010,6 +2010,24 @@
           39.853
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京朝外悠唐店）",
+        "下载速度": "1.60 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2928814112",
+        "评论 (@xhacker)": "地方挺大、开阔、明亮，有两层，人不多。网速一般。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.435,
+          39.921
+        ]
+      }
     }
   ]
 }
