@@ -1991,6 +1991,25 @@
           40.027
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "太平洋咖啡（凯德MALL·大峡谷）",
+        "下载速度": "1.26 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2939048674",
+        "评论 (@xhacker)": "在凯德MALL一层。空间开放、有点喧闹、人不太多。",
+        "厕所": "商城二层有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.452,
+          39.9108
+        ]
+      }
     }
   ]
 }
