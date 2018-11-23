@@ -24,6 +24,7 @@
 * [成都 (4)](chengdu.geojson)
 * [南昌 (1)](nanchang.geojson)
 * [呼和浩特 (1)](hohhot.geojson)
+* [洛阳 (1)](luoyang.geojson)
 
 ## 贡献
 

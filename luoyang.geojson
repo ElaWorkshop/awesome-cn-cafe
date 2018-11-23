@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（洛阳中州路王府井店）",
+        "下载速度": "15.5 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2959043772",
+        "评论 (@xhacker)": "店非常大，人不多，网速快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.429,
+          34.671
+        ]
+      }
+    }
+  ]
+}
