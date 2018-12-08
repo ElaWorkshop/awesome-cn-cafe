@@ -2028,6 +2028,24 @@
           39.92076509416812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "蜗牛小酒馆",
+        "下载速度": "75.8 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2984079541",
+        "评论 (@xhacker)": "有电影有演出有咖啡的小酒馆。在大兴胡同内。网速惊人。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.404,
+          39.936
+        ]
+      }
     }
   ]
 }
