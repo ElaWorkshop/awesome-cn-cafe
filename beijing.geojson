@@ -2046,6 +2046,24 @@
           39.936
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京威新国际大厦店）",
+        "下载速度": "39.51 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/zh-Hans/result/i/2996837101",
+        "评论 (@xhacker)": "地方挺大、人不太多、网速快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.326,
+          39.992
+        ]
+      }
     }
   ]
 }
