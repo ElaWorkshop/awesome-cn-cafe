@@ -2,7 +2,7 @@
 This script automatically does houskeeping work:
 
 * Sets the `marker-color` for places by the network speed
-* [TODO] Updates README.md
+* Updates README.md
 
 Color  | Hex     | Speed
 ------ | ------- | -----
@@ -12,6 +12,11 @@ Green  | #50C240 | 10+ Mbps
 
 ## Prerequisite
 [Node.js](https://nodejs.org/)
+
+```shell
+cd tools
+npm install
+```
 
 ## How to run
 
