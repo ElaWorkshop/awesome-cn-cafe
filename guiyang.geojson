@@ -18,6 +18,24 @@
           26.5952
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 Starbucks（贵阳花果园1店）",
+        "下载速度": "64.7 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3024837860",
+        "评论 (@xhacker)": "人不太多，网速快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.685,
+          26.571
+        ]
+      }
     }
   ]
 }
