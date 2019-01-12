@@ -2064,6 +2064,24 @@
           39.992
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "车库咖啡",
+        "下载速度": "2.71 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3044002805",
+        "评论 (@xhacker)": "里面气氛比较诡异，空气也不好。地方很大，人也不少。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.301,
+          39.983
+        ]
+      }
     }
   ]
 }
