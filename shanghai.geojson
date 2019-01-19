@@ -1117,6 +1117,24 @@
           31.213329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw Coffee（国金中心店）",
+        "下载速度": "0.41 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3053921859",
+        "评论 (@xhacker)": "在国金中心LG1。开放的环境，座位比较少，有点吵闹。手冲很赞。有电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.499,
+          31.238
+        ]
+      }
     }
   ]
 }
