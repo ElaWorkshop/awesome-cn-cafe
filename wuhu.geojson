@@ -18,6 +18,23 @@
             31.3425
         ]
       }
-    }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 Starbucks（苏宁广场店）",
+        "下载速度": "6.91 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/7976754230",
+        "评论 (@zhaochunqi)": "网速实际体验还好，可能跟我在咖啡厅位置比较偏有关系，地理位置好。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.361667,
+            31.335278
+        ]
+      }
   ]
 }

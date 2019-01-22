@@ -25,7 +25,7 @@
 * [南昌 (1)](nanchang.geojson)
 * [呼和浩特 (1)](hohhot.geojson)
 * [洛阳 (1)](luoyang.geojson)
-* [芜湖 (1)](wuhu.geojson)
+* [芜湖 (2)](wuhu.geojson)
 
 ## 贡献
 
