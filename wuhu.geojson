@@ -14,12 +14,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            118.361389,
-            31.3425
+          118.361389,
+          31.3425
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "名称": "星巴克 Starbucks（苏宁广场店）",
@@ -32,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            118.361667,
-            31.335278
+          118.361667,
+          31.335278
         ]
       }
     }

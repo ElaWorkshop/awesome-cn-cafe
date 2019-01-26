@@ -2082,6 +2082,25 @@
           39.983
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京石榴中心店）",
+        "下载速度": "1.29 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3067814198",
+        "评论 (@xhacker)": "这附近似乎比较萧条，所以人不怎么多。地方挺大。",
+        "停车": "5元/小时",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.416,
+          39.84
+        ]
+      }
     }
   ]
 }
