@@ -1135,6 +1135,24 @@
           31.238
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（衡山坊店）",
+        "下载速度": "0.57 Mbps",
+        "Speedtest 连接": "https://www.speedtest.net/my-result/i/3113038788",
+        "评论（@xhacker）": "一栋很漂亮的小楼。人不算少，基本恰好坐满。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.435,
+          31.198
+        ]
+      }
     }
   ]
 }
