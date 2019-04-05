@@ -2117,7 +2117,25 @@
         "type": "Point",
         "coordinates": [
           116.467,
-          39.940
+          39.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw Coffee (大悦城店)",
+        "下载速度": "3.90 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3180626540",
+        "评论 (@xhacker)": "位于朝阳大悦城九层，有点难找，在三联书店的最最最里面。是一大片采光非常好的空间。没看到电源。Seesaw 自己的 Wi-Fi 连不上网，测速用的是大悦城 Wi-Fi。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.512,
+          39.924
         ]
       }
     }
