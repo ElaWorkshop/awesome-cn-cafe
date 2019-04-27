@@ -2139,6 +2139,25 @@
           39.924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京天畅园咖啡店）",
+        "下载速度": "4.56 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3216148134",
+        "评论 (@xhacker)": "店面很小，人也比较少。似乎没有电源。",
+        "厕所": "店内没用，附近也没有，只能去对面的商场。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.41,
+          40.031
+        ]
+      }
     }
   ]
 }
