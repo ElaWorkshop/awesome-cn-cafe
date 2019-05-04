@@ -254,6 +254,7 @@
       "type": "Feature",
       "properties": {
         "名称": "Costa Coffee（颐堤港店）",
+        "营业状态": "停业",
         "下载速度": "1.41 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1768641381",
         "中杯拿铁": "31 元",
