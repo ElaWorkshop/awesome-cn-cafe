@@ -2159,6 +2159,25 @@
           40.031
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（汉威店）",
+        "营业时间": "周一至周五：7:30–20:00；周末不开",
+        "下载速度": "0.59 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3229496953",
+        "评论（@xhacker）": "在汉威大厦东区1层。地方挺大的，人少。网速慢。靠边处有一些电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.449,
+          39.913
+        ]
+      }
     }
   ]
 }
