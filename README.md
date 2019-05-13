@@ -26,6 +26,7 @@
 * [呼和浩特 (1)](hohhot.geojson)
 * [洛阳 (1)](luoyang.geojson)
 * [芜湖 (2)](wuhu.geojson)
+* [青岛 (1)](qingdao.geojson)
 
 ## 贡献
 

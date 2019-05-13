@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Danty Sevour 丹缇甘滋咖啡",
+        "下载速度": "32 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3232764143",
+        "人均消费": "72元",
+        "荷兰冰滴": "38元",
+        "评论 (@monswag)": "在奥帆中心里的情人坝，可以看到五四广场附近的海岸线，但是这家店没有 Espresso 很奇怪。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.385831,
+          36.051763
+        ]
+      }
+    }
+  ]
+}
