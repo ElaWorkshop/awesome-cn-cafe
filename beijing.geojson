@@ -2178,6 +2178,25 @@
           39.913
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "西西弗书店矢量咖啡（永旺梦乐城店）",
+        "下载速度": "19.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3250306615",
+        "评论 (@xhacker)": "安静、环境好、人不多、靠边处有电源有电源。在永旺梦乐城1层。",
+        "厕所": "可用商场内厕所。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.286,
+          39.817
+        ]
+      }
     }
   ]
 }
