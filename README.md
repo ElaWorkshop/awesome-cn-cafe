@@ -27,6 +27,7 @@
 * [洛阳 (1)](luoyang.geojson)
 * [芜湖 (2)](wuhu.geojson)
 * [青岛 (1)](qingdao.geojson)
+* [沈阳 (1)](shenyang.geojson)
 
 ## 贡献
 

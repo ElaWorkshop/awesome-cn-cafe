@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（沈阳万象城店）",
+        "下载速度": "15.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3255049915",
+        "评论 (@xhacker)": "在万象城B1，空间很大。",
+        "厕所": "商场内有。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.429,
+          41.772
+        ]
+      }
+    }
+  ]
+}
