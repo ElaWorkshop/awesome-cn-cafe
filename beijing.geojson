@@ -2197,6 +2197,25 @@
           39.817
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京大恒科技大厦店）",
+        "下载速度": "3.29 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3272251157",
+        "评论 (@xhacker)": "地方很大。",
+        "厕所": "写字楼内有厕所，卫生条件一般。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3,
+          39.981
+        ]
+      }
     }
   ]
 }
