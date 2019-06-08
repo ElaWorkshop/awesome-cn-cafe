@@ -2216,6 +2216,24 @@
           39.981
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京乐成中心店）",
+        "下载速度": "30.3 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3282140743",
+        "评论 (@xhacker)": "地方不是很大，人也不是很多。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.458,
+          39.893
+        ]
+      }
     }
   ]
 }
