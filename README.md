@@ -28,6 +28,7 @@
 * [芜湖 (2)](wuhu.geojson)
 * [青岛 (1)](qingdao.geojson)
 * [沈阳 (1)](shenyang.geojson)
+* [哈尔滨（1）](harbin.geojson)
 
 ## 贡献
 
