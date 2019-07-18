@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（哈尔滨学府路店）",
+        "下载速度": "3.74 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3334305105",
+        "评论 (@spencerwooo)": "早上 9 点多去人很少，落地窗，桌子很干净，有音乐。靠近凯德广场入口，噪声还是有的。",
+        "厕所": "商场内有厕所。",
+        "参考价格": "20-50 元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.604,
+          45.719
+        ]
+      }
+    }
+  ]
+}
