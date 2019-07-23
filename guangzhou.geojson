@@ -45,6 +45,24 @@
           23.13122
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（广州太古汇店）",
+        "下载速度": "0.38 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/3296587788",
+        "评论 (@xhacker)": "是一家臻选店，店面很大，人不少，不够清静。在太古汇地下一层。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.327,
+          23.137
+        ]
+      }
     }
   ]
 }
