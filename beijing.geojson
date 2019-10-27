@@ -2234,6 +2234,24 @@
           39.893
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京槐房西路店）",
+        "下载速度": "6.21 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/3518708794",
+        "评论 (@xhacker)": "在万达广场一层，中等大小，人基本坐满。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36,
+          39.814
+        ]
+      }
     }
   ]
 }
