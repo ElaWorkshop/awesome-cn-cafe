@@ -1172,6 +1172,24 @@
           31.230998
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "巴黎贝甜（长寿店）",
+        "下载速度": "22.8 Mbps",
+        "Speedtest 连接": "https://www.speedtest.net/my-result/i/3537400713",
+        "评论（@xhacker）": "地方挺大的，网速快，无电源。",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.434,
+          31.241
+        ]
+      }
     }
   ]
 }
