@@ -2253,6 +2253,24 @@
           39.814
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Costa Coffee（甘家口店）",
+        "下载速度": "0.85 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3552052717",
+        "评论 (@xhacker)": "甘家口大厦目前正在装修，人比较少。沙发处有电源。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.328,
+          39.926
+        ]
+      }
     }
   ]
 }
