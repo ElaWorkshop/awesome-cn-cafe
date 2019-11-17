@@ -2261,6 +2261,7 @@
         "下载速度": "0.85 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/my-result/i/3552052717",
         "评论 (@xhacker)": "甘家口大厦目前正在装修，人比较少。沙发处有电源。",
+        "停车": "甘家口大厦：8元/小时",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
       },
@@ -2269,6 +2270,25 @@
         "coordinates": [
           116.328,
           39.926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "GREYBOX Coffee（金融街店）",
+        "下载速度": "2.37 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3553701289",
+        "评论 (@xhacker)": "人不太多，网速慢。澳白味道一般。",
+        "厕所": "商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.356,
+          39.914
         ]
       }
     }
