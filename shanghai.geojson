@@ -1190,6 +1190,25 @@
           31.241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Tims Coffee House（漕河泾店）",
+        "下载速度": "2.60 Mbps",
+        "中杯美式": "22 元",
+        "Speedtest 连接": "https://www.speedtest.net/my-result/d/147003702",
+        "评论（@clarkzjw）": "地方不大，约有20个座位，只有一处电源插座，网速慢",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.398,
+          31.166
+        ]
+      }
     }
   ]
 }
