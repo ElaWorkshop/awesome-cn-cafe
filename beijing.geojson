@@ -1610,9 +1610,9 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "星巴克（世贸天阶南街地下一层店）",
+        "名称": "星巴克（世贸天阶B1店）",
         "下载速度": "4.09 Mbps",
-        "评论 (@xhacker)": "这是一家新开的店，不知道叫什么，店名是我暂时起的。在世贸天阶南街地下一层，电影院旁边。人不多，环境不错，有一些电源。",
+        "评论 (@xhacker)": "这是一家新开的店，在世贸天阶南街地下一层，电影院旁边。人不多，环境不错，有一些电源。",
         "厕所": "商场内有，不太远。",
         "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
@@ -2291,6 +2291,25 @@
         "coordinates": [
           116.356,
           39.914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（世贸天阶1F店）",
+        "下载速度": "10.7 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3840890981",
+        "评论 (@xhacker)": "店内有一些座位，外面也有一些座位。店内网速不错。",
+        "厕所": "商场内有。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.445,
+          39.915
         ]
       }
     }
