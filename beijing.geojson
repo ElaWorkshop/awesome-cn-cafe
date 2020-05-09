@@ -2312,6 +2312,25 @@
           39.915
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "西西弗书店矢量咖啡",
+        "下载速度": "5.18 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3882463305",
+        "评论 (@xhacker)": "人少、清静、可以看书。",
+        "厕所": "商场内有。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.454,
+          39.911
+        ]
+      }
     }
   ]
 }
