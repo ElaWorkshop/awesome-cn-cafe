@@ -644,11 +644,12 @@
       "type": "Feature",
       "properties": {
         "名称": "Costa Coffee（IFC 大厦店）",
+        "营业状态": "停业",
         "下载速度": "0.46 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1831357023",
         "参考价格（大杯卡布奇诺）": "37 元",
         "评论（@xhacker）": "环境不错，网速慢。",
-        "marker-color": "#C24740",
+        "marker-color": "#BEBEBE",
         "marker-symbol": "cafe"
       },
       "geometry": {
