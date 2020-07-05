@@ -2332,6 +2332,25 @@
           39.911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京杏石口咖啡店）",
+        "下载速度": "81.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3998515045",
+        "评论 (@xhacker)": "店比较大。环境好。网速快。有少量电源。",
+        "厕所": "店内有。疫情期间没有开。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.224,
+          39.953
+        ]
+      }
     }
   ]
 }
