@@ -2351,6 +2351,24 @@
           39.953
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "% ARABICA",
+        "下载速度": "9.82 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4017231344",
+        "评论 (@xhacker)": "工作日的中午基本坐满。少量作为有插座。西班牙拿铁默认偏甜了一点。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.449,
+          39.934
+        ]
+      }
     }
   ]
 }
