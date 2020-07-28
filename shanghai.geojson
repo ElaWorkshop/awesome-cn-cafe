@@ -1231,6 +1231,27 @@
           31.207
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Coffee is",
+        "下载速度": "40.1 Mbps",
+        "Dirty SOE": "28 元",
+        "Speedtest 连接": "https://www.speedtest.net/my-result/i/4041545490",
+        "评论（@octref）": "咖啡不贵，但出品还行。周中人下午很多。适合短暂办公。",
+        "厕所": "无",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.453,
+          31.209
+        ]
+      }
     }
   ]
 }
