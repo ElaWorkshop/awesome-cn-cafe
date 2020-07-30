@@ -1009,7 +1009,7 @@
       "properties": {
         "名称": "星巴克（金桥国际商业广场店）",
         "下载速度": "1.13 Mbps",
-        "Speedtest 连接": "http://www.speedtest.net/my-result/a/3382540953",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/a/3382540953",
         "评论（@marlinl）": "平常时候人比较多，网速实在不行，在外面坐着根本就没有速度",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
@@ -1027,7 +1027,7 @@
       "properties": {
         "名称": "Zoo Coffee（丹巴路店）",
         "下载速度": "31.25 Mbps",
-        "Speedtest 连接": "http://beta.speedtest.net/result/6926316803",
+        "Speedtest 链接": "http://beta.speedtest.net/result/6926316803",
         "评论（@xavierchow）": "人很少，网速很赞",
         "marker-color": "#50C240",
         "marker-symbol": "cafe"
@@ -1045,7 +1045,7 @@
       "properties": {
         "名称": "星巴克（合生汇店）",
         "下载速度": "2.90 Mbps",
-        "Speedtest 连接": "http://www.speedtest.net/my-result/i/2750299527",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/i/2750299527",
         "评论（@xhacker）": "地方挺大的，人不算特别多。在合生汇地下一层。",
         "厕所": "商场内附近有厕所。",
         "marker-color": "#C24740",
@@ -1064,7 +1064,7 @@
       "properties": {
         "名称": "B5 Coffee",
         "下载速度": "25.06 Mbps",
-        "Speedtest 连接": "http://www.speedtest.net/result/7543122015",
+        "Speedtest 链接": "http://www.speedtest.net/result/7543122015",
         "评论（@xavierchow）": "在汉森家具商场里，人不多，网络给力",
         "厕所": "商场内附近有厕所。",
         "电源": "充足",
@@ -1084,7 +1084,7 @@
       "properties": {
         "名称": "矢量咖啡",
         "下载速度": "78.59 Mbps",
-        "Speedtest 连接": "http://www.speedtest.net/result/7617999691",
+        "Speedtest 链接": "http://www.speedtest.net/result/7617999691",
         "评论（@xavierchow）": "长风大悦城4楼，连着书店，网速很快",
         "厕所": "商场内附近有厕所。",
         "电源": "充足",
@@ -1104,7 +1104,7 @@
       "properties": {
         "名称": "Vesh Coffee",
         "下载速度": "7.29 Mbps",
-        "Speedtest 连接": "http://www.speedtest.net/result/7658854203",
+        "Speedtest 链接": "http://www.speedtest.net/result/7658854203",
         "评论（@xavierchow）": "空间很大，咖啡还ok",
         "厕所": "有",
         "电源": "大概三分之一位置有",
@@ -1142,7 +1142,7 @@
       "properties": {
         "名称": "星巴克（衡山坊店）",
         "下载速度": "0.57 Mbps",
-        "Speedtest 连接": "https://www.speedtest.net/my-result/i/3113038788",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3113038788",
         "评论（@xhacker）": "一栋很漂亮的小楼。人不算少，基本恰好坐满。",
         "marker-color": "#C24740",
         "marker-symbol": "cafe"
@@ -1160,7 +1160,7 @@
       "properties": {
         "名称": "Periwinkle",
         "下载速度": "10.04 Mbps",
-        "Speedtest 连接": "https://www.speedtest.net/result/8083701234",
+        "Speedtest 链接": "https://www.speedtest.net/result/8083701234",
         "评论（@xavierchow）": "悦达889二楼，位置宽敞，部分位置有电源。",
         "marker-symbol": "cafe",
         "marker-color": "#50C240"
@@ -1178,7 +1178,7 @@
       "properties": {
         "名称": "巴黎贝甜（长寿店）",
         "下载速度": "22.8 Mbps",
-        "Speedtest 连接": "https://www.speedtest.net/my-result/i/3537400713",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/3537400713",
         "评论（@xhacker）": "地方挺大的，网速快，无电源。",
         "marker-symbol": "cafe",
         "marker-color": "#50C240"
@@ -1197,7 +1197,7 @@
         "名称": "Tims Coffee House（漕河泾店）",
         "下载速度": "2.60 Mbps",
         "中杯美式": "22 元",
-        "Speedtest 连接": "https://www.speedtest.net/my-result/d/147003702",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/d/147003702",
         "评论（@clarkzjw）": "地方不大，约有20个座位，只有一处电源插座，网速慢",
         "marker-symbol": "cafe",
         "marker-color": "#C24740"
@@ -1217,7 +1217,7 @@
         "下载速度": "87.19 Mbps",
         "Dirty": "34 元",
         "澳白": "34 元",
-        "Speedtest 连接": "https://www.speedtest.net/result/i/4039755462",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4039755462",
         "评论（@octref）": "精品咖啡，黑白工业风。美式流行音乐。Dirty / 澳白出品不错。",
         "厕所": "有",
         "电源": "充足",
@@ -1240,7 +1240,7 @@
         "Dirty SOE": "28 元",
         "小杯拿铁": "15 元",
         "大杯拿铁": "20 元",
-        "Speedtest 连接": "https://www.speedtest.net/my-result/i/4041545490",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4041545490",
         "评论（@octref）": "咖啡不贵，但出品还行。店面不大但环境不错。周中人下午很多。厕所在隔壁。适合办公。",
         "厕所": "有",
         "电源": "有",
@@ -1252,6 +1252,27 @@
         "coordinates": [
           121.453,
           31.209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "谭咖啡",
+        "下载速度": "14.1c Mbps",
+        "冰海盐拿铁": "27 元",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4043394930",
+        "评论（@octref）": "咖啡一般，但品种很多也都不贵。适合坐一下午。吧台，靠窗位和 high rise 的座位都有。",
+        "厕所": "有",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.443,
+          31.202
         ]
       }
     }
