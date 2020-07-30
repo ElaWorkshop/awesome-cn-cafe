@@ -1275,6 +1275,27 @@
           31.202
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Big Sur",
+        "下载速度": "1.09 Mbps",
+        "冰拿铁": "25 元",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4045205495",
+        "评论（@octref）": "咖啡一般，环境不错，冷气很足，网比较慢。",
+        "厕所": "有",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.456,
+          31.206
+        ]
+      }
     }
   ]
 }
