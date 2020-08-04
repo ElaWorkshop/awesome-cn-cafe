@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（高新锦辉店）",
+        "下载速度": "0.45 Mbps",
+        "评论 (@yihong0618)": "锦辉店内，网速很差",
+        "厕所": "商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.527647,
+          38.864401
+        ]
+      }
+    }
+  ]
+}
