@@ -11,7 +11,12 @@
 </table>
 
 
-## 城市列表
+## 咖啡馆列表
+
+你可以通过 web app 查看所在城市的咖啡馆：https://cafe-cn.netlify.app。  
+Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu/awesome-cn-cafe-web
+
+或直接点击下面的链接在 GitHub 上查看。
 
 * [北京 (127)](beijing.geojson)
 * [上海 (67)](shanghai.geojson)
