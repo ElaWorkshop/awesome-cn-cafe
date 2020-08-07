@@ -2358,7 +2358,7 @@
         "名称": "% ARABICA",
         "下载速度": "9.82 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/my-result/i/4017231344",
-        "评论 (@xhacker)": "工作日的中午基本坐满。少量作为有插座。西班牙拿铁默认偏甜了一点。",
+        "评论 (@xhacker)": "工作日的中午基本坐满。少量座位有插座。西班牙拿铁默认偏甜了一点。",
         "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
@@ -2367,6 +2367,25 @@
         "coordinates": [
           116.449,
           39.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京中关村大街第三店）",
+        "地址": "中关村大街15-9号",
+        "下载速度": "16.2 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4060789707",
+        "评论 (@xhacker)": "两层的独栋星巴克，环境很好，还有街景。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.309,
+          39.978
         ]
       }
     }
