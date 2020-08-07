@@ -18,6 +18,24 @@
           38.864401
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（高新万达分店）",
+        "下载速度": "2.72 Mbps",
+        "评论 (@yihong0618)": "万达店内，空调很足，地方不大",
+        "厕所": "商场内有（很近）。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.527286,
+          38.862553
+        ]
+      }
     }
   ]
 }
