@@ -36,6 +36,24 @@
           38.862553
         ]
       }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（锦辉书香园分店）",
+        "下载速度": "0.45 Mbps",
+        "评论 (@yihong0618)": "环境还好，屎一样的网络",
+        "厕所": "商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542330,
+          38.876792
+        ]
+      }
     }
   ]
 }
