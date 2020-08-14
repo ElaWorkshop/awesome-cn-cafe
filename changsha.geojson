@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "三居时光",
+        "下载速度": "144.49 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/c/f6a6b9e3-5c4c-4875-8199-424a17af4e2c",
+        "拿铁": "26元",
+        "评论 (@lhysdl)": "家附近的咖啡馆，旁边的面馆很好吃^_^",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9953,
+          28.1289
+        ]
+      }
+    }
+  ]
+}
