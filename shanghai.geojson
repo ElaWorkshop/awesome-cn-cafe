@@ -1296,6 +1296,27 @@
           31.206
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Nonagon",
+        "下载速度": "50.1 Mbps",
+        "Iced Dalgona Coffee": "30 元",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4045205495",
+        "评论（@octref）": "咖啡一般，只有一张桌子，墙边没法放电脑。适合来喝咖啡聊天，不适合长期工作。",
+        "厕所": "无",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.453,
+          31.212
+        ]
+      }
     }
   ]
 }
