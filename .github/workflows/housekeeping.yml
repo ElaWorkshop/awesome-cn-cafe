@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: House Keeping
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -25,8 +25,18 @@ jobs:
       with:
         node-version: '14'
 
-    - name: npm install and test
-      run: |
-        cd tools
-        npm install
-        npm test
+    - name: Install
+      run: npm install -C tools
+
+    - name: House Keeping
+      run: npm run housekeeping -C tools
+
+    - name: Commit
+      uses: EndBug/add-and-commit@v4
+      with:
+        message: "chore: house keeping [bot]"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Test
+      run: npm test -C tools

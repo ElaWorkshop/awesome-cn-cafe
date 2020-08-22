@@ -4,7 +4,7 @@
 
 const assert = require('assert');
 const fs = require('fs');
-const path = require('path');
+const { cities, getCityGeoJSON } = require('./utils');
 const updater = require('./lint');
 
 const RED = '#C24740';
@@ -12,17 +12,10 @@ const YELLOW = '#F3AE1A';
 const GREEN = '#50C240';
 const GRAY = '#BEBEBE';
 
-const GEOJSON_EXT = '.geojson';
-
-const cities = fs.readdirSync('./').filter(function (filename) {
-  return filename.endsWith(GEOJSON_EXT);
-}).map(function (filename) {
-  return path.basename(filename, GEOJSON_EXT);
-});
-
 const setMarkerSymbol = (feature) => {
-  feature.properties['marker-symbol'] || (feature.properties['marker-symbol'] = 'cafe');
-}
+  if (!feature.properties['marker-symbol'])
+    feature.properties['marker-symbol'] = 'cafe';
+};
 
 const setMarkerColor = (feature, avg, status) => {
   if (status === '停业') {
@@ -34,35 +27,37 @@ const setMarkerColor = (feature, avg, status) => {
   } else {
     feature.properties['marker-color'] = GREEN;
   }
-}
+};
 
 const buildMarker = (city) => {
-  const sourceFile = path.resolve(__dirname, `../${city}.geojson`);
-  const tempFile = path.resolve(__dirname, `./tmp.${city}.json`);
+  const sourceFile = getCityGeoJSON(city);
 
-  //copy geojson to json file because node.js only requires(load) json file.
-  fs.writeFileSync(tempFile, fs.readFileSync(sourceFile));
-  const target = require(tempFile);
+  const target = JSON.parse(fs.readFileSync(sourceFile, 'utf-8'));
+
   for (let f of target.features) {
     let downloadSpeed = f.properties['下载速度'];
-    //some downloadSpeed may be array, in such case let's caculate the average
+    //some downloadSpeed may be array, in such case let's calculate the average
     if (!Array.isArray(downloadSpeed)) {
-      downloadSpeed = [ downloadSpeed ];
+      downloadSpeed = [downloadSpeed];
     }
-    let sum = downloadSpeed.map(value => {
-      const matched = value.match(/^([\d|\.]+)\s?Mbps$/i);
-      let speedStr = matched && matched[1];
-      assert(speedStr);
-      return parseFloat(speedStr);
-    }).reduce((a, b) => { return a + b });
+    let sum = downloadSpeed
+      .map((value) => {
+        const matched = value.match(/^([\d|\.]+)\s?Mbps$/i);
+        let speedStr = matched && matched[1];
+        assert(speedStr);
+        return parseFloat(speedStr);
+      })
+      .reduce((a, b) => {
+        return a + b;
+      });
     let average = sum / downloadSpeed.length;
     let status = f.properties['营业状态'];
     setMarkerColor(f, average, status);
     setMarkerSymbol(f);
   }
-  fs.unlinkSync(tempFile);
   fs.writeFileSync(sourceFile, JSON.stringify(target, null, 2) + '\n');
   console.log(`${city}: Done with ${target.features.length} records!`);
-}
+};
+
 cities.forEach(buildMarker);
 updater.updateCafeNumbers();
