@@ -1317,6 +1317,27 @@
           31.212
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "新参者",
+        "下载速度": "2.43 Mbps",
+        "冰拿铁": "41 元",
+        "Speedtest 链接": "https://www.speedtest.net/result/9954000338",
+        "评论（@antfu）": "咖啡不错。自烘培咖啡豆，有单独包装的贩售。环境很棒，简约风的装修，有室内和露天的院子，很适合喝咖啡聊天。",
+        "厕所": "有",
+        "电源": "无",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.420,
+          31.206
+        ]
+      }
     }
   ]
 }
