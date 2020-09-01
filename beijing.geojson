@@ -2388,6 +2388,24 @@
           39.9783
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京市财源国际中心店）",
+        "下载速度": "39.2 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4096232959",
+        "评论（@xhacker）": "改成星巴克以后环境更好了，采光也很好。办公和聊天都合适。电源充足。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.447,
+          39.9064
+        ]
+      }
     }
   ]
 }
