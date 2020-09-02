@@ -655,8 +655,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.447,
-          39.9064
+          116.4464,
+          39.9062
         ]
       }
     },
@@ -2402,8 +2402,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          116.4464,
+          39.9062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "A Twosome Place 途尚咖啡",
+        "下载速度": "5.56 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4111544287",
+        "评论（@xhacker）": "空间很大，靠边位置有电源，非午饭时间人不太多。拿铁味道一般。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           116.447,
-          39.9064
+          39.9062
         ]
       }
     }
