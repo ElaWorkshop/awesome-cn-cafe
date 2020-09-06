@@ -2424,6 +2424,24 @@
           39.9062
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡（永旺梦乐城店）",
+        "下载速度": "1.31 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4117762030",
+        "评论（@xhacker）": "地方很大但人也很多，周末下午几乎全部坐满。网速比较慢。电源几乎每个桌子都有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.286,
+          39.818
+        ]
+      }
     }
   ]
 }
