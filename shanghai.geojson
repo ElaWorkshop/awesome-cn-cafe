@@ -1338,6 +1338,27 @@
           31.206
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Aromaism",
+        "下载速度": "6.57 Mbps",
+        "埃塞冰拿铁": "21 元",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4159618334",
+        "评论（@octref）": "座位很窄，要蹭隔壁的网，但是咖啡好喝呀 :p",
+        "厕所": "无",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#F3AE1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.451,
+          31.201
+        ]
+      }
     }
   ]
 }
