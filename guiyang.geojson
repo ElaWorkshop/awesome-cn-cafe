@@ -36,6 +36,24 @@
           26.571
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "悦读观山湖咖啡书屋",
+        "下载速度": "108 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4172540146",
+        "评论 (@xhacker)": "环境幽静，人不多。书比较少。没有电源。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.628,
+          26.639
+        ]
+      }
     }
   ]
 }
