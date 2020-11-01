@@ -44,15 +44,15 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 
 ### 通过手机 App
 
-推荐使用 [Speedtest](http://www.speedtest.net/mobile/)（[iOS](https://itunes.apple.com/app/speedtest-net-mobile-speed/id300704847?mt=8) / [Android](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)），既可测试网络速度也能获取当前经纬度。
+推荐使用 [Speedtest](http://www.speedtest.net/mobile/)（[iOS](https://itunes.apple.com/app/speedtest-net-mobile-speed/id300704847?mt=8) / [Android](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)），既可测试网速也能获取当前经纬度。
 
 ### 通过 macOS App
 
-推荐使用 [Speedtest 应用](https://apps.apple.com/us/app/speedtest-by-ookla/id1153157709?mt=12)，既可测试网络速度也能获取当前经纬度。
+推荐使用 [Speedtest 应用](https://apps.apple.com/us/app/speedtest-by-ookla/id1153157709?mt=12)，既可测试网速也能获取当前经纬度。
 
 ### 通过浏览器
 
-请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度、Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度。在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。如果你正在咖啡馆并且可以翻墙，可以使用 [whereami](https://xavierchow.github.io/whereami/) 来获得当前经纬度。
+请用 [Speedtest](http://speedtest.net) 或其他工具测试网速、在 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)中拖拽图中的红色地标获取经纬度。如果你正在咖啡馆并且可以翻墙，也可以使用 [whereami](https://xavierchow.github.io/whereami/) 获得当前经纬度。在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
 
 ## 授权
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)
