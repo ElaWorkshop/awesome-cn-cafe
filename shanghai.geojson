@@ -1371,7 +1371,7 @@
         "厕所": "未知",
         "电源": "未知",
         "marker-symbol": "cafe",
-        "marker-color": "#50C240"
+        "marker-color": "#C24740"
       },
       "geometry": {
         "type": "Point",
