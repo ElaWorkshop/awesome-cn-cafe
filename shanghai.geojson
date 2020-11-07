@@ -1359,6 +1359,23 @@
           31.201
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Wagas",
+        "中杯拿铁": "22元",
+        "评论 (@FFFang)": "人比隔壁的星巴克少很多，安静，有食物，环境不错。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558724,
+          31.209318
+        ]
+      }
     }
   ]
 }
