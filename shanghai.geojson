@@ -1359,6 +1359,27 @@
           31.201
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Akimbo cafe",
+        "下载速度": "2.58 Mbps",
+        "小白(Flat White)": "28 元",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/d/246137562",
+        "评论（@y4code）": "是家网红店，是开放式设计，网红们在门口拍照绝了",
+        "厕所": "未知",
+        "电源": "未知",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4277179,
+          31.2190156
+        ]
+      }
     }
   ]
 }
