@@ -2443,6 +2443,24 @@
           39.818
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京西直门外大街咖啡店）",
+        "下载速度": "3.74 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4235428723",
+        "评论（@xhacker）": "店内空间不大，但人也不多。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.343,
+          39.938
+        ]
+      }
     }
   ]
 }
