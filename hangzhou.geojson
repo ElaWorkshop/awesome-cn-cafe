@@ -228,6 +228,24 @@
           30.3126
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 (金地广场店)",
+        "下载速度": "2.88 Mbps",
+        "上传速度": "2.87 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/10422163421",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0778472539969,
+          30.34120975640256
+        ]
+      }
     }
   ]
 }
