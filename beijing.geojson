@@ -2461,6 +2461,24 @@
           39.938
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "太平洋咖啡（金融街店）",
+        "下载速度": "1.95 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4266022145",
+        "评论（@xhacker）": "店内空间不大，但人也不多。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.355,
+          39.915
+        ]
+      }
     }
   ]
 }
