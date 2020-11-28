@@ -2480,6 +2480,25 @@
           39.9145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "太平洋咖啡（花乡店）",
+        "下载速度": "1.89 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4276326340",
+        "评论（@xhacker）": "人不太多，靠边的位置有电源。",
+        "厕所": "商场内有。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.318,
+          39.825
+        ]
+      }
     }
   ]
 }
