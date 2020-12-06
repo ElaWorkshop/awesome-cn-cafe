@@ -246,6 +246,24 @@
           30.34120975640256
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 (303生活广场店)",
+        "下载速度": "2.71 Mbps",
+        "上传速度": "1.89 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/a/6796272545",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.07316018803978,
+          30.335674513640562
+        ]
+      }
     }
   ]
 }
