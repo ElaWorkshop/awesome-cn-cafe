@@ -2499,6 +2499,25 @@
           39.825
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京东方广场西店）",
+        "下载速度": "6.59 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4293476804",
+        "评论（@xhacker）": "人不太多，靠边的位置有电源。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.407,
+          39.908
+        ]
+      }
     }
   ]
 }
