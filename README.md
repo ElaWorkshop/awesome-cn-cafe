@@ -36,6 +36,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [哈尔滨 (1)](harbin.geojson)
 * [大连 (3)](dalian.geojson)
 * [长沙 (2)](changsha.geojson)
+* [西昌 (1)](xichang.geojson)
 
 
 ## 贡献

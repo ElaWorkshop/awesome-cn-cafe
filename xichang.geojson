@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 Starbucks（西昌万达广场店）",
+        "下载速度": "85.2 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4331445132",
+        "评论 (@xhacker)": "地方挺大的，人不多，网速快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.282,
+          27.877
+        ]
+      }
+    }
+  ]
+}
