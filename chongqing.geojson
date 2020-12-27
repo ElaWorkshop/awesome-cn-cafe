@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 Starbucks（重庆东原悦荟店）",
+        "下载速度": "29.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4338685624",
+        "评论 (@xhacker)": "地方挺大的，人不多，网速快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.493,
+          29.574
+        ]
+      }
+    }
+  ]
+}
