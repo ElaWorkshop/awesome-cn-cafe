@@ -38,6 +38,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [长沙 (2)](changsha.geojson)
 * [西昌 (1)](xichang.geojson)
 * [重庆 (1)](chongqing.geojson)
+* [玉林 (1)](yulin.geojson)
 
 
 ## 贡献

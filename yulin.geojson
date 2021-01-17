@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "无二咖啡",
+        "下载速度": "118 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4368513549",
+        "意式浓缩": "16元",
+        "美式咖啡": "18元",
+        "Dirty": "23元",
+        "拿铁": "25元",
+        "当季精选": "40元",
+        "评论 (@hackettyu)": "小城市独立咖啡店，咖啡机是一台基础款辣妈，咖啡有浓缩咖啡、常规奶咖、当季精选手冲，以及冰滴咖啡",
+        "厕所": "店内有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.344,
+          22.701
+        ]
+      }
+    }
+  ]
+}
