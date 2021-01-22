@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "No.3 coffee",
+        "下载速度": "119 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4372194491",
+        "美式咖啡": "18元",
+        "拿铁": "20元",
+        "评论 (@hackettyu)": "No 3 号豆子是 SOE 耶加雪菲",
+        "厕所": "附近有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.273,
+          22.926
+        ]
+      }
+    }
+  ]
+}
