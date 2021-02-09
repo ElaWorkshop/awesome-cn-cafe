@@ -21,6 +21,27 @@
           22.926
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Coffeemade.咖啡制造",
+        "下载速度": "260.23 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4409090781",
+        "黑咖啡": "18-23元",
+        "单品咖啡": "38元",
+        "评论 (@hackettyu)": "咖啡：豆单的选择挺多的，美式咖啡两种豆子，手冲咖啡6款；工作：位置还挺多的，有一张大桌子",
+        "厕所": "店里有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.257,
+          22.852
+        ]
+      }
     }
   ]
 }
