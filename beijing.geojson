@@ -2518,6 +2518,25 @@
           39.908
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京金隅嘉品店）",
+        "下载速度": "54.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4424727373",
+        "评论（@xhacker）": "在商场一层，人不太多，靠边的位置有电源。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.542,
+          39.95
+        ]
+      }
     }
   ]
 }
