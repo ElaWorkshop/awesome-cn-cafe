@@ -41,6 +41,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [玉林 (1)](yulin.geojson)
 * [佛山 (3)](foshan.geojson)
 
+
 ## 贡献
 
 欢迎发 pull request 添加你去过的咖啡馆。请通过手机 app 或浏览器等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
