@@ -62,6 +62,25 @@
           113.327,
           23.137
         ]
+      },
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Rose coffee",
+        "下载速度": "236.83 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4450588998",
+        "评论 (@hackettyu)": "咖啡：果酸型美式；工作：客人太多...",
+        "厕所": "店里有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.254,
+          23.128
+        ]
       }
     }
   ]
