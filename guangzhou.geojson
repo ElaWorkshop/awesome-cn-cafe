@@ -63,6 +63,44 @@
           23.137
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Rose coffee",
+        "下载速度": "205 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4450585429",
+        "评论 (@hackettyu)": "咖啡：非常多的豆子；工作：客人太多...",
+        "厕所": "附近有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.254,
+          23.138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "拙见咖啡",
+        "下载速度": "17.6 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4450759325",
+        "评论 (@hackettyu)": "咖啡：自烘焙豆子；工作：在一个古书院里，非常适合",
+        "厕所": "附近有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.259,
+          23.123
+        ]
+      }
     }
   ]
 }
