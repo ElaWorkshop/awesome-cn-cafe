@@ -42,6 +42,26 @@
           22.852
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Belling coffee",
+        "下载速度": "34.8 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4448807007",
+        "黑咖啡": "18元",
+        "评论 (@hackettyu)": "咖啡：都是自烘焙的豆子；工作：定位为社区咖啡店，不太适合办公",
+        "厕所": "店里有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.210,
+          22.93
+        ]
+      }
     }
   ]
 }
