@@ -302,6 +302,25 @@
           22.511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Light house cafe",
+        "下载速度": "55.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4474156508",
+        "评论 (@cdpath)": "新开的咖啡店，社区咖啡店",
+        "参考价格": "玛奇朵浓缩15元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.053,
+          22.631
+        ]
+      }
     }
   ]
 }
