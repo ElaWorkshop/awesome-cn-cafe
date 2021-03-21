@@ -7,7 +7,7 @@
         "名称": "三居时光",
         "下载速度": "144.49 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/result/c/f6a6b9e3-5c4c-4875-8199-424a17af4e2c",
-        "拿铁": "26元",
+        "参考价格": "拿铁26元",
         "评论 (@lhysdl)": "家附近的咖啡馆，旁边的面馆很好吃^_^",
         "marker-color": "#50C240",
         "marker-symbol": "cafe"
@@ -26,7 +26,7 @@
         "名称": "太平阳咖啡（中建广场店）",
         "下载速度": "247 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/my-result/a/6448021572",
-        "红宝石烤奶风味拿铁": "35元",
+        "参考价格": "红宝石烤奶风味拿铁35元",
         "评论 (@lhysdl)": "价格较贵，东西一般，还不能给停车券",
         "marker-color": "#50C240",
         "marker-symbol": "cafe"
@@ -36,6 +36,25 @@
         "coordinates": [
           113.0019,
           28.1222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "enjoy悦想家",
+        "下载速度": "94.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/d/292290440",
+        "参考价格": "dirty28元",
+        "评论 (@lhysdl)": "家附近的咖啡馆，林业科技大学后门口，网速环境都不错",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.984815,
+          28.130511
         ]
       }
     }
