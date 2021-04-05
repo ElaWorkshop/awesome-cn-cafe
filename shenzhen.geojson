@@ -321,6 +321,25 @@
           22.631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "slash cafe",
+        "下载速度": "93.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4510933628",
+        "评论 (@cdpath)": "mini 咖啡店，美式咖啡有三款豆子，店内有卫生间",
+        "参考价格": "美式23元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.919,
+          22.541
+        ]
+      }
     }
   ]
 }
