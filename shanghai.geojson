@@ -1380,6 +1380,27 @@
           31.2190156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Tims Coffee House（爱琴海店）",
+        "下载速度": "2.82 Mbps",
+        "中杯美式": "24 元",
+        "Speedtest 链接": "https://www.speedtest.net/result/11240990269",
+        "评论（@clarkzjw）": "店面非常大，座位很多，靠墙座位很多都有电源，店内提供的网速很慢，连接商场提供的 WiFi 反而更快",
+        "厕所": "未知",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.365,
+          31.179
+        ]
+      }
     }
   ]
 }
