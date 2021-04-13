@@ -309,7 +309,7 @@
         "名称": "Light house cafe",
         "下载速度": "55.60 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/result/i/4474156508",
-        "评论 (@cdpath)": "新开的咖啡店，社区咖啡店",
+        "评论 (@hackettyu)": "新开的咖啡店，社区咖啡店",
         "参考价格": "玛奇朵浓缩15元",
         "marker-color": "#50C240",
         "marker-symbol": "cafe"
@@ -328,7 +328,7 @@
         "名称": "slash cafe",
         "下载速度": "93.60 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/result/i/4510933628",
-        "评论 (@cdpath)": "mini 咖啡店，美式咖啡有三款豆子，店内有卫生间",
+        "评论 (@hackettyu)": "mini 咖啡店，美式咖啡有三款豆子，店内有卫生间",
         "参考价格": "美式23元",
         "marker-color": "#50C240",
         "marker-symbol": "cafe"
@@ -338,6 +338,44 @@
         "coordinates": [
           113.919,
           22.541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "tinglan cafe",
+        "下载速度": "262 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4522741618",
+        "评论 (@hackettyu)": "位置多，其实是个花店，但也有咖啡",
+        "参考价格": "美式28元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963,
+          22.534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "alley cafe",
+        "下载速度": "3.02 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4524091873",
+        "评论 (@hackettyu)": "咖啡店是有设计师设计过的，咖啡豆挺多的，也有自烘焙的豆子",
+        "参考价格": "美式28元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.122,
+          22.573
         ]
       }
     }
