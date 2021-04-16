@@ -333,25 +333,6 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "咖咖奥咖啡厅（Kacao 田林店）",
-        "下载速度": "10.53 Mbps",
-        "榛果拿铁": "32 元",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
-        "评论 (@xavierchow)": "环境相当不错，空间也很大，唯一不好的2楼不是禁烟的。",
-        "marker-symbol": "cafe",
-        "marker-color": "#50C240"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.40790581703187,
-          31.171675667662882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "名称": "Caffebene（悦达889店）",
         "营业状态": "停业",
         "下载速度": "56.33 Mbps",
@@ -733,26 +714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "名称": "Starbucks (越界店)",
-        "下载速度": "1.03 Mbps",
-        "大杯拿铁": "31 元",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1853980266",
-        "厕所": "有",
-        "评论 (@LilianYe)": "网速依旧慢的感人，周末下午还蛮多人的。",
-        "marker-symbol": "cafe",
-        "marker-color": "#C24740"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.407,
-          31.1713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "名称": "MANGOSIX (田林路店)",
         "下载速度": "2.40 Mbps",
         "中杯拿铁": "31 元",
@@ -886,26 +847,6 @@
         "coordinates": [
           121.604749,
           31.254968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "名称": "PROTOSS",
-        "下载速度": "31.73 Mbps",
-        "本质奶咖": "23 元",
-        "Speedtest 链接": "http://www.speedtest.net/my-result/i/1971600260",
-        "厕所": "有",
-        "评论 (@LilianYe)": "新开的咖啡馆，空间非常宽敞，装修清新，插座还有usb口。",
-        "marker-symbol": "cafe",
-        "marker-color": "#50C240"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.407,
-          31.1712
         ]
       }
     },
