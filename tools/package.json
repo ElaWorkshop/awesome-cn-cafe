@@ -10,7 +10,7 @@
   "author": "xavierchow",
   "license": "MIT",
   "dependencies": {
-    "jsonlint": "^1.6.2",
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "jsonlint": "^1.6.2"
   }
 }
