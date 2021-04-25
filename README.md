@@ -37,7 +37,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [大连 (3)](dalian.geojson)
 * [长沙 (3)](changsha.geojson)
 * [西昌 (1)](xichang.geojson)
-* [重庆 (1)](chongqing.geojson)
+* [重庆 (2)](chongqing.geojson)
 * [玉林 (1)](yulin.geojson)
 * [佛山 (3)](foshan.geojson)
 
