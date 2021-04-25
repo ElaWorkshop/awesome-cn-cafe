@@ -18,6 +18,24 @@
           29.574
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "漫咖啡 Maan Coffee（重庆万象城MixC）",
+        "下载速度": "46.01 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4543812279",
+        "评论 (@loicpirez)": "非常好的地方，互联网连接很棒，咖啡也很棒。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.517,
+          29.517
+        ]
+      }
     }
   ]
 }
