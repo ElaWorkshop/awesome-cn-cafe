@@ -36,6 +36,24 @@
           29.517
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克 Starbucks (袁家岗K-Land店)",
+        "下载速度": "1.98 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4547979049",
+        "评论 (@loicpirez)": "小型场地，但设有露台，清晨开放，深夜关闭。",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.513709,
+          29.528786
+        ]
+      }
     }
   ]
 }
