@@ -378,6 +378,25 @@
           22.573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "c+ cafe",
+        "下载速度": "36.81 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4535773936",
+        "评论 (@hackettyu)": "在小区楼下的咖啡店，店面里有两层楼，而且里面的桌子挺多的，适合自习",
+        "参考价格": "美式22元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.932,
+          22.527
+        ]
+      }
     }
   ]
 }
