@@ -397,6 +397,25 @@
           22.527
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COFFEE V·P·N 咖啡微品",
+        "下载速度": "3.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4561201778",
+        "评论 (@hackettyu)": "一家小区楼下的社区咖啡店，面积比较小，但是环境很好，店内有卫生间；店主只做意式咖啡和特调咖啡，意式咖啡可选的豆子至少三款以上",
+        "参考价格": "美式18元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.043,
+          22.552
+        ]
+      }
     }
   ]
 }
