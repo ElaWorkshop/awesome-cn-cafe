@@ -2556,6 +2556,24 @@
           39.992
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京科学院南路店）",
+        "下载速度": "5.02 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4575742843",
+        "评论（@xhacker）": "在融科资讯中心B座1层。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.319,
+          39.983
+        ]
+      }
     }
   ]
 }
