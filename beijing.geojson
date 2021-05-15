@@ -2537,6 +2537,25 @@
           39.95
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（北京望京凯德咖啡店）",
+        "下载速度": "5.46 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4578456366",
+        "评论（@xhacker）": "在商场一层，周末人比较多。",
+        "厕所": "店内没有，可用商场内厕所。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.464,
+          39.992
+        ]
+      }
     }
   ]
 }
