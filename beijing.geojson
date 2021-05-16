@@ -2574,6 +2574,25 @@
           39.983
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Tims 咖啡（乐成中心店）",
+        "下载速度": "4.16 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4580369653",
+        "评论（@xhacker）": "地方比较大，人不太多。沙发位有电源。",
+        "厕所": "旁边商场内有。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.456,
+          39.893
+        ]
+      }
     }
   ]
 }
