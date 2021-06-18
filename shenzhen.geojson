@@ -416,6 +416,25 @@
           22.552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "THE SKYFILES CAFE 泽蓝翌橙",
+        "下载速度": "26.50 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4613055639",
+        "评论 (@hackettyu)": "日咖夜酒型咖啡店，装修基色为蓝色；下午阳光照到桌子上非常舒适，最重要的桌子高度非常合适办公",
+        "参考价格": "美式20元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.121,
+          22.601
+        ]
+      }
     }
   ]
 }
