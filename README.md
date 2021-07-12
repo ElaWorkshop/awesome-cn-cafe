@@ -26,7 +26,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [广州 (6)](guangzhou.geojson)
 * [深圳 (23)](shenzhen.geojson)
 * [贵阳 (3)](guiyang.geojson)
-* [成都 (5)](chengdu.geojson)
+* [成都 (6)](chengdu.geojson)
 * [南昌 (1)](nanchang.geojson)
 * [呼和浩特 (1)](hohhot.geojson)
 * [洛阳 (1)](luoyang.geojson)

@@ -90,6 +90,24 @@
           30.53827
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw（成都魔方店）",
+        "下载速度": "584 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4668652209",
+        "评论 (@xhacker)": "有一些座位不算太多。网速惊人。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052,
+          30.585
+        ]
+      }
     }
   ]
 }
