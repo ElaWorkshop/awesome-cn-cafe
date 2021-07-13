@@ -108,6 +108,24 @@
           30.585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（臻选酒坊万象城店）",
+        "下载速度": "68.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4669760661",
+        "评论 (@xhacker)": "挺大的。工作日人不多。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.113,
+          30.651
+        ]
+      }
     }
   ]
 }
