@@ -126,6 +126,25 @@
           30.651
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（成都城南仁和新城店）",
+        "下载速度": "5.54 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4671743601",
+        "评论 (@xhacker)": "空间大，环境不错。",
+        "厕所": "商场内有",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051,
+          30.591
+        ]
+      }
     }
   ]
 }
