@@ -435,6 +435,25 @@
           22.601
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "C 立方咖啡",
+        "下载速度": "2.59 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4667030224",
+        "评论 (@hackettyu)": "深圳豆舞精品咖啡旗下的咖啡店；有两层，位置挺多的，店内有卫生间；店内的豆子很多，如果没有想喝的豆子，咖啡师愿意做你的寻豆师",
+        "参考价格": "美式18元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.120,
+          22.596
+        ]
+      }
     }
   ]
 }
