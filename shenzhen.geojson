@@ -454,6 +454,82 @@
           22.596
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "The Raven 乌鸦咖啡馆",
+        "下载速度": "12.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4686612511",
+        "评论 (@hackettyu)": "办公楼附近角落里的一家咖啡店，晚上也有很多人，有刚下班的，有朋友聚会的，所以为什么叫咖啡馆吧",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.93,
+          22.522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "日常咖啡",
+        "下载速度": "10.90 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4698175382",
+        "评论 (@hackettyu)": "咖啡店在老街区中，有两层楼，里面放了许多手办；拿铁不可以拉花因为咖啡师不会",
+        "参考价格": "美式18元，SOE 21元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.112,
+          22.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "老吴咖啡",
+        "下载速度": "187 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4707171547",
+        "评论 (@hackettyu)": "咖啡店在商业中，日咖夜酒型咖啡店，进门是一个很大的酒吧吧台",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.116,
+          22.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "共感咖啡 Comsense coffee",
+        "下载速度": "89.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4708552147",
+        "评论 (@hackettyu)": "公寓楼下的咖啡店，面积很小",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.917,
+          22.537
+        ]
+      }
     }
   ]
 }
