@@ -1423,6 +1423,25 @@
           31.224
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ABBY ABBIE",
+        "下载速度": "44.26 Mbps",
+        "Speedtest 链接": "https://www.speedtest.cn/result/101.88.79.*/panEWb9PAJMAYNRrM8V0?type=index",
+        "评论（@shijieyao）": "店面宽敞，有户外座，有多人座，附近是古北富人区，感觉顾客素质都较高，电源充足；双杯澳白是招牌，可选浅焙花香或深焙埃塞 SOE。",
+        "厕所": "没注意",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.405,
+          31.200,
+        ]
+      }
     }
   ]
 }
