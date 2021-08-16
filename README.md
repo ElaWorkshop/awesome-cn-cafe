@@ -19,7 +19,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 或直接点击下面的链接在 GitHub 上查看。
 
 * [北京 (139)](beijing.geojson)
-* [上海 (73)](shanghai.geojson)
+* [上海 (74)](shanghai.geojson)
 * [南京 (5)](nanjing.geojson)
 * [武汉 (5)](wuhan.geojson)
 * [杭州 (13)](hangzhou.geojson)
