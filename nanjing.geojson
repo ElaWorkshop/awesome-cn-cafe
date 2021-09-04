@@ -76,6 +76,25 @@
           31.9721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Café&Meal MUJI(南京东方福来德店)",
+        "下载速度": "36.49 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/11390646585",
+        "参考价格": "18-80 元",
+        "评论 (@Labelray)": "MUJI的配套咖啡馆，人不算多，网速很快。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.778376,
+          32.042721
+        ]
+      }
     }
   ]
 }

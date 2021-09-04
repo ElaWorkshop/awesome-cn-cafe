@@ -101,6 +101,25 @@
           23.123
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "无牌咖啡",
+        "下载速度": "31.9 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4463396868",
+        "评论 (@hackettyu)": "店里很多人，适合交朋友，不过店在小巷子里，比较难找",
+        "厕所": "附近有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.259,
+          23.127
+        ]
+      }
     }
   ]
 }

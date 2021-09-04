@@ -334,12 +334,13 @@
       "type": "Feature",
       "properties": {
         "名称": "咖咖奥咖啡厅（Kacao 田林店）",
+        "营业状态": "停业",
         "下载速度": "10.53 Mbps",
         "榛果拿铁": "32 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/5087420287",
         "评论 (@xavierchow)": "环境相当不错，空间也很大，唯一不好的2楼不是禁烟的。",
         "marker-symbol": "cafe",
-        "marker-color": "#50C240"
+        "marker-color": "#BEBEBE"
       },
       "geometry": {
         "type": "Point",
@@ -734,13 +735,14 @@
       "type": "Feature",
       "properties": {
         "名称": "Starbucks (越界店)",
+        "营业状态": "停业",
         "下载速度": "1.03 Mbps",
         "大杯拿铁": "31 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1853980266",
         "厕所": "有",
         "评论 (@LilianYe)": "网速依旧慢的感人，周末下午还蛮多人的。",
         "marker-symbol": "cafe",
-        "marker-color": "#C24740"
+        "marker-color": "#BEBEBE"
       },
       "geometry": {
         "type": "Point",
@@ -893,13 +895,14 @@
       "type": "Feature",
       "properties": {
         "名称": "PROTOSS",
+        "营业状态": "停业",
         "下载速度": "31.73 Mbps",
         "本质奶咖": "23 元",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/1971600260",
         "厕所": "有",
         "评论 (@LilianYe)": "新开的咖啡馆，空间非常宽敞，装修清新，插座还有usb口。",
         "marker-symbol": "cafe",
-        "marker-color": "#50C240"
+        "marker-color": "#BEBEBE"
       },
       "geometry": {
         "type": "Point",
@@ -1378,6 +1381,65 @@
         "coordinates": [
           121.4277179,
           31.2190156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Tims Coffee House（爱琴海店）",
+        "下载速度": "2.82 Mbps",
+        "中杯美式": "24 元",
+        "Speedtest 链接": "https://www.speedtest.net/result/11240990269",
+        "评论（@clarkzjw）": "店面非常大，座位很多，靠墙座位很多都有电源，店内提供的网速很慢，连接商场提供的 WiFi 反而更快",
+        "厕所": "未知",
+        "电源": "有",
+        "marker-symbol": "cafe",
+        "marker-color": "#C24740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.365,
+          31.179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "1/10 Coffee Roaster",
+        "下载速度": "94.4 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4656306534",
+        "评论（@xhacker）": "店面大小中等，人不太多，网速快。澳白尚可。有少量电源。",
+        "厕所": "店内有",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.464,
+          31.224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ABBY ABBIE",
+        "下载速度": "44.26 Mbps",
+        "Speedtest 链接": "https://www.speedtest.cn/result/101.88.79.*/panEWb9PAJMAYNRrM8V0?type=index",
+        "评论（@shijieyao）": "店面宽敞，有户外座，有多人座，附近是古北富人区，感觉顾客素质都较高，电源充足；双杯澳白是招牌，可选浅焙花香或深焙埃塞 SOE。",
+        "厕所": "没注意",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.405,
+          31.2
         ]
       }
     }

@@ -90,6 +90,61 @@
           30.53827
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Seesaw（成都魔方店）",
+        "下载速度": "584 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4668652209",
+        "评论 (@xhacker)": "有一些座位不算太多。网速惊人。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052,
+          30.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（臻选酒坊万象城店）",
+        "下载速度": "68.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4669760661",
+        "评论 (@xhacker)": "挺大的。工作日人不多。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.113,
+          30.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 星巴克（成都城南仁和新城店）",
+        "下载速度": "5.54 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4671743601",
+        "评论 (@xhacker)": "空间大，环境不错。",
+        "厕所": "商场内有",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051,
+          30.591
+        ]
+      }
     }
   ]
 }

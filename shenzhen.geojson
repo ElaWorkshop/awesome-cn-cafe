@@ -302,6 +302,234 @@
           22.511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Light house cafe",
+        "下载速度": "55.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4474156508",
+        "评论 (@hackettyu)": "新开的咖啡店，社区咖啡店",
+        "参考价格": "玛奇朵浓缩15元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.053,
+          22.631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "slash cafe",
+        "下载速度": "93.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4510933628",
+        "评论 (@hackettyu)": "mini 咖啡店，美式咖啡有三款豆子，店内有卫生间",
+        "参考价格": "美式23元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.919,
+          22.541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "tinglan cafe",
+        "下载速度": "262 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4522741618",
+        "评论 (@hackettyu)": "位置多，其实是个花店，但也有咖啡",
+        "参考价格": "美式28元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963,
+          22.534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "alley cafe",
+        "下载速度": "3.02 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4524091873",
+        "评论 (@hackettyu)": "咖啡店是有设计师设计过的，咖啡豆挺多的，也有自烘焙的豆子",
+        "参考价格": "美式28元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.122,
+          22.573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "c+ cafe",
+        "下载速度": "36.81 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4535773936",
+        "评论 (@hackettyu)": "在小区楼下的咖啡店，店面里有两层楼，而且里面的桌子挺多的，适合自习",
+        "参考价格": "美式22元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.932,
+          22.527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COFFEE V·P·N 咖啡微品",
+        "下载速度": "3.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4561201778",
+        "评论 (@hackettyu)": "一家小区楼下的社区咖啡店，面积比较小，但是环境很好，店内有卫生间；店主只做意式咖啡和特调咖啡，意式咖啡可选的豆子至少三款以上",
+        "参考价格": "美式18元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.043,
+          22.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "THE SKYFILES CAFE 泽蓝翌橙",
+        "下载速度": "26.50 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4613055639",
+        "评论 (@hackettyu)": "日咖夜酒型咖啡店，装修基色为蓝色；下午阳光照到桌子上非常舒适，最重要的桌子高度非常合适办公",
+        "参考价格": "美式20元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.121,
+          22.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "C 立方咖啡",
+        "下载速度": "2.59 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4667030224",
+        "评论 (@hackettyu)": "深圳豆舞精品咖啡旗下的咖啡店；有两层，位置挺多的，店内有卫生间；店内的豆子很多，如果没有想喝的豆子，咖啡师愿意做你的寻豆师",
+        "参考价格": "美式18元",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.12,
+          22.596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "The Raven 乌鸦咖啡馆",
+        "下载速度": "12.60 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4686612511",
+        "评论 (@hackettyu)": "办公楼附近角落里的一家咖啡店，晚上也有很多人，有刚下班的，有朋友聚会的，所以为什么叫咖啡馆吧",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.93,
+          22.522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "日常咖啡",
+        "下载速度": "10.90 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4698175382",
+        "评论 (@hackettyu)": "咖啡店在老街区中，有两层楼，里面放了许多手办；拿铁不可以拉花因为咖啡师不会",
+        "参考价格": "美式18元，SOE 21元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.112,
+          22.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "老吴咖啡",
+        "下载速度": "187 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4707171547",
+        "评论 (@hackettyu)": "咖啡店在商业中，日咖夜酒型咖啡店，进门是一个很大的酒吧吧台",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.116,
+          22.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "共感咖啡 Comsense coffee",
+        "下载速度": "89.5 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4708552147",
+        "评论 (@hackettyu)": "公寓楼下的咖啡店，面积很小",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.917,
+          22.537
+        ]
+      }
     }
   ]
 }

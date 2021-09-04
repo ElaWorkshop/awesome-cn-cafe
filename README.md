@@ -18,15 +18,15 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 
 或直接点击下面的链接在 GitHub 上查看。
 
-* [北京 (136)](beijing.geojson)
-* [上海 (71)](shanghai.geojson)
-* [南京 (4)](nanjing.geojson)
+* [北京 (139)](beijing.geojson)
+* [上海 (74)](shanghai.geojson)
+* [南京 (5)](nanjing.geojson)
 * [武汉 (5)](wuhan.geojson)
 * [杭州 (13)](hangzhou.geojson)
-* [广州 (5)](guangzhou.geojson)
-* [深圳 (16)](shenzhen.geojson)
+* [广州 (6)](guangzhou.geojson)
+* [深圳 (28)](shenzhen.geojson)
 * [贵阳 (3)](guiyang.geojson)
-* [成都 (5)](chengdu.geojson)
+* [成都 (8)](chengdu.geojson)
 * [南昌 (1)](nanchang.geojson)
 * [呼和浩特 (1)](hohhot.geojson)
 * [洛阳 (1)](luoyang.geojson)
@@ -37,9 +37,10 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [大连 (3)](dalian.geojson)
 * [长沙 (3)](changsha.geojson)
 * [西昌 (1)](xichang.geojson)
-* [重庆 (1)](chongqing.geojson)
+* [重庆 (3)](chongqing.geojson)
 * [玉林 (1)](yulin.geojson)
 * [佛山 (3)](foshan.geojson)
+* [保定 (1)](baoding.geojson)
 
 ## 贡献
 
