@@ -57,6 +57,25 @@
           28.130511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "别有coffee",
+        "下载速度": "32.76 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/11983062565",
+        "参考价格": "拿铁28",
+        "评论 (@lhysdl)": "一个小坡上去，左手边一个独栋小房子，对面是废弃的老楼。只供应饮料没有食物。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.000242,
+          28.125248
+        ]
+      }
     }
   ]
 }
