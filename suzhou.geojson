@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "作咖啡",
+        "下载速度": "",
+        "Speedtest 链接": "",
+        "评论 (@shijieyao)": "二楼场地宽敞，电源充足，得天独厚的临街优势又能满足观景人群；有加菲猫可撸~；具体网络当时没测，印象中不错，待补充",
+        "厕所": "一楼有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.622,
+          31.314
+        ]
+      }
+    },
+  ]
+}
