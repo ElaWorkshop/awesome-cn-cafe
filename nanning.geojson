@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ACID coffee",
+        "下载速度": "73.15 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4799951358",
+        "美式咖啡": "30元",
+        "评论 (@hackettyu)": "空间：面积非常大，办公看书都可以，桌子有不同高度的，有三只不可以摸的大猫；咖啡：我喝了一杯手冲热的云南「软妹子」，然后被送了一杯同款冷萃（杯子提前冰好），同款自烘焙的卡杜拉种豆子风味区别很大。我还喝了一杯热坚果风味的美式（店里叫世涛，取名来自精酿啤酒）；其它：店里的书架有一本关于「食品化学」的书",
+        "厕所": "店内有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.398,
+          22.809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Happy duck coffee",
+        "下载速度": "35.8 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4799922271",
+        "美式咖啡": "15元",
+        "评论 (@hackettyu)": "空间：面积不大；咖啡：店里是一台双头辣妈，咖啡很便宜，耶加 SOE 才17元",
+        "厕所": "店内有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.393,
+          22.814
+        ]
+      }
+    }
+  ]
+}

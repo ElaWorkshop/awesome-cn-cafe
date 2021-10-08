@@ -41,6 +41,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [玉林 (1)](yulin.geojson)
 * [佛山 (3)](foshan.geojson)
 * [保定 (1)](baoding.geojson)
+* [南宁 (2)](nanning.geojson)
 
 ## 贡献
 
