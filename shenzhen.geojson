@@ -530,6 +530,63 @@
           22.537
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "622BEER",
+        "下载速度": "27.3 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4866503624",
+        "评论 (@hackettyu)": "日咖夜酒，早C晚A；中等大小；有精酿啤酒，有特调咖啡；有卫生间；社区咖啡",
+        "参考价格": "美式18元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.043,
+          22.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "目涩咖啡 MUSE COFFEE",
+        "下载速度": "38.4 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4876370171",
+        "评论 (@hackettyu)": "目涩（潮汕话）；中等大小；有卫生间；社区咖啡",
+        "参考价格": "美式20元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Flee 城市出逃",
+        "下载速度": "244 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4886572671",
+        "评论 (@hackettyu)": "在一个别墅小区里面，地方较大，有收费的带人工体学椅的自习室，有卫生间；有精酿啤酒，易拉罐装冰滴；店里有一台黑胶机",
+        "参考价格": "云南保山 SOE 美式28元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.131,
+          22.555
+        ]
+      }
     }
   ]
 }
