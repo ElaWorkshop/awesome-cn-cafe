@@ -587,6 +587,44 @@
           22.555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "好运到咖啡士多",
+        "下载速度": "296 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4905498976",
+        "评论 (@hackettyu)": "空间：有两层，有卫生间；只点了一杯果丁丁手冲，咖啡师会提供一部分豆粉用于增加嗅觉体验；店面好运到双关老友记里的 how you doing（HYD）",
+        "参考价格": "美式20元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.094,
+          22.560
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "集福咖啡",
+        "下载速度": "261 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4905535342",
+        "评论 (@hackettyu)": "空间：店面很小；点了一杯草莓香味的豆子的手冲咖啡，很明显的草莓香气，提供了四个不同杯子用于评鉴；店铺有一个打卡集赞活动，有意思的地方是盖章----用一个NFC印章盖在手机屏幕上----集赞，给人一种实体感",
+        "参考价格": "拼配美式38元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.091,
+          22.564
+        ]
+      }
     }
   ]
 }
