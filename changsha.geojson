@@ -95,6 +95,25 @@
           28.130002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Tims Hortons",
+        "下载速度": "2.90 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12654027701",
+        "参考价格": "中杯拿铁24，鸡肉贝果20，火腿可颂12",
+        "评论 (@lhysdl)": "贝果不错，咖啡一般",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.011457,
+          28.113958
+        ]
+      }
     }
   ]
 }
