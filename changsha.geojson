@@ -114,6 +114,25 @@
           28.113958
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "LAVAZZA",
+        "下载速度": "2.69 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12665307093",
+        "参考价格": "浓郁拿铁中杯32",
+        "评论 (@lhysdl)": "浓郁拿铁标准杯是三倍浓缩，单凭kafa豆偏酸",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.009451,
+          28.115905
+        ]
+      }
     }
   ]
 }
