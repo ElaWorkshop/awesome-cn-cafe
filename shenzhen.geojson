@@ -625,6 +625,44 @@
           22.564
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "安可咖啡 encore coffee",
+        "下载速度": "15.6 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4966325503",
+        "评论 (@hackettyu)": "空间：店面很小，但是空气特别好；咖啡：店里意式咖啡有危地马拉深烘和中烘的花果香SOE；其它：店里有精酿啤酒、老板自己喝的很多威士忌以及关于咖啡的书籍",
+        "参考价格": "拼配美式20元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.124,
+          22.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "春树咖啡 haruki coffee",
+        "下载速度": "21.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4925872002",
+        "评论 (@hackettyu)": "空间：有两层，环境很好；咖啡：店里的有相对少见的深烘咖啡",
+        "参考价格": "日式深烘58元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.931,
+          22.521
+        ]
+      }
     }
   ]
 }
