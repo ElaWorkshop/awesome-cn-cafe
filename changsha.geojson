@@ -133,6 +133,25 @@
           28.115905
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "NORTHMUG",
+        "下载速度": "70.31 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12725202875",
+        "参考价格": "拿铁25",
+        "评论 (@lhysdl)": "有卖10块钱的热红酒，改天不开车来尝尝",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.974487,
+          28.192481
+        ]
+      }
     }
   ]
 }
