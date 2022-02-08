@@ -152,6 +152,25 @@
           28.192481
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "矢量咖啡",
+        "下载速度": "87.59 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12730138160",
+        "参考价格": "拿铁39",
+        "评论 (@lhysdl)": "在西西弗书店里，比较贵，口味一般，拿铁奶泡太厚了，算是看书座位的门票吧",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.013795,
+          28.114385
+        ]
+      }
     }
   ]
 }
