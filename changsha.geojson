@@ -171,6 +171,25 @@
           28.114385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "WinTer cafe",
+        "下载速度": "46.50 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12734760647",
+        "参考价格": "拿铁25",
+        "评论 (@lhysdl)": "工业风，wifi密码有点意思",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.986367,
+          28.113274
+        ]
+      }
     }
   ]
 }
