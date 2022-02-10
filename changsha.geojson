@@ -190,6 +190,25 @@
           28.113274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "COLORIUM COFFEE",
+        "下载速度": "360.00 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12735880597",
+        "参考价格": "鸳鸯拿铁22",
+        "评论 (@lhysdl)": "价格实惠，还送饼干，口味也不错，网速快的惊人，适合常来",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.990326,
+          28.131259
+        ]
+      }
     }
   ]
 }
