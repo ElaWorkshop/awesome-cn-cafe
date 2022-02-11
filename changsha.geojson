@@ -209,6 +209,44 @@
           28.131259
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "RESTART COFFEE",
+        "下载速度": "452.90 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12745342977",
+        "参考价格": "拿铁标准杯19",
+        "评论 (@lhysdl)": "每天8:30就开门的临街咖啡馆，很小很温馨，价格实惠，网速超快的。",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.991808,
+          28.117937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "陆光cafe",
+        "下载速度": "32.34 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/12746423700",
+        "参考价格": "dirty 28元",
+        "评论 (@lhysdl)": "黄兴广场旁边巷子里，门口覆盖了茂密的绿植",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.972403,
+          28.192868
+        ]
+      }
     }
   ]
 }
