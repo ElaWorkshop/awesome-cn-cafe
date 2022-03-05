@@ -663,6 +663,43 @@
           22.521
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "PRE 咖啡",
+        "下载速度": "227 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4999416648",
+        "评论 (@hackettyu)": "空间：店面不大；咖啡：主要是做特调咖啡为主",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.043,
+          22.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "ROR COFFEE",
+        "下载速度": "221 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4999416648",
+        "评论 (@hackettyu)": "空间：店面挺大的，有户外的有室内的，在一个老化工厂里面；咖啡：豆子全是自己烘焙的",
+        "参考价格": "茉莉SOE美式25元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.121,
+          22.578
+        ]
+      }
     }
   ]
 }

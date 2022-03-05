@@ -40,6 +40,46 @@
           22.814
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "大羚咖啡 ｜ 制在艺舍",
+        "下载速度": "15.6 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/4966325503",
+        "SOE 美式咖啡": "23元",
+        "评论 (@hackettyu)": "空间：面积不大，有卫生间；咖啡：美式上面有一层类似琥珀的油脂",
+        "厕所": "店内有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.124,
+          22.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "STRONG COFFEE 唯微文文咖啡商店（德瑞店）",
+        "下载速度": "31.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/4982974350",
+        "美式咖啡": "18元",
+        "评论 (@hackettyu)": "空间：面积不大，里面像一个商店；咖啡：传统的深烘美式",
+        "厕所": "店内有",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.367,
+          22.811
+        ]
+      }
     }
   ]
 }
