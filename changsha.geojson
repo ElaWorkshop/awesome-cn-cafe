@@ -247,6 +247,25 @@
           28.192868
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "德思勤24小时书店",
+        "下载速度": "0.37 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/13115112959",
+        "参考价格": "拿铁 35元",
+        "评论 (@lhysdl)": "24小时书店，环境和氛围都不错，饮品略贵但不点也可以，网速有点慢",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.005947,
+          28.115485
+        ]
+      }
     }
   ]
 }
