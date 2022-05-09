@@ -1650,11 +1650,12 @@
       "type": "Feature",
       "properties": {
         "名称": "TOSCA COFFEE",
+        "营业状态": "停业",
         "下载速度": "39.78 Mbps",
         "Speedtest 链接": "http://www.speedtest.net/my-result/i/2296063147",
         "评论 (@crispgm)": "藏在写字楼内，很有艺术气氛，网速惊人。除手冲外，价格正常。",
         "参考价格": "30 元",
-        "marker-color": "#50C240",
+        "marker-color": "#BEBEBE",
         "marker-symbol": "cafe"
       },
       "geometry": {
