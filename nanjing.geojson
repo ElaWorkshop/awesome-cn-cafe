@@ -95,6 +95,25 @@
           32.042721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "蓝湾咖啡（云密城店）",
+        "下载速度": "31.15 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/i/5112923145",
+        "参考价格": "30-40 元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe",
+        "评论 (@ciiiii)": "中午吃饭的人会比较多，其余时间比较安静"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.749776,
+          31.969316
+        ]
+      }
     }
   ]
 }
