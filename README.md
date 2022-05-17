@@ -14,7 +14,8 @@
 ## 咖啡馆列表
 
 你可以通过 web app 查看所在城市的咖啡馆：[https://cafe-cn.netlify.app](https://cafe-cn.netlify.app)。  
-Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu/awesome-cn-cafe-web
+Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu/awesome-cn-cafe-web  
+VSCode Extension 由 [@YRM](https://github.com/yrming) 维护：https://github.com/yrming/vscode-awesome-cn-cafe
 
 或直接点击下面的链接在 GitHub 上查看。
 
