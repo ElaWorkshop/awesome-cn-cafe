@@ -36,7 +36,7 @@ VSCode Extension 由 [@YRM](https://github.com/yrming) 维护：https://github.c
 * [沈阳 (1)](shenyang.geojson)
 * [哈尔滨 (1)](harbin.geojson)
 * [大连 (3)](dalian.geojson)
-* [长沙 (14)](changsha.geojson)
+* [长沙 (15)](changsha.geojson)
 * [西昌 (1)](xichang.geojson)
 * [重庆 (3)](chongqing.geojson)
 * [玉林 (1)](yulin.geojson)

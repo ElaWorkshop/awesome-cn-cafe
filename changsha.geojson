@@ -266,6 +266,25 @@
           28.115485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "山君咖啡",
+        "下载速度": "92.83 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/d/440788339",
+        "参考价格": "精品拿铁35元，普通拿铁25",
+        "评论 (@lhysdl)": "精品豆子很香，咖啡品质很好",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.99292,
+          28.177544
+        ]
+      }
     }
   ]
 }
