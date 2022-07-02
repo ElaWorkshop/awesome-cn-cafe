@@ -1442,6 +1442,26 @@
           31.2
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（殷高西路店）",
+        "下载速度": "29.3 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/result/d/443959337",
+        "评论（@shijieyao）": "大部分桌子都比较低，适合放电脑的桌子只有三张和一个靠窗吧台且这两个地方都没有电源",
+        "厕所": "未知",
+        "电源": "未知",
+        "marker-symbol": "cafe",
+        "marker-color": "#50C240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.468,
+          31.322
+        ]
+      }
     }
   ]
 }
