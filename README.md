@@ -20,7 +20,7 @@ VSCode Extension 由 [@YRM](https://github.com/yrming) 维护：https://github.c
 或直接点击下面的链接在 GitHub 上查看。
 
 * [北京 (139)](beijing.geojson)
-* [上海 (74)](shanghai.geojson)
+* [上海 (75)](shanghai.geojson)
 * [南京 (6)](nanjing.geojson)
 * [武汉 (5)](wuhan.geojson)
 * [杭州 (13)](hangzhou.geojson)
