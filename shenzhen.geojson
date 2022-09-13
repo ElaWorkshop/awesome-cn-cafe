@@ -700,6 +700,154 @@
           22.578
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "新手咖啡",
+        "下载速度": "25.1 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5021908998",
+        "评论 (@hackettyu)": "空间：店面不大，里面有一些书，像个小书店；咖啡：点的 SOE 花香很足",
+        "参考价格": "茉莉SOE美式25元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.102,
+          22.549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "豆舞咖啡（白石龙店）",
+        "下载速度": "6.93 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5068638415",
+        "评论 (@hackettyu)": "空间：店面挺大的，有户外的有室内的，氛围很好，有卫生间；咖啡：豆子全是自己烘焙的，品控好",
+        "参考价格": "冰美式25元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.040,
+          22.608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "众人咖啡",
+        "下载速度": "186 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5098786726",
+        "评论 (@hackettyu)": "空间：店面不大；咖啡：咖啡豆很多，有多位咖啡师",
+        "参考价格": "SOE美式25元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.127,
+          22.558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "安文咖啡",
+        "下载速度": "112 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5101533321",
+        "评论 (@hackettyu)": "空间：店面挺大的，有两层，有卫生间；咖啡：豆子很多",
+        "参考价格": "SOE美式25元",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.098,
+          22.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "普通咖啡",
+        "下载速度": "14.6 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5101533321",
+        "评论 (@hackettyu)": "空间：店面不大，有卫生间；咖啡：豆子巨多，而且很多国外豆",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.096,
+          22.556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "积品咖啡",
+        "下载速度": "5.14 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5140238187",
+        "评论 (@hackettyu)": "空间：店面不大，有卫生间；咖啡：手冲咖啡好喝",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.096,
+          22.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Yoka coffee",
+        "下载速度": "32.3 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5140290371",
+        "评论 (@hackettyu)": "空间：店面不大",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.099,
+          22.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Echocolate",
+        "下载速度": "56.0 Mbps",
+        "Speedtest 链接": "https://www.speedtest.net/my-result/i/5234211846",
+        "评论 (@hackettyu)": "空间：店面挺大的，在天台上，有户外和室内，附近有卫生间；咖啡：有咖啡、手工巧克力以及鸡尾酒",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.100,
+          22.564
+        ]
+      }
     }
   ]
 }
