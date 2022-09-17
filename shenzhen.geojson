@@ -728,13 +728,13 @@
         "Speedtest 链接": "https://www.speedtest.net/my-result/i/5068638415",
         "评论 (@hackettyu)": "空间：店面挺大的，有户外的有室内的，氛围很好，有卫生间；咖啡：豆子全是自己烘焙的，品控好",
         "参考价格": "冰美式25元",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.040,
+          114.04,
           22.608
         ]
       }
@@ -802,7 +802,7 @@
         "下载速度": "5.14 Mbps",
         "Speedtest 链接": "https://www.speedtest.net/my-result/i/5140238187",
         "评论 (@hackettyu)": "空间：店面不大，有卫生间；咖啡：手冲咖啡好喝",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -844,7 +844,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.100,
+          114.1,
           22.564
         ]
       }
